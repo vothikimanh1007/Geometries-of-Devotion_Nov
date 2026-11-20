@@ -1,0 +1,29 @@
+{
+  "systemNumber": "O145807",
+  "accessionNumber": "1381:1, 2-1874",
+  "objectType": "Sculpture of Buddha",
+  "availableToBook": false,
+  "_currentLocation": {
+    "id": "THES49797",
+    "displayName": "The Himalayas and South-East Asia, Room 47a",
+    "type": "display",
+    "site": "VA",
+    "onDisplay": true,
+    "detail": {
+      "free": "",
+      "case": "CA002",
+      "shelf": "",
+      "box": ""
+    }
+  },
+  "_primaryTitle": "Buddha Sakyamuni",
+  "_primaryMaker": {
+    "name": "Unknown",
+    "association": ""
+  },
+  "_primaryImageId": null,
+  "_primaryDate": "19th century",
+  "_primaryPlace": "Thailand",
+  "_warningTypes": [],
+  "_images": {}
+}

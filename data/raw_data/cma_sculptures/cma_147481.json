@@ -1,0 +1,146 @@
+{
+  "id": 147481,
+  "accession_number": "1973.214",
+  "share_license_status": "CC0",
+  "tombstone": "Seated Buddha, 400–430 CE. Northern India, Uttar Pradesh, Mathura, Gupta period (c. 320-550). Red mottled sandstone; overall: 82 cm (32 5/16 in.). The Cleveland Museum of Art, Leonard C. Hanna Jr. Fund, 1973.214",
+  "current_location": null,
+  "title": "Seated Buddha",
+  "creation_date": "400–430 CE",
+  "creation_date_earliest": 400,
+  "creation_date_latest": 430,
+  "artists_tags": [],
+  "culture": [
+    "Northern India, Uttar Pradesh, Mathura, Gupta period (c. 320-550)"
+  ],
+  "technique": "red mottled sandstone",
+  "support_materials": [],
+  "department": "Indian and Southeast Asian Art",
+  "collection": "Indian Art",
+  "type": "Sculpture",
+  "measurements": "Overall: 82 cm (32 5/16 in.)",
+  "dimensions": {
+    "overall": {
+      "height": 0.82,
+      "height_inch": 32,
+      "height_inch_fraction": 0.3125
+    }
+  },
+  "state_of_the_work": null,
+  "edition_of_the_work": null,
+  "copyright": null,
+  "inscriptions": [],
+  "exhibitions": {
+    "current": [
+      {
+        "id": 453007,
+        "title": "Julie Mehretu: Portals",
+        "description": "<i>Julie Mehretu: Portals</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (July 16-November 13, 2022).",
+        "opening_date": "2022-07-16T04:00:00"
+      }
+    ],
+    "legacy": []
+  },
+  "provenance": [
+    {
+      "description": "(William H. Wolff [1906–1991], New York, NY, sold to the Cleveland Museum of Art)",
+      "citations": [],
+      "footnotes": null,
+      "date": "?–1973",
+      "sortorder": 1
+    },
+    {
+      "description": "The Cleveland Museum of Art, Cleveland, OH",
+      "citations": [],
+      "footnotes": null,
+      "date": "1973–",
+      "sortorder": 2
+    }
+  ],
+  "find_spot": null,
+  "related_works": [],
+  "former_accession_numbers": [],
+  "did_you_know": null,
+  "early_education_description": null,
+  "artlens_description": null,
+  "description": "This rare depiction of a seated Buddha from Mathura, datable to the first half of the 5th century, displays a new vision for the form of the Buddha, in comparison to the way he was depicted during the preceding Kushan period. His appearance remains otherworldly, but his form has relaxed and the cloth softened, as seen in the way the cascading hem falls from the arm over his left leg. Traces survive of the rearing griffins of his throne and his elegant halo, which was filled with scrolling vegetation-typical features of Buddha images from this period.",
+  "external_resources": {
+    "wikidata": [
+      "https://www.wikidata.org/wiki/Q79926630"
+    ],
+    "internet_archive": [
+      "https://archive.org/details/clevelandart-1973.214-seated-buddha"
+    ]
+  },
+  "citations": [
+    {
+      "citation": "Liebert, Emily. “Julie Mehretu: Portals.” <em>Cleveland Art: Cleveland Museum of Art Members Magazine </em>62, no. 2 (2022): 12-13.",
+      "page_number": "Reproduced and Mentioned: P. 12.",
+      "url": ""
+    },
+    {
+      "citation": "\"The Year in Review for 1973.\" <em>The Bulletin of the Cleveland Museum of Art</em> 61, no. 2 (1974): 31–78.",
+      "page_number": "Mentioned: no. 195, pp. 58 and 79; Reproduced: no. 195, p. 59",
+      "url": "https://www.jstor.org/stable/25152513"
+    },
+    {
+      "citation": "Czuma, Stanislaw. “Mathura Sculpture in the Cleveland Museum Collection.” <em>The Bulletin of the Cleveland Museum of Art</em>, vol. 64, no. 3, 1977, pp. 83–114.",
+      "page_number": "Mentioned and Reproduced: pp. 100-101, fig. 28",
+      "url": "www.jstor.org/stable/25152680"
+    },
+    {
+      "citation": "The Cleveland Museum of Art. <em>Handbook of the Cleveland Museum of Art/1978</em>. Cleveland, OH: The Cleveland Museum of Art, 1978.",
+      "page_number": "Reproduced: p. 290",
+      "url": "https://archive.org/details/CMAHandbook1978/page/n310"
+    }
+  ],
+  "url": "https://clevelandart.org/art/1973.214",
+  "images": {
+    "annotation": null,
+    "web": {
+      "url": "https://openaccess-cdn.clevelandart.org/1973.214/1973.214_web.jpg",
+      "width": "886",
+      "height": "893",
+      "filesize": "114701",
+      "filename": "1973.214_web.jpg"
+    },
+    "print": {
+      "url": "https://openaccess-cdn.clevelandart.org/1973.214/1973.214_print.jpg",
+      "width": "3375",
+      "height": "3400",
+      "filesize": "1494293",
+      "filename": "1973.214_print.jpg"
+    },
+    "full": {
+      "url": "https://openaccess-cdn.clevelandart.org/1973.214/1973.214_full.tif",
+      "width": "5793",
+      "height": "5835",
+      "filesize": "101428536",
+      "filename": "1973.214_full.tif"
+    }
+  },
+  "alternate_images": [],
+  "creditline": "Leonard C. Hanna Jr. Fund",
+  "image_credit": null,
+  "sketchfab_id": null,
+  "sketchfab_url": null,
+  "gallery_donor_text": null,
+  "athena_id": 147481,
+  "creators": [],
+  "legal_status": "accessioned",
+  "accession_date": "1973-12-28T00:00:00",
+  "sortable_date": 400,
+  "date_added_to_oa": null,
+  "date_text": "400–430 CE",
+  "collapse_artists": false,
+  "on_loan": false,
+  "recently_acquired": false,
+  "record_type": "object",
+  "conservation_statement": null,
+  "has_conservation_images": false,
+  "cover_accession_number": null,
+  "is_nazi_era_provenance": false,
+  "impression": null,
+  "alternate_titles": [],
+  "is_highlight": false,
+  "updated_at": "2026-05-29 07:33:42.477000"
+}

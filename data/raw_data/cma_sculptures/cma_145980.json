@@ -1,0 +1,201 @@
+{
+  "id": 145980,
+  "accession_number": "1971.18",
+  "share_license_status": "CC0",
+  "tombstone": "Temptation of Buddha by the Evil Forces of Mara, 700s. Northern India, Kashmir, 8th century. Ivory with gold and polychrome; overall: 13 x 8.9 cm (5 1/8 x 3 1/2 in.). The Cleveland Museum of Art, Purchase from the J. H. Wade Fund, 1971.18",
+  "current_location": "237 Himalayan",
+  "title": "Temptation of Buddha by the Evil Forces of Mara",
+  "creation_date": "700s",
+  "creation_date_earliest": 700,
+  "creation_date_latest": 799,
+  "artists_tags": [],
+  "culture": [
+    "Northern India, Kashmir, 8th century"
+  ],
+  "technique": "ivory with gold and polychrome",
+  "support_materials": [],
+  "department": "Indian and Southeast Asian Art",
+  "collection": "Indian Art",
+  "type": "Ivory",
+  "measurements": "Overall: 13 x 8.9 cm (5 1/8 x 3 1/2 in.)",
+  "dimensions": {
+    "overall": {
+      "height": 0.13,
+      "height_inch": 5,
+      "height_inch_fraction": 0.125,
+      "width": 0.089,
+      "width_inch": 3,
+      "width_inch_fraction": 0.5
+    }
+  },
+  "state_of_the_work": null,
+  "edition_of_the_work": null,
+  "copyright": null,
+  "inscriptions": [],
+  "exhibitions": {
+    "current": [
+      {
+        "id": 309885,
+        "title": "Sacred India",
+        "description": "<i>Sacred India</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (November 5, 1985-January 12, 1986).",
+        "opening_date": "1985-11-05T05:00:00"
+      }
+    ],
+    "legacy": [
+      {
+        "description": "<em>Main Asian Rotation (Gallery 245)</em>. The Cleveland Museum of Art, Cleveland, OH (July 2, 2014–August 13, 2015).",
+        "opening_date": "2014-07-02T04:00:00Z"
+      },
+      {
+        "description": "<em>Himalayan Gallery (236)</em>. The Cleveland Museum of Art, Cleveland, OH (November 24, 2015–present).",
+        "opening_date": "2015-11-24T05:00:00Z"
+      }
+    ]
+  },
+  "provenance": [
+    {
+      "description": "(N. V. Hammer, Inc., New York, NY, sold to the Cleveland Museum of Art)",
+      "citations": [],
+      "footnotes": null,
+      "date": "?–1971",
+      "sortorder": 1
+    },
+    {
+      "description": "The Cleveland Museum of Art, Cleveland, OH",
+      "citations": [],
+      "footnotes": null,
+      "date": "1971–",
+      "sortorder": 2
+    }
+  ],
+  "find_spot": null,
+  "related_works": [],
+  "former_accession_numbers": [],
+  "did_you_know": null,
+  "early_education_description": null,
+  "artlens_description": null,
+  "description": "Intimate shrines for personal meditation practices contained scenes from the life of the Buddha. In an episode just prior to his achievement of enlightenment, the Buddha sat in meditation and faced personifications of the final obstacles. In this exquisite rendering derived from the Greco-Roman realism of Gandharan art, demons attack him in an attempt to scare him off the path. Seductive women do their best to distract him. He remains placid and firm in his conviction that these beings have no inherent reality, and he renders them powerless.",
+  "external_resources": {
+    "wikidata": [
+      "https://www.wikidata.org/wiki/Q60751714"
+    ],
+    "internet_archive": [
+      "https://archive.org/details/clevelandart-1971.18-temptation-of-buddha"
+    ]
+  },
+  "citations": [
+    {
+      "citation": "Tardy. <em>Les ivoires; évolution décorative du Ier siècle à nos jours</em>. Paris: Tardy, 1972.",
+      "page_number": "Mentioned and Reproduced: p. 188, fig. 2",
+      "url": null
+    },
+    {
+      "citation": "Lee, Sherman E. \"The Year in Review for 1971.\" <em>The Bulletin of the Cleveland Museum of Art</em> 59, no. 1 (1972): 3-46.",
+      "page_number": "Mentioned: no. 139, p. 46; Reproduced: no. 139, p. 25",
+      "url": "http://www.jstor.org/stable/25152412"
+    },
+    {
+      "citation": "The Cleveland Museum of Art. <em>Handbook of the Cleveland Museum of Art/1978</em>. Cleveland, OH: The Cleveland Museum of Art, 1978.",
+      "page_number": "Reproduced: p. 293",
+      "url": "https://archive.org/details/CMAHandbook1978/page/n313"
+    },
+    {
+      "citation": "Pal, Pratapaditya, and Robert L. Brown. <em>Light of Asia: Buddha Sakyamuni in Asian Art</em>. Los Angeles, CA: Los Angeles County Museum of Art, 1984.",
+      "page_number": "Mentioned and Reproduced: cat. no. 44, p. 102",
+      "url": ""
+    },
+    {
+      "citation": "Chandra, Pramod. <em>The Sculpture of India, 3000 B.C. to 1300 A.D.: [Exhibition]</em>. Washington, DC: National Gallery of Art, 1985.",
+      "page_number": "Mentioned and Reproduced: cat. no. 81, p. 172",
+      "url": ""
+    },
+    {
+      "citation": "Czuma, Stanislaw. \"A Unique Addition to the School of Kashmiri Ivories.\" <em>The Bulletin of the Cleveland Museum of Art</em> 75, no. 8 (October 1988): 298–319.",
+      "page_number": "Mentioned and Reproduced: p. 306, figs. 10 and 11; p. 308, fig. 13",
+      "url": "https://www.jstor.org/stable/25160044"
+    },
+    {
+      "citation": "Czuma, Stanislaw J. \"Ivory Sculpture.\" In <em>Art and Architecture of Ancient Kashmir</em>. Pratapaditya Pal, ed. pp. 57–76. Bombay: Marg Publications, 1989.",
+      "page_number": "",
+      "url": ""
+    },
+    {
+      "citation": "Heirman, Ann. \"La Vie de Siddhartha Gautama: Le Bouddha Sakyamuni.\" In <em>L’Expérience du Sensible</em>. Edited by Lyce Jankowski and Lara Bauden. [Morlanwelz, Belgium]: Musée Royal de Mariemont, 2024.",
+      "page_number": "Mentioned and reproduced: p. 88-89, fig. 3",
+      "url": ""
+    }
+  ],
+  "url": "https://clevelandart.org/art/1971.18",
+  "images": {
+    "annotation": null,
+    "web": {
+      "url": "https://openaccess-cdn.clevelandart.org/1971.18/1971.18_web.jpg",
+      "width": "817",
+      "height": "893",
+      "filesize": "107168",
+      "filename": "1971.18_web.jpg"
+    },
+    "print": {
+      "url": "https://openaccess-cdn.clevelandart.org/1971.18/1971.18_print.jpg",
+      "width": "3112",
+      "height": "3400",
+      "filesize": "1120252",
+      "filename": "1971.18_print.jpg"
+    },
+    "full": {
+      "url": "https://openaccess-cdn.clevelandart.org/1971.18/1971.18_full.tif",
+      "width": "3970",
+      "height": "4337",
+      "filesize": "51687360",
+      "filename": "1971.18_full.tif"
+    }
+  },
+  "alternate_images": [
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1971.18/1971.18_alt0_web.jpg",
+        "width": "820",
+        "height": "893",
+        "filesize": "81091"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1971.18/1971.18_alt0_print.jpg",
+        "width": "3121",
+        "height": "3400",
+        "filesize": "991194"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1971.18/1971.18_alt0_full.tif",
+        "width": "4125",
+        "height": "4493",
+        "filesize": "55632572"
+      },
+      "date_created": "2012-07-16T12:27:59",
+      "annotation": ""
+    }
+  ],
+  "creditline": "Purchase from the J. H. Wade Fund",
+  "image_credit": null,
+  "sketchfab_id": null,
+  "sketchfab_url": null,
+  "gallery_donor_text": "Harriett Warm and Dick Blum Gallery",
+  "athena_id": 145980,
+  "creators": [],
+  "legal_status": "accessioned",
+  "accession_date": "1971-02-23T00:00:00",
+  "sortable_date": 700,
+  "date_added_to_oa": null,
+  "date_text": "700s",
+  "collapse_artists": false,
+  "on_loan": false,
+  "recently_acquired": false,
+  "record_type": "object",
+  "conservation_statement": null,
+  "has_conservation_images": false,
+  "cover_accession_number": null,
+  "is_nazi_era_provenance": false,
+  "impression": null,
+  "alternate_titles": [],
+  "is_highlight": false,
+  "updated_at": "2026-10-01 17:52:48.641000"
+}

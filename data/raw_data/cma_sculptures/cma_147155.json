@@ -1,0 +1,338 @@
+{
+  "id": 147155,
+  "accession_number": "1973.105",
+  "share_license_status": "CC0",
+  "tombstone": "Zaō Gongen (蔵王権現像), 1200s. Japan, Kamakura period (1185–1333). Wood; average: 106.7 cm (42 in.). The Cleveland Museum of Art, Purchase from the J. H. Wade Fund, 1973.105",
+  "current_location": "235B Japanese",
+  "title": "Zaō Gongen",
+  "title_in_original_language": "蔵王権現像",
+  "creation_date": "1200s",
+  "creation_date_earliest": 1200,
+  "creation_date_latest": 1299,
+  "artists_tags": [],
+  "culture": [
+    "Japan, Kamakura period (1185–1333)"
+  ],
+  "technique": "wood",
+  "support_materials": [],
+  "department": "Japanese Art",
+  "collection": "Japanese Art",
+  "type": "Sculpture",
+  "measurements": "Average: 106.7 cm (42 in.)",
+  "dimensions": {
+    "average": {
+      "height": 1.067,
+      "height_inch": 42,
+      "height_inch_fraction": 0.0
+    }
+  },
+  "state_of_the_work": null,
+  "edition_of_the_work": null,
+  "copyright": null,
+  "inscriptions": [],
+  "exhibitions": {
+    "current": [
+      {
+        "id": 302145,
+        "title": "Traditions and Revisions: Themes from the History of Sculpture",
+        "description": "<i>Traditions and Revisions: Themes from the History of Sculpture</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (September 24-November 16, 1975).",
+        "opening_date": "1975-09-24T04:00:00"
+      },
+      {
+        "id": 311446,
+        "title": "Asian Autumn: Masterpieces from the Collection",
+        "description": "<i>Asian Autumn: Masterpieces from the Collection</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (September 17, 1991-January 5, 1992).",
+        "opening_date": "1991-09-17T04:00:00"
+      },
+      {
+        "id": 222773,
+        "title": "The World of Enno-Gyoja and Shugendoh:  Secret Treasures of Mountain Asceticism",
+        "description": "<i>The World of Enno-Gyoja and Shugendoh:  Secret Treasures of Mountain Asceticism</i>. Tobu Museum of Art, Tokyo, Japan (September 11-October 17, 1999); Osaka Municipal Museum of Art, Osaka, Japan (organizer) (November 2-December 5, 1999).",
+        "opening_date": "1999-09-11T00:00:00"
+      },
+      {
+        "id": 309312,
+        "title": "Shinto: Discovering the Divine in Japanese Art 神道－日本美術における神性の発見",
+        "description": "<i>Shinto: Discovering the Divine in Japanese Art 神道－日本美術における神性の発見</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (April 9-June 30, 2019).",
+        "opening_date": "2019-04-09T04:00:00"
+      },
+      {
+        "id": 698362,
+        "title": "Highlights of Japanese Art",
+        "description": "<i>Highlights of Japanese Art</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (December 7, 2025-June 14, 2026).",
+        "opening_date": "2025-12-07T05:00:00"
+      }
+    ],
+    "legacy": [
+      {
+        "description": "<em>Year in Review 1973</em>. The Cleveland Museum of Art, Cleveland, OH (January 30, 1974-March 16, 1974).",
+        "opening_date": "1974-01-30T00:00:00"
+      },
+      {
+        "description": "<em>One Thousand Years of Japanese Art (650-1650) from The Cleveland Museum of Art</em>. Japan House Gallery, New York, NY (March 19-May 17, 1981).",
+        "opening_date": "1981-03-19T00:00:00"
+      }
+    ]
+  },
+  "provenance": [
+    {
+      "description": "(Setsu Gatodo Co., Ltd., Tokyo, Japan, sold to the Cleveland Museum of Art)",
+      "citations": [],
+      "footnotes": null,
+      "date": "?–1973",
+      "sortorder": 1
+    },
+    {
+      "description": "The Cleveland Museum of Art, Cleveland, OH",
+      "citations": [],
+      "footnotes": null,
+      "date": "1973–",
+      "sortorder": 2
+    }
+  ],
+  "find_spot": null,
+  "related_works": [],
+  "former_accession_numbers": [],
+  "did_you_know": "Zaō Gongen wears the pelt of a large feline, the face of which is near his knee.",
+  "early_education_description": null,
+  "artlens_description": null,
+  "description": "Zaō Gongen is the guardian deity of Mount Kinpu in Yoshino south of Nara. Zaō appeared at the behest of En no Gyōja, who prayed for a powerful protector of the mountain. The deity was described as a combined manifestation of the Buddha Shakyamuni, Thousand-Armed Kannon, and Miroku. These three deities were viewed as the past, present, and future protectors of the world. Zaō’s appearance derives from portrayals of fierce Buddhist deities.",
+  "external_resources": {
+    "wikidata": [
+      "https://www.wikidata.org/wiki/Q79926239"
+    ],
+    "internet_archive": [
+      "https://archive.org/details/clevelandart-1973.105-zao-gongen"
+    ]
+  },
+  "citations": [
+    {
+      "citation": "Ikawa, Kazuko. \"Statues of Zao Gongen and Kongo Doji.\" <em>Bijutsu Kenkyu </em>[美術硏究 = The journal of art studies], no. 252, May 1967.",
+      "page_number": "Reproduced:  pl. Ic a",
+      "url": ""
+    },
+    {
+      "citation": "“The Year in Review for 1973.” <em>The Bulletin of the Cleveland Museum of Art</em> 61, no. 2 (1974): 31–79.",
+      "page_number": "Mentioned: no. 179, pp. 31 and 79; Reproduced: no. 179, p. 69",
+      "url": "https://www.jstor.org/stable/25152513"
+    },
+    {
+      "citation": "The Cleveland Museum of Art. <em>Handbook of the Cleveland Museum of Art/1978</em>. Cleveland, OH: The Cleveland Museum of Art, 1978.",
+      "page_number": "Reproduced: p. 372",
+      "url": "https://archive.org/details/CMAHandbook1978/page/n392"
+    },
+    {
+      "citation": "Yamane, Yūzō 山根有三, Shūjirō Shimada 島田修二郎, and Terukazu Akiyama 秋山光和. <em>Zaigai Nihon no shihō</em> [在外日本の至宝 = Japanese Art: Selections from Western Collections, vol. 8 ]. Tōkyō: Mainichi Shinbunsha, 1979.",
+      "page_number": "Mentioned and Reproduced: no. 90, p. 152, color pl. 90",
+      "url": ""
+    },
+    {
+      "citation": "Shimizu, Zenzo. \"Japanese Sculpture in America and Canada.\" <em>Ars Buddhica</em>, no. 126 (September 1979), part I, pp. 67–88.",
+      "page_number": "Reproduced: fig. 22, p. 73",
+      "url": ""
+    },
+    {
+      "citation": "Lee, Sherman E., Michael R. Cunningham, and Ursula Korneitchouk. <em>One Thousand Years of Japanese Art (650-1650): From the Cleveland Museum of Art: Catalogue</em>. New York: Japan Society, 1981.",
+      "page_number": "Mentioned and reproduced: pp. 28–29, no. 10",
+      "url": ""
+    },
+    {
+      "citation": "<em>Hijiri to inja: sansui ni kokoro o sumasu hitobito: tokubetsuten</em> [聖と隠者 : 山水に心を澄ます人々 : 特别展 = Saints and hermits : people in serenity deep in nature: special exhibition]. Nara: Nara Kokuritsu Hakubutsukan, [Heisei 11] 1999.",
+      "page_number": "",
+      "url": ""
+    },
+    {
+      "citation": "Ōsaka Shiritsu Bijutsukan, and Tōbu Bijutsukan. <em>En no gyōja to shugendō no sekai: sangaku shinkō no hihō: En no gyōja Shinpen Daibosatsu</em> <em>1300-nen onki kinen </em>[役行者と修験道の世界: 山岳信仰の秘宝: 役行者神變大菩薩 1300年遠忌記念 = The World of Enno-Gyoja and Shugendoh: Secret Treasures of Mountain Asceticism]. [Japan]: Mainichi Shinbunsha, 1999.",
+      "page_number": "Reproduced: cat. no. 65, p. 47",
+      "url": null
+    },
+    {
+      "citation": "Vilbar, Sinéad, and Kevin Gray Carr. <em>Shinto: Discovery of the Divine in Japanese Art.</em> Cleveland, OH: Cleveland Museum of Art, 2019.",
+      "page_number": "Mentioned and reproduced: p. 184-185, no. 74",
+      "url": null
+    }
+  ],
+  "url": "https://clevelandart.org/art/1973.105",
+  "images": {
+    "annotation": null,
+    "web": {
+      "url": "https://openaccess-cdn.clevelandart.org/1973.105/1973.105_web.jpg",
+      "width": "644",
+      "height": "900",
+      "filesize": "191138",
+      "filename": "1973.105_web.jpg"
+    },
+    "print": {
+      "url": "https://openaccess-cdn.clevelandart.org/1973.105/1973.105_print.jpg",
+      "width": "2434",
+      "height": "3400",
+      "filesize": "1375366",
+      "filename": "1973.105_print.jpg"
+    },
+    "full": {
+      "url": "https://openaccess-cdn.clevelandart.org/1973.105/1973.105_full.tif",
+      "width": "3972",
+      "height": "5548",
+      "filesize": "66145324",
+      "filename": "1973.105_full.tif"
+    }
+  },
+  "alternate_images": [
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1973.105/1973.105_alt0_web.jpg",
+        "width": "616",
+        "height": "893",
+        "filesize": "48196"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1973.105/1973.105_alt0_print.jpg",
+        "width": "2345",
+        "height": "3400",
+        "filesize": "654495"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1973.105/1973.105_alt0_full.tif",
+        "width": "3754",
+        "height": "5441",
+        "filesize": "61305832"
+      },
+      "date_created": "2012-06-01T13:33:11",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1973.105/1973.105_alt1_web.jpg",
+        "width": "548",
+        "height": "893",
+        "filesize": "36718"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1973.105/1973.105_alt1_print.jpg",
+        "width": "2087",
+        "height": "3400",
+        "filesize": "512564"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1973.105/1973.105_alt1_full.tif",
+        "width": "3354",
+        "height": "5462",
+        "filesize": "54987288"
+      },
+      "date_created": "2012-06-01T13:59:07",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1973.105/1973.105_alt2_web.jpg",
+        "width": "605",
+        "height": "893",
+        "filesize": "46007"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1973.105/1973.105_alt2_print.jpg",
+        "width": "2303",
+        "height": "3400",
+        "filesize": "646066"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1973.105/1973.105_alt2_full.tif",
+        "width": "3718",
+        "height": "5489",
+        "filesize": "61253732"
+      },
+      "date_created": "2012-06-01T14:26:34",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1973.105/1973.105_alt3_web.jpg",
+        "width": "576",
+        "height": "893",
+        "filesize": "39122"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1973.105/1973.105_alt3_print.jpg",
+        "width": "2193",
+        "height": "3400",
+        "filesize": "540836"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1973.105/1973.105_alt3_full.tif",
+        "width": "3501",
+        "height": "5427",
+        "filesize": "57028764"
+      },
+      "date_created": "2012-06-01T14:45:23",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1973.105/1973.105_alt4_web.jpg",
+        "width": "605",
+        "height": "893",
+        "filesize": "50736"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1973.105/1973.105_alt4_print.jpg",
+        "width": "2303",
+        "height": "3400",
+        "filesize": "676136"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1973.105/1973.105_alt4_full.tif",
+        "width": "3677",
+        "height": "5427",
+        "filesize": "59894272"
+      },
+      "date_created": "2012-06-01T14:55:18",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1973.105/1973.105_alt5_web.jpg",
+        "width": "685",
+        "height": "893",
+        "filesize": "60231"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1973.105/1973.105_alt5_print.jpg",
+        "width": "2608",
+        "height": "3400",
+        "filesize": "770021"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1973.105/1973.105_alt5_full.tif",
+        "width": "4736",
+        "height": "6173",
+        "filesize": "87730120"
+      },
+      "date_created": "2012-06-01T15:08:25",
+      "annotation": ""
+    }
+  ],
+  "creditline": "Purchase from the J. H. Wade Fund",
+  "image_credit": null,
+  "sketchfab_id": null,
+  "sketchfab_url": null,
+  "gallery_donor_text": null,
+  "athena_id": 147155,
+  "creators": [],
+  "legal_status": "accessioned",
+  "accession_date": "1973-08-06T00:00:00",
+  "sortable_date": 1200,
+  "date_added_to_oa": null,
+  "date_text": "1200s",
+  "collapse_artists": false,
+  "on_loan": false,
+  "recently_acquired": false,
+  "record_type": "object",
+  "conservation_statement": null,
+  "has_conservation_images": false,
+  "cover_accession_number": null,
+  "is_nazi_era_provenance": false,
+  "impression": null,
+  "alternate_titles": [],
+  "is_highlight": false,
+  "updated_at": "2026-06-17 11:19:44.561000"
+}

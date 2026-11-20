@@ -1,0 +1,6 @@
+Test_Ablation,Scale_Epsilon,Nodes_N,Observed,Null_Mean,Degree_Null_p,MWU_p
+Degree_Null_Bridging,0.7401,508,0.00958,0.006183,0.0,1.4478e-76
+Degree_Null_Global,1.1041,508,0.000271,0.000163,0.001,1.5036e-22
+Geo_Test_1_Museum_in_SEA,0.7401,334,4.2e-05,,,4.8721e-12 (D_min=0.6901)
+Geo_Test_2_Shared_Regions,0.7401,508,0.00958,,,1.4478e-76 (D_min=0.6901)
+Label_Permutation_Null_Dmin,0.7401,508,0.6901,0.0,1.0,D_min permutation check

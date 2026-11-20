@@ -1,0 +1,34 @@
+{
+  "systemNumber": "O64193",
+  "accessionNumber": "IS.120-1999",
+  "objectType": "Sculpture",
+  "availableToBook": true,
+  "_currentLocation": {
+    "id": "THES373765",
+    "displayName": "In Store",
+    "type": "storage",
+    "site": "ES",
+    "onDisplay": false,
+    "detail": {
+      "free": "",
+      "case": "",
+      "shelf": "",
+      "box": ""
+    }
+  },
+  "_primaryTitle": "Meditating Buddha",
+  "_primaryMaker": {
+    "name": "Unknown",
+    "association": ""
+  },
+  "_primaryImageId": "2006BH6452",
+  "_primaryDate": "Early 3rd century",
+  "_primaryPlace": "Uttar Pradesh",
+  "_warningTypes": [],
+  "_images": {
+    "_primary_thumbnail": "https://framemark.vam.ac.uk/collections/2006BH6452/full/!100,100/0/default.jpg",
+    "_iiif_image_base_url": "https://framemark.vam.ac.uk/collections/2006BH6452/",
+    "_iiif_presentation_url": "https://iiif.vam.ac.uk/collections/O64193/manifest.json",
+    "imageResolution": "high"
+  }
+}

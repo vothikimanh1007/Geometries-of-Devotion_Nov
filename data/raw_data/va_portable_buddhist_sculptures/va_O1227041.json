@@ -1,0 +1,29 @@
+{
+  "systemNumber": "O1227041",
+  "accessionNumber": "IS.11-2011",
+  "objectType": "Buddha Vairocana ",
+  "availableToBook": true,
+  "_currentLocation": {
+    "id": "THES394903",
+    "displayName": "In Store",
+    "type": "storage",
+    "site": "VA",
+    "onDisplay": false,
+    "detail": {
+      "free": "",
+      "case": "",
+      "shelf": "",
+      "box": ""
+    }
+  },
+  "_primaryTitle": "",
+  "_primaryMaker": {
+    "name": "Unknown",
+    "association": ""
+  },
+  "_primaryImageId": null,
+  "_primaryDate": "1300-1400",
+  "_primaryPlace": "Tibet",
+  "_warningTypes": [],
+  "_images": {}
+}

@@ -1,0 +1,409 @@
+{
+  "id": 161215,
+  "accession_number": "1999.316",
+  "share_license_status": "CC0",
+  "tombstone": "Seated Buddha, before 1424. Thailand, Ayutthaya, Wat Ratchaburana, 14th century. Gold with resin core; overall: 10.6 cm (4 3/16 in.). The Cleveland Museum of Art, John L. Severance Fund, 1999.316",
+  "current_location": null,
+  "title": "Seated Buddha",
+  "creation_date": "before 1424",
+  "creation_date_earliest": 1375,
+  "creation_date_latest": 1424,
+  "artists_tags": [],
+  "culture": [
+    "Thailand, Ayutthaya, Wat Ratchaburana, 14th century"
+  ],
+  "technique": "gold with resin core",
+  "support_materials": [],
+  "department": "Indian and Southeast Asian Art",
+  "collection": "Southeast Asian",
+  "type": "Sculpture",
+  "measurements": "Overall: 10.6 cm (4 3/16 in.)",
+  "dimensions": {
+    "overall": {
+      "height": 0.106,
+      "height_inch": 4,
+      "height_inch_fraction": 0.1875
+    }
+  },
+  "state_of_the_work": null,
+  "edition_of_the_work": null,
+  "copyright": null,
+  "inscriptions": [],
+  "exhibitions": {
+    "current": [],
+    "legacy": []
+  },
+  "provenance": [
+    {
+      "description": "(Spink & Son, Ltd., London, England, sold to the Cleveland Museum of Art)",
+      "citations": [],
+      "footnotes": null,
+      "date": "?–1999",
+      "sortorder": 1
+    },
+    {
+      "description": "The Cleveland Museum of Art, Cleveland, OH",
+      "citations": [],
+      "footnotes": null,
+      "date": "1999–",
+      "sortorder": 2
+    }
+  ],
+  "find_spot": null,
+  "related_works": [],
+  "former_accession_numbers": [],
+  "did_you_know": null,
+  "early_education_description": null,
+  "artlens_description": null,
+  "description": "This pristinely modeled Buddha was fashioned from a sheet of 24-karat gold, using the repoussé (hammering) technique. The figure is filled inside with a resin core. The style is typical of the last phase of Khmer art (800s–1400s), the Lapburi style, which combines characteristics of both Cambodian and Thai sculptural styles.",
+  "external_resources": {
+    "wikidata": [
+      "https://www.wikidata.org/wiki/Q79983681"
+    ],
+    "internet_archive": [
+      "https://archive.org/details/clevelandart-1999.316-seated-buddha"
+    ]
+  },
+  "citations": [
+    {
+      "citation": "<em>30,000 Years of Art: The Story of Human Creativity Across Time and Space</em>. London: Phaidon, 2007.",
+      "page_number": "Reproduced: p. 638",
+      "url": ""
+    }
+  ],
+  "url": "https://clevelandart.org/art/1999.316",
+  "images": {
+    "annotation": null,
+    "web": {
+      "url": "https://openaccess-cdn.clevelandart.org/1999.316/1999.316_web.jpg",
+      "width": "689",
+      "height": "900",
+      "filesize": "164179",
+      "filename": "1999.316_web.jpg"
+    },
+    "print": {
+      "url": "https://openaccess-cdn.clevelandart.org/1999.316/1999.316_print.jpg",
+      "width": "2601",
+      "height": "3400",
+      "filesize": "1003927",
+      "filename": "1999.316_print.jpg"
+    },
+    "full": {
+      "url": "https://openaccess-cdn.clevelandart.org/1999.316/1999.316_full.tif",
+      "width": "5587",
+      "height": "7304",
+      "filesize": "122447416",
+      "filename": "1999.316_full.tif"
+    }
+  },
+  "alternate_images": [
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1999.316/1999.316_alt0_web.jpg",
+        "width": "692",
+        "height": "900",
+        "filesize": "164410"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1999.316/1999.316_alt0_print.jpg",
+        "width": "2615",
+        "height": "3400",
+        "filesize": "1022877"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1999.316/1999.316_alt0_full.tif",
+        "width": "5587",
+        "height": "7264",
+        "filesize": "121776932"
+      },
+      "date_created": "2021-10-14T17:30:26",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1999.316/1999.316_alt1_web.jpg",
+        "width": "691",
+        "height": "900",
+        "filesize": "163410"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1999.316/1999.316_alt1_print.jpg",
+        "width": "2609",
+        "height": "3400",
+        "filesize": "1007742"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1999.316/1999.316_alt1_full.tif",
+        "width": "5587",
+        "height": "7281",
+        "filesize": "122061892"
+      },
+      "date_created": "2021-10-14T17:35:57",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1999.316/1999.316_alt2_web.jpg",
+        "width": "692",
+        "height": "900",
+        "filesize": "150113"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1999.316/1999.316_alt2_print.jpg",
+        "width": "2613",
+        "height": "3400",
+        "filesize": "853627"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1999.316/1999.316_alt2_full.tif",
+        "width": "5587",
+        "height": "7269",
+        "filesize": "121860404"
+      },
+      "date_created": "2021-10-14T17:42:11",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1999.316/1999.316_alt3_web.jpg",
+        "width": "689",
+        "height": "900",
+        "filesize": "148564"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1999.316/1999.316_alt3_print.jpg",
+        "width": "2602",
+        "height": "3400",
+        "filesize": "847852"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1999.316/1999.316_alt3_full.tif",
+        "width": "5587",
+        "height": "7300",
+        "filesize": "122379928"
+      },
+      "date_created": "2021-10-14T17:48:15",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1999.316/1999.316_alt4_web.jpg",
+        "width": "691",
+        "height": "900",
+        "filesize": "159407"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1999.316/1999.316_alt4_print.jpg",
+        "width": "2612",
+        "height": "3400",
+        "filesize": "950215"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1999.316/1999.316_alt4_full.tif",
+        "width": "5587",
+        "height": "7272",
+        "filesize": "121910832"
+      },
+      "date_created": "2021-10-14T17:55:32",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1999.316/1999.316_alt5_web.jpg",
+        "width": "900",
+        "height": "701",
+        "filesize": "196770"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1999.316/1999.316_alt5_print.jpg",
+        "width": "3400",
+        "height": "2647",
+        "filesize": "1339795"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1999.316/1999.316_alt5_full.tif",
+        "width": "4301",
+        "height": "3349",
+        "filesize": "43238072"
+      },
+      "date_created": "2021-10-14T18:03:24",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1999.316/1999.316_alt6_web.jpg",
+        "width": "900",
+        "height": "653",
+        "filesize": "196967"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1999.316/1999.316_alt6_print.jpg",
+        "width": "3400",
+        "height": "2467",
+        "filesize": "1176443"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1999.316/1999.316_alt6_full.tif",
+        "width": "3648",
+        "height": "2647",
+        "filesize": "28995084"
+      },
+      "date_created": "2021-10-14T18:09:46",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1999.316/1999.316_alt7_web.jpg",
+        "width": "825",
+        "height": "893",
+        "filesize": "55592"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1999.316/1999.316_alt7_print.jpg",
+        "width": "3143",
+        "height": "3400",
+        "filesize": "770671"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1999.316/1999.316_alt7_full.tif",
+        "width": "3636",
+        "height": "3933",
+        "filesize": "42933360"
+      },
+      "date_created": "2012-07-09T15:41:01",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1999.316/1999.316_alt8_web.jpg",
+        "width": "772",
+        "height": "893",
+        "filesize": "41577"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1999.316/1999.316_alt8_print.jpg",
+        "width": "2938",
+        "height": "3400",
+        "filesize": "610622"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1999.316/1999.316_alt8_full.tif",
+        "width": "3540",
+        "height": "4096",
+        "filesize": "43530956"
+      },
+      "date_created": "2012-07-09T17:10:05",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1999.316/1999.316_alt9_web.jpg",
+        "width": "713",
+        "height": "893",
+        "filesize": "39022"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1999.316/1999.316_alt9_print.jpg",
+        "width": "2713",
+        "height": "3400",
+        "filesize": "586682"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1999.316/1999.316_alt9_full.tif",
+        "width": "3391",
+        "height": "4249",
+        "filesize": "43254704"
+      },
+      "date_created": "2012-07-09T17:21:23",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1999.316/1999.316_alt10_web.jpg",
+        "width": "762",
+        "height": "893",
+        "filesize": "47177"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1999.316/1999.316_alt10_print.jpg",
+        "width": "2903",
+        "height": "3400",
+        "filesize": "694791"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1999.316/1999.316_alt10_full.tif",
+        "width": "3467",
+        "height": "4060",
+        "filesize": "42258840"
+      },
+      "date_created": "2012-07-09T17:41:00",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1999.316/1999.316_alt11_web.jpg",
+        "width": "693",
+        "height": "893",
+        "filesize": "285910"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1999.316/1999.316_alt11_print.jpg",
+        "width": "2639",
+        "height": "3400",
+        "filesize": "3569896"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1999.316/1999.316_alt11_full.tif",
+        "width": "3881",
+        "height": "5000",
+        "filesize": "58235180"
+      },
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1999.316/1999.316_alt12_web.jpg",
+        "width": "710",
+        "height": "893",
+        "filesize": "351420"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1999.316/1999.316_alt12_print.jpg",
+        "width": "2704",
+        "height": "3400",
+        "filesize": "4857682"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1999.316/1999.316_alt12_full.tif",
+        "width": "3976",
+        "height": "5000",
+        "filesize": "59660180"
+      },
+      "annotation": ""
+    }
+  ],
+  "creditline": "John L. Severance Fund",
+  "image_credit": null,
+  "sketchfab_id": null,
+  "sketchfab_url": null,
+  "gallery_donor_text": null,
+  "athena_id": 161215,
+  "creators": [],
+  "legal_status": "accessioned",
+  "accession_date": "2000-03-15T00:00:00",
+  "sortable_date": 1375,
+  "date_added_to_oa": null,
+  "date_text": "before 1424",
+  "collapse_artists": false,
+  "on_loan": false,
+  "recently_acquired": false,
+  "record_type": "object",
+  "conservation_statement": null,
+  "has_conservation_images": false,
+  "cover_accession_number": null,
+  "is_nazi_era_provenance": false,
+  "impression": null,
+  "alternate_titles": [],
+  "is_highlight": false,
+  "updated_at": "2026-05-29 08:23:18.109000"
+}

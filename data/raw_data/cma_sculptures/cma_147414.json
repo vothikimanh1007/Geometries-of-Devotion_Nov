@@ -1,0 +1,184 @@
+{
+  "id": 147414,
+  "accession_number": "1973.159",
+  "share_license_status": "CC0",
+  "tombstone": "Standing Buddha, c. 800s. Burma (Myanmar). Kaolin; overall: 13.9 cm (5 1/2 in.). The Cleveland Museum of Art, Purchase from the J. H. Wade Fund, 1973.159",
+  "current_location": null,
+  "title": "Standing Buddha",
+  "creation_date": "c. 800s",
+  "creation_date_earliest": 800,
+  "creation_date_latest": 899,
+  "artists_tags": [],
+  "culture": [
+    "Burma (Myanmar)"
+  ],
+  "technique": "Kaolin",
+  "support_materials": [],
+  "department": "Indian and Southeast Asian Art",
+  "collection": "Burmese Art",
+  "type": "Sculpture",
+  "measurements": "Overall: 13.9 cm (5 1/2 in.)",
+  "dimensions": {
+    "overall": {
+      "height": 0.139,
+      "height_inch": 5,
+      "height_inch_fraction": 0.5
+    }
+  },
+  "state_of_the_work": null,
+  "edition_of_the_work": null,
+  "copyright": null,
+  "inscriptions": [],
+  "exhibitions": {
+    "current": [],
+    "legacy": []
+  },
+  "provenance": [
+    {
+      "description": "The Cleveland Museum of Art, Cleveland, OH",
+      "citations": [],
+      "footnotes": null,
+      "date": "1973–",
+      "sortorder": 2
+    }
+  ],
+  "find_spot": null,
+  "related_works": [],
+  "former_accession_numbers": [],
+  "did_you_know": "The robe is covered with flowers on the front and back, possibly alluding to the flowers falling from heaven as the Buddha descended back to earth.",
+  "early_education_description": null,
+  "artlens_description": null,
+  "description": "This small sculpture was probably part of a set of eight main scenes from the life of the Buddha, each identified by a specific hand gesture. When the standing Buddha gestures down with his right hand, with the palm facing out, he usually signals his miraculous descent from the Heaven of the Thirty-three Gods, where he once spent a monsoon season giving teachings to his mother. She died shortly after his birth and was reborn in the heaven.",
+  "external_resources": {
+    "wikidata": [
+      "https://www.wikidata.org/wiki/Q79926453"
+    ],
+    "internet_archive": [
+      "https://archive.org/details/clevelandart-1973.159-standing-buddha"
+    ]
+  },
+  "citations": [
+    {
+      "citation": "\"The Year in Review for 1973.\" <em>The Bulletin of the Cleveland Museum of Art</em> 61, no. 2 (February 1974): 31-78.",
+      "page_number": "Mentioned: no. 184, p. 79; Reproduced: no. 184, p. 63",
+      "url": "https://www.jstor.org/stable/25152513"
+    }
+  ],
+  "url": "https://clevelandart.org/art/1973.159",
+  "images": {
+    "annotation": null,
+    "web": {
+      "url": "https://openaccess-cdn.clevelandart.org/1973.159/1973.159_web.jpg",
+      "width": "714",
+      "height": "893",
+      "filesize": "62355",
+      "filename": "1973.159_web.jpg"
+    },
+    "print": {
+      "url": "https://openaccess-cdn.clevelandart.org/1973.159/1973.159_print.jpg",
+      "width": "2718",
+      "height": "3400",
+      "filesize": "755017",
+      "filename": "1973.159_print.jpg"
+    },
+    "full": {
+      "url": "https://openaccess-cdn.clevelandart.org/1973.159/1973.159_full.tif",
+      "width": "3562",
+      "height": "4455",
+      "filesize": "47638404",
+      "filename": "1973.159_full.tif"
+    }
+  },
+  "alternate_images": [
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1973.159/1973.159_alt0_web.jpg",
+        "width": "655",
+        "height": "893",
+        "filesize": "42490"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1973.159/1973.159_alt0_print.jpg",
+        "width": "2493",
+        "height": "3400",
+        "filesize": "542161"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1973.159/1973.159_alt0_full.tif",
+        "width": "3369",
+        "height": "4593",
+        "filesize": "46453824"
+      },
+      "date_created": "2012-06-29T18:56:17",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1973.159/1973.159_alt1_web.jpg",
+        "width": "617",
+        "height": "893",
+        "filesize": "42039"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1973.159/1973.159_alt1_print.jpg",
+        "width": "2349",
+        "height": "3400",
+        "filesize": "514670"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1973.159/1973.159_alt1_full.tif",
+        "width": "3185",
+        "height": "4610",
+        "filesize": "44081396"
+      },
+      "date_created": "2012-06-29T19:06:16",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1973.159/1973.159_alt2_web.jpg",
+        "width": "729",
+        "height": "893",
+        "filesize": "59845"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1973.159/1973.159_alt2_print.jpg",
+        "width": "2774",
+        "height": "3400",
+        "filesize": "757877"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1973.159/1973.159_alt2_full.tif",
+        "width": "3696",
+        "height": "4530",
+        "filesize": "50259276"
+      },
+      "date_created": "2012-06-29T19:16:47",
+      "annotation": ""
+    }
+  ],
+  "creditline": "Purchase from the J. H. Wade Fund",
+  "image_credit": null,
+  "sketchfab_id": null,
+  "sketchfab_url": null,
+  "gallery_donor_text": null,
+  "athena_id": 147414,
+  "creators": [],
+  "legal_status": "accessioned",
+  "accession_date": "1973-10-15T00:00:00",
+  "sortable_date": 800,
+  "date_added_to_oa": null,
+  "date_text": "c. 800s",
+  "collapse_artists": false,
+  "on_loan": false,
+  "recently_acquired": false,
+  "record_type": "object",
+  "conservation_statement": null,
+  "has_conservation_images": false,
+  "cover_accession_number": null,
+  "is_nazi_era_provenance": false,
+  "impression": null,
+  "alternate_titles": [],
+  "is_highlight": false,
+  "updated_at": "2026-05-29 07:33:23.639000"
+}

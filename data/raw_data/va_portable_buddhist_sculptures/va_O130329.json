@@ -1,0 +1,34 @@
+{
+  "systemNumber": "O130329",
+  "accessionNumber": "A.6-1935",
+  "objectType": "Figure",
+  "availableToBook": false,
+  "_currentLocation": {
+    "id": "THES49793",
+    "displayName": "Buddhism, Room 47f, The Robert H. N. Ho Family Foundation Galleries of Buddhist Art",
+    "type": "display",
+    "site": "VA",
+    "onDisplay": true,
+    "detail": {
+      "free": "",
+      "case": "PL002",
+      "shelf": "",
+      "box": ""
+    }
+  },
+  "_primaryTitle": "Figure of Buddha",
+  "_primaryMaker": {
+    "name": "Unknown",
+    "association": ""
+  },
+  "_primaryImageId": "2006BD5526",
+  "_primaryDate": "618-906",
+  "_primaryPlace": "Quyang",
+  "_warningTypes": [],
+  "_images": {
+    "_primary_thumbnail": "https://framemark.vam.ac.uk/collections/2006BD5526/full/!100,100/0/default.jpg",
+    "_iiif_image_base_url": "https://framemark.vam.ac.uk/collections/2006BD5526/",
+    "_iiif_presentation_url": "https://iiif.vam.ac.uk/collections/O130329/manifest.json",
+    "imageResolution": "high"
+  }
+}

@@ -1,0 +1,159 @@
+{
+  "id": 152331,
+  "accession_number": "1985.191.a",
+  "share_license_status": "CC0",
+  "tombstone": "Iconographic Drawings:  Vaishravana, Yama, Ushnishavijaya, Chunda (?), and Buddha (recto), c. 1500. Tibet. Ink and watercolor on cotton; overall: 20.3 x 12.7 cm (8 x 5 in.). The Cleveland Museum of Art, Delia E. Holden Fund, 1985.191.a",
+  "current_location": null,
+  "title": "Iconographic Drawings:  Vaishravana, Yama, Ushnishavijaya, Chunda (?), and Buddha (recto)",
+  "creation_date": "c. 1500",
+  "creation_date_earliest": 1495,
+  "creation_date_latest": 1505,
+  "artists_tags": [],
+  "culture": [
+    "Tibet"
+  ],
+  "technique": "ink and watercolor on cotton",
+  "support_materials": [],
+  "department": "Indian and Southeast Asian Art",
+  "collection": "Tibetan Art",
+  "type": "Drawing",
+  "measurements": "Overall: 20.3 x 12.7 cm (8 x 5 in.)",
+  "dimensions": {
+    "overall": {
+      "height": 0.203,
+      "height_inch": 8,
+      "height_inch_fraction": 0.0,
+      "width": 0.127,
+      "width_inch": 5,
+      "width_inch_fraction": 0.0
+    }
+  },
+  "state_of_the_work": null,
+  "edition_of_the_work": null,
+  "copyright": null,
+  "inscriptions": [],
+  "exhibitions": {
+    "current": [
+      {
+        "id": 395241,
+        "title": "Himalayan Gallery 237 Rotation",
+        "description": "<i>Himalayan Gallery 237 Rotation</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (March 12-August 29, 2021).",
+        "opening_date": "2021-03-12T05:00:00"
+      }
+    ],
+    "legacy": []
+  },
+  "provenance": [
+    {
+      "description": "(Spink & Son, Ltd., London, UK, sold to the Cleveland Museum of Art)",
+      "citations": [],
+      "footnotes": [],
+      "date": "?-1985",
+      "sortorder": 1
+    },
+    {
+      "description": "The Cleveland Museum of Art, Cleveland, OH",
+      "citations": [],
+      "footnotes": [],
+      "date": "1985-",
+      "sortorder": 2
+    }
+  ],
+  "find_spot": null,
+  "related_works": [],
+  "former_accession_numbers": [
+    "1985.191"
+  ],
+  "did_you_know": "The script notations are in an Indic script, but the line drawings are Tibetan.",
+  "early_education_description": null,
+  "artlens_description": null,
+  "description": "Tibetan <em>thangka </em>painters referred to sketchbooks with drawings that delineate the iconographies—appearance and identifying attributes—of Buddhist figures. These visual guides were heavily used; very few survive. This rare example shows signs of wear, but the steady line drawings are the work of a master.<br><br>The largest figure on the left is the guardian king of the north, Vaishravana, god of wealth, and the small figure to the right appears to be a donor in Tibetan dress. The next page to the right has Yama, the guardian king of the south, and the god of death in union with his consort on his buffalo mount. Below them is a goddess of longevity, Ushnishavijaya. At the far right is an 18-armed goddess seated in a skull cup on serpents, below which is a seated Buddha.",
+  "external_resources": {
+    "wikidata": [
+      "https://www.wikidata.org/wiki/Q79936678"
+    ],
+    "internet_archive": [
+      "https://archive.org/details/clevelandart-1985.191.a-iconographic-drawing"
+    ]
+  },
+  "citations": [
+    {
+      "citation": "Turner, Evan H. “The Year in Review for 1985.” <em>The Bulletin of the Cleveland Museum of Art</em>, vol. 73, no. 2, 1986, pp. 26–71.",
+      "page_number": "Mentioned: no. 204, p. 71",
+      "url": "https://www.jstor.org/stable/25159930"
+    }
+  ],
+  "url": "https://clevelandart.org/art/1985.191.a",
+  "images": {
+    "annotation": null,
+    "web": {
+      "url": "https://openaccess-cdn.clevelandart.org/1985.191.a/1985.191.a_web.jpg",
+      "width": "1263",
+      "height": "784",
+      "filesize": "252128",
+      "filename": "1985.191.a_web.jpg"
+    },
+    "print": {
+      "url": "https://openaccess-cdn.clevelandart.org/1985.191.a/1985.191.a_print.jpg",
+      "width": "3400",
+      "height": "2111",
+      "filesize": "1925355",
+      "filename": "1985.191.a_print.jpg"
+    },
+    "full": {
+      "url": "https://openaccess-cdn.clevelandart.org/1985.191.a/1985.191.a_full.tif",
+      "width": "6475",
+      "height": "4022",
+      "filesize": "78156404",
+      "filename": "1985.191.a_full.tif"
+    }
+  },
+  "alternate_images": [
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1985.191.a/1985.191.a_alt0_web.jpg",
+        "width": "1263",
+        "height": "792",
+        "filesize": "255826"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1985.191.a/1985.191.a_alt0_print.jpg",
+        "width": "3400",
+        "height": "2131",
+        "filesize": "1916546"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1985.191.a/1985.191.a_alt0_full.tif",
+        "width": "6562",
+        "height": "4114",
+        "filesize": "81016472"
+      },
+      "date_created": "2013-04-23T19:21:14",
+      "annotation": ""
+    }
+  ],
+  "creditline": "Delia E. Holden Fund",
+  "image_credit": null,
+  "sketchfab_id": null,
+  "sketchfab_url": null,
+  "gallery_donor_text": null,
+  "athena_id": 152331,
+  "creators": [],
+  "legal_status": "accessioned",
+  "accession_date": "1985-12-18T00:00:00",
+  "sortable_date": 1495,
+  "date_added_to_oa": null,
+  "date_text": "c. 1500",
+  "collapse_artists": false,
+  "on_loan": false,
+  "recently_acquired": false,
+  "record_type": "part",
+  "conservation_statement": null,
+  "has_conservation_images": false,
+  "cover_accession_number": "1985.191",
+  "is_nazi_era_provenance": false,
+  "impression": null,
+  "alternate_titles": [],
+  "is_highlight": false,
+  "updated_at": "2026-10-23 14:46:24.753000"
+}

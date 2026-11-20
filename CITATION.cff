@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this code or processed dataset, please cite this repository."
+title: "Geometries of Devotion: Controlled Multi-Modal Topological Auditing of Asian Buddhist Epigraphy and Portable Icons"
+authors:
+  - family-names: "Vo"
+    given-names: "Thi Kim Anh"
+    affiliation: "VSB - Technical University of Ostrava; Ton Duc Thang University"
+license: "MIT"
+repository-code: "https://github.com/vothikimanh1007/Geometries-of-Devotion"

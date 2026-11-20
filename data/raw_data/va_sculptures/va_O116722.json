@@ -1,0 +1,34 @@
+{
+  "systemNumber": "O116722",
+  "accessionNumber": "A.36-1950",
+  "objectType": "Figure of buddha",
+  "availableToBook": false,
+  "_currentLocation": {
+    "id": "THES384090",
+    "displayName": "in store",
+    "type": "storage - not bookable",
+    "site": "B (CW/4)",
+    "onDisplay": false,
+    "detail": {
+      "free": "",
+      "case": "",
+      "shelf": "",
+      "box": ""
+    }
+  },
+  "_primaryTitle": "Seated Buddha",
+  "_primaryMaker": {
+    "name": "Unknown",
+    "association": ""
+  },
+  "_primaryImageId": "2006AM9677",
+  "_primaryDate": "550 - 577",
+  "_primaryPlace": "Hebei",
+  "_warningTypes": [],
+  "_images": {
+    "_primary_thumbnail": "https://framemark.vam.ac.uk/collections/2006AM9677/full/!100,100/0/default.jpg",
+    "_iiif_image_base_url": "https://framemark.vam.ac.uk/collections/2006AM9677/",
+    "_iiif_presentation_url": "https://iiif.vam.ac.uk/collections/O116722/manifest.json",
+    "imageResolution": "high"
+  }
+}

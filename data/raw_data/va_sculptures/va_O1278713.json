@@ -1,0 +1,29 @@
+{
+  "systemNumber": "O1278713",
+  "accessionNumber": "B.3360-2022",
+  "objectType": "Model",
+  "availableToBook": false,
+  "_currentLocation": {
+    "id": "THES324994",
+    "displayName": "In Store",
+    "type": "storage - not bookable",
+    "site": "ES",
+    "onDisplay": false,
+    "detail": {
+      "free": "",
+      "case": "",
+      "shelf": "",
+      "box": ""
+    }
+  },
+  "_primaryTitle": "",
+  "_primaryMaker": {
+    "name": "Canon Inc",
+    "association": "publishers"
+  },
+  "_primaryImageId": null,
+  "_primaryDate": "ca. 2000",
+  "_primaryPlace": "Great Britain",
+  "_warningTypes": [],
+  "_images": {}
+}

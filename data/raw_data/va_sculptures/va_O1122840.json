@@ -1,0 +1,31 @@
+{
+  "systemNumber": "O1122840",
+  "accessionNumber": "MISC.458-1978",
+  "objectType": "Buddha",
+  "availableToBook": false,
+  "_currentLocation": {
+    "id": "THES343465",
+    "displayName": "In Store",
+    "type": "storage - not bookable",
+    "site": "ES",
+    "onDisplay": false,
+    "detail": {
+      "free": "",
+      "case": "",
+      "shelf": "",
+      "box": ""
+    }
+  },
+  "_primaryTitle": "",
+  "_primaryMaker": {},
+  "_primaryImageId": "2026PM4783",
+  "_primaryDate": "",
+  "_primaryPlace": "India",
+  "_warningTypes": [],
+  "_images": {
+    "_primary_thumbnail": "https://framemark.vam.ac.uk/collections/2026PM4783/full/!100,100/0/default.jpg",
+    "_iiif_image_base_url": "https://framemark.vam.ac.uk/collections/2026PM4783/",
+    "_iiif_presentation_url": null,
+    "imageResolution": "low"
+  }
+}

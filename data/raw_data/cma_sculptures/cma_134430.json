@@ -1,0 +1,913 @@
+{
+  "id": 134430,
+  "accession_number": "1956.87",
+  "share_license_status": "CC0",
+  "tombstone": "The Illustrated Miraculous Origins of the Yūzū Nenbutsu School (融通念仏縁起絵巻), early 1300s. Japan, Kamakura period (1185–1333). Handscroll; ink, color, and gold on paper; painting: 29.7 x 1232.4 cm (11 11/16 x 485 3/16 in.); mounted: 30.3 x 1373.5 cm (11 15/16 x 540 3/4 in.). The Cleveland Museum of Art, Mr. and Mrs. William H. Marlatt, John L. Severance, and Edward L. Whittemore Funds, 1956.87",
+  "current_location": "235B Japanese",
+  "title": "The Illustrated Miraculous Origins of the Yūzū Nenbutsu School",
+  "title_in_original_language": "融通念仏縁起絵巻",
+  "creation_date": "early 1300s",
+  "creation_date_earliest": 1300,
+  "creation_date_latest": 1333,
+  "artists_tags": [],
+  "culture": [
+    "Japan, Kamakura period (1185–1333)"
+  ],
+  "technique": "Handscroll; ink, color, and gold on paper",
+  "support_materials": [],
+  "department": "Japanese Art",
+  "collection": "ASIAN - Handscroll",
+  "type": "Painting",
+  "measurements": "Painting: 29.7 x 1232.4 cm (11 11/16 x 485 3/16 in.); Mounted: 30.3 x 1373.5 cm (11 15/16 x 540 3/4 in.)",
+  "dimensions": {
+    "painting": {
+      "height": 0.297,
+      "height_inch": 11,
+      "height_inch_fraction": 0.6875,
+      "width": 12.324,
+      "width_inch": 485,
+      "width_inch_fraction": 0.1875
+    },
+    "mounted": {
+      "height": 0.303,
+      "height_inch": 11,
+      "height_inch_fraction": 0.9375,
+      "width": 13.735,
+      "width_inch": 540,
+      "width_inch_fraction": 0.75
+    }
+  },
+  "state_of_the_work": null,
+  "edition_of_the_work": null,
+  "copyright": null,
+  "inscriptions": [],
+  "exhibitions": {
+    "current": [
+      {
+        "id": 302033,
+        "title": "Japanese Decorative Style",
+        "description": "<i>Japanese Decorative Style</i>. The Cleveland Museum of Art (August 30-October 15, 1961); The Art Institute of Chicago, Chicago, IL (November 9-December 17, 1961).",
+        "opening_date": "1961-08-30T04:00:00"
+      },
+      {
+        "id": 444680,
+        "title": "Japanese Picture Scrolls",
+        "description": "<i>Japanese Picture Scrolls</i>. Tokyo National Museum, Tokyo, Japan (organizer) (October 9-November 24, 1974).",
+        "opening_date": "1974-10-09T04:00:00"
+      },
+      {
+        "id": 442415,
+        "title": "Journey of the Three Jewels: Japanese Buddhist Paintings in Western Collections",
+        "description": "<i>Journey of the Three Jewels: Japanese Buddhist Paintings in Western Collections</i>. Asia House Galleries, New York City, NY (organizer) (October 11-December 9, 1979); Denver Art Museum, Denver, CO (March 27-May 11, 1980).",
+        "opening_date": "1979-10-11T04:00:00"
+      },
+      {
+        "id": 309646,
+        "title": "Reflections of Reality in Japanese Art",
+        "description": "<i>Reflections of Reality in Japanese Art</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (March 16-May 1, 1983).",
+        "opening_date": "1983-03-16T04:00:00"
+      },
+      {
+        "id": 441933,
+        "title": "Emaki",
+        "description": "<i>Emaki</i>. Kyoto National Museum, Kyoto, Japan (organizer) (March 21-April 30, 1987).",
+        "opening_date": "1987-03-21T05:00:00"
+      },
+      {
+        "id": 311446,
+        "title": "Asian Autumn: Masterpieces from the Collection",
+        "description": "<i>Asian Autumn: Masterpieces from the Collection</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (September 17, 1991-January 5, 1992).",
+        "opening_date": "1991-09-17T04:00:00"
+      },
+      {
+        "id": 211775,
+        "title": "Highlights of Asian Paintings from The Cleveland Museum of Art",
+        "description": "<i>Highlights of Asian Paintings from The Cleveland Museum of Art</i>. Nara National Museum (organizer) (February 21-March 29, 1998); Suntory Museum of Art (April 28-June 21, 1998).",
+        "opening_date": "1998-02-21T00:00:00"
+      },
+      {
+        "id": 196054,
+        "title": "Streams and Mountains Without End: Asian Art and the Legacy of Sherman E. Lee at the Cleveland Museum of Art",
+        "description": "<i>Streams and Mountains Without End: Asian Art and the Legacy of Sherman E. Lee at the Cleveland Museum of Art</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (June 27-August 23, 2009).",
+        "opening_date": "2009-06-27T04:00:00"
+      },
+      {
+        "id": 226559,
+        "title": "Honen: The Life and Art of the Founder of the Pure Land Buddhist Sect",
+        "description": "<i>Honen: The Life and Art of the Founder of the Pure Land Buddhist Sect</i>. Kyoto National Museum, Kyoto, Japan (organizer) (March 26-May 8, 2011).",
+        "opening_date": "2011-03-26T00:00:00"
+      },
+      {
+        "id": 202129,
+        "title": "Admired from Afar: Masterworks of Japanese Painting from the Cleveland Museum of Art",
+        "description": "<i>Admired from Afar: Masterworks of Japanese Painting from the Cleveland Museum of Art</i>. Tokyo National Museum, Tokyo, Japan (January 15-February 23, 2014); Kyushu National Museum, Fukuoka, Japan (July 8-August 31, 2014).",
+        "opening_date": "2014-01-15T00:00:00"
+      },
+      {
+        "id": 309312,
+        "title": "Shinto: Discovering the Divine in Japanese Art 神道－日本美術における神性の発見",
+        "description": "<i>Shinto: Discovering the Divine in Japanese Art 神道－日本美術における神性の発見</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (April 9-June 30, 2019).",
+        "opening_date": "2019-04-09T04:00:00"
+      },
+      {
+        "id": 698362,
+        "title": "Highlights of Japanese Art",
+        "description": "<i>Highlights of Japanese Art</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (December 7, 2025-June 14, 2026).",
+        "opening_date": "2025-12-07T05:00:00"
+      }
+    ],
+    "legacy": [
+      {
+        "description": "<em>Main Asian Rotation (Gallery 120)</em>. The Cleveland Museum of Art, Cleveland, OH (March 11-July 13, 2004).",
+        "opening_date": "2004-03-11T00:00:00"
+      },
+      {
+        "description": "<em>Masterpieces of Japanese Art</em>. Dallas Museum of Fine Arts, Dallas, Texas (October 4-November 30, 1969)",
+        "opening_date": "1969-10-04T00:00:00"
+      }
+    ]
+  },
+  "provenance": [
+    {
+      "description": "Kashima Seibei [19th century]",
+      "citations": [],
+      "footnotes": null,
+      "date": "1800s",
+      "sortorder": 1
+    },
+    {
+      "description": "(Howard Hollis and Co., Cleveland, OH, sold to the Cleveland Museum of Art)",
+      "citations": [],
+      "footnotes": null,
+      "date": "?–1956",
+      "sortorder": 2
+    },
+    {
+      "description": "The Cleveland Museum of Art, Cleveland, OH",
+      "citations": [],
+      "footnotes": null,
+      "date": "1956–",
+      "sortorder": 3
+    }
+  ],
+  "find_spot": null,
+  "related_works": [],
+  "former_accession_numbers": [],
+  "did_you_know": "The other scroll from this two-scroll set belongs to the Art Institute of Chicago.",
+  "early_education_description": null,
+  "artlens_description": null,
+  "description": "This painting is the second of a set of two illustrated handscrolls. The first scroll depicts the biography of the Japanese Buddhist monk Ryōnin. This scroll begins with scenes of Ryōnin’s death and relates episodes illustrating the efficacy of following his teachings. Ryōnin asserted the total interconnectedness of all things and the spiritual benefit of chanting the name of the Buddha Amida for one another.",
+  "external_resources": {
+    "wikidata": [
+      "https://www.wikidata.org/wiki/Q60517401"
+    ],
+    "internet_archive": [
+      "https://archive.org/details/clevelandart-1956.87-the-illustrated-mira"
+    ]
+  },
+  "citations": [
+    {
+      "citation": "The Cleveland Museum of Art. <em>The Cleveland Museum of Art Handbook.</em> Cleveland, OH: The Cleveland Museum of Art, 1958.",
+      "page_number": "Mentioned and Reproduced: cat. no. 914",
+      "url": "https://archive.org/details/CMAHandbook1958/page/n161"
+    },
+    {
+      "citation": "Lee, Sherman E. <em>Japanese Decorative Style</em>. [Cleveland]: Cleveland Museum of Art, 1961.",
+      "page_number": "Reproduced: p. 5; cat. no. 20",
+      "url": "https://archive.org/details/JapaneseDecorativeStyle/page/n17"
+    },
+    {
+      "citation": "The Cleveland Museum of Art. <em>Handbook of the Cleveland Museum of Art/1966</em>. Cleveland, OH: The Cleveland Museum of Art, 1966.",
+      "page_number": "Reproduced: p. 277",
+      "url": "https://archive.org/details/CMAHandbook1966/page/n301"
+    },
+    {
+      "citation": "The Cleveland Museum of Art. <em>Handbook of the Cleveland Museum of Art/1969</em>. Cleveland, OH: The Cleveland Museum of Art, 1969.",
+      "page_number": "Reproduced: p. 277",
+      "url": "https://archive.org/details/CMAHandbook1969/page/n301"
+    },
+    {
+      "citation": "<em>Masterpieces of Japanese Art; [Catalogue of the Exhibition] October 4 Through November 30, 1969, Dallas Museum of Fine Arts</em>. Dallas, TX: Dallas Museum of Fine Arts, 1969.",
+      "page_number": "Mentioned: cat. no. 24",
+      "url": null
+    },
+    {
+      "citation": "The Cleveland Museum of Art. <em>Handbook of the Cleveland Museum of Art/1978</em>. Cleveland, OH: The Cleveland Museum of Art, 1978.",
+      "page_number": "Reproduced: p. 374",
+      "url": "https://archive.org/details/CMAHandbook1978/page/n394"
+    },
+    {
+      "citation": "Lee, Sherman E., Michael R. Cunningham, and Ursula Korneitchouk. <em>One Thousand Years of Japanese Art (650-1650): From the Cleveland Museum of Art: Catalogue</em>. New York: Japan Society, 1981.",
+      "page_number": "Mentioned and reproduced: pp. 40–41, no. 19",
+      "url": ""
+    },
+    {
+      "citation": "Cunningham, Michael. “Painting the Wind: A Mid-Fifteenth Century ‘Suibokuga.’” <em>The Bulletin of the Cleveland Museum of Art</em> 72, no. 7 (November 1985): 363–377.",
+      "page_number": "Mentioned and Reproduced: pp. 364–365, fig. 2",
+      "url": "http://www.jstor.org/stable/25159918"
+    },
+    {
+      "citation": "Grotennuis, Elizabeth Ten. \"Visions of a Transcendent Realm: Pure Land Images in the Cleveland Museum of Art.\" <em>The Bulletin of the Cleveland Museum of Art</em> 78, no. 7 (November 1991): 274–300.",
+      "page_number": "Mentioned: p. 298, 274",
+      "url": "https://www.jstor.org/stable/25161334"
+    },
+    {
+      "citation": "<em>Tōyō kaiga no seika: tokubetsuten: Kurīvurando Bijutsukan no korekushon kara </em>[東洋絵画の精華: 特别展: クリーヴラント美術館のコレクションから= Highlights of Asian painting from the Cleveland Museum of Art]. Nara, Japan: Nara National Museum, 1998.",
+      "page_number": "Reproduced: pp. 96–97, cat. no. 63",
+      "url": null
+    },
+    {
+      "citation": "<em>Admired from afar: masterworks of Japanese painting from the Cleveland Museum of Art</em> [クリーブランド美術館展 : 名画でたどる日本の美 Kurīburando Bijutsukan ten: meiga de tadoru Nihon no bi ]. Tokyo: Tōkyō Kokuritsu Hakubutsukan, 2014.",
+      "page_number": "Reproduced: pp. 38–43, cat. no. 7",
+      "url": null
+    },
+    {
+      "citation": "Vilbar, Sinéad. “Shinto Masterworks: Rarely seen Japanese treasures offer encounters with the divine.\" <em>Cleveland Art: Cleveland Museum of Art Members Magazine </em>59, no. 2 (March/April 2019): 30–31.",
+      "page_number": "Reproduced and Mentioned: p. 31",
+      "url": "https://archive.org/details/CMAMM2019-02/page/n15/mode/2up"
+    },
+    {
+      "citation": "Vilbar, Sinéad, and Kevin Gray Carr. <em>Shinto: Discovery of the Divine in Japanese Art. </em>Cleveland, OH: Cleveland Museum of Art, 2019.",
+      "page_number": "Mentioned and Reproduced: pp. 256–261, no. 101",
+      "url": null
+    },
+    {
+      "citation": "Murakami, Takashi, and Asian Art Museum of San Francisco. <em>Murakami: Unfamiliar People, Swelling of Monsterized Human Ego</em>. Edited by Laura W. Allen. San Francisco, CA, New Haven, CT: Asian Art Museum; Yale University Press, 2023.",
+      "page_number": "Mentioned and Reproduced: pp. 18–19, fig. 10.",
+      "url": ""
+    },
+    {
+      "citation": "Lee, Sherman E. “The Divine: And the Terrible.” <em>The Bulletin of the Cleveland Museum of Art</em> 48, no. 1 (January 1961): 5–9.",
+      "page_number": "Mentioned: pp. 6–7; Reproduced: pp. 8–9, figs. 3–4",
+      "url": "http://www.jstor.org/stable/25142429"
+    }
+  ],
+  "url": "https://clevelandart.org/art/1956.87",
+  "images": {
+    "annotation": null,
+    "web": {
+      "url": "https://openaccess-cdn.clevelandart.org/1956.87/1956.87_web.jpg",
+      "width": "900",
+      "height": "21",
+      "filesize": "139870",
+      "filename": "1956.87_web.jpg"
+    },
+    "print": {
+      "url": "https://openaccess-cdn.clevelandart.org/1956.87/1956.87_print.jpg",
+      "width": "3400",
+      "height": "79",
+      "filesize": "205317",
+      "filename": "1956.87_print.jpg"
+    },
+    "full": {
+      "url": "https://openaccess-cdn.clevelandart.org/1956.87/1956.87_full.tif",
+      "width": "104600",
+      "height": "2435",
+      "filesize": "764176772",
+      "filename": "1956.87_full.tif"
+    }
+  },
+  "alternate_images": [
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1956.87/1956.87_alt0_web.jpg",
+        "width": "1263",
+        "height": "655",
+        "filesize": "686133"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1956.87/1956.87_alt0_print.jpg",
+        "width": "3400",
+        "height": "1762",
+        "filesize": "4801734"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1956.87/1956.87_alt0_full.tif",
+        "width": "6274",
+        "height": "3252",
+        "filesize": "61242148"
+      },
+      "date_created": "2008-09-15T15:51:31",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1956.87/1956.87_alt1_web.jpg",
+        "width": "1263",
+        "height": "621",
+        "filesize": "640775"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1956.87/1956.87_alt1_print.jpg",
+        "width": "3400",
+        "height": "1673",
+        "filesize": "4455132"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1956.87/1956.87_alt1_full.tif",
+        "width": "6595",
+        "height": "3245",
+        "filesize": "64235252"
+      },
+      "date_created": "2008-09-15T15:57:05",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1956.87/1956.87_alt2_web.jpg",
+        "width": "1263",
+        "height": "616",
+        "filesize": "647629"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1956.87/1956.87_alt2_print.jpg",
+        "width": "3400",
+        "height": "1658",
+        "filesize": "4445239"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1956.87/1956.87_alt2_full.tif",
+        "width": "6645",
+        "height": "3241",
+        "filesize": "64642796"
+      },
+      "date_created": "2008-09-15T16:03:47",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1956.87/1956.87_alt3_web.jpg",
+        "width": "1263",
+        "height": "623",
+        "filesize": "607973"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1956.87/1956.87_alt3_print.jpg",
+        "width": "3400",
+        "height": "1676",
+        "filesize": "4306891"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1956.87/1956.87_alt3_full.tif",
+        "width": "6559",
+        "height": "3234",
+        "filesize": "63667488"
+      },
+      "date_created": "2008-09-15T16:09:24",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1956.87/1956.87_alt4_web.jpg",
+        "width": "1263",
+        "height": "616",
+        "filesize": "613195"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1956.87/1956.87_alt4_print.jpg",
+        "width": "3400",
+        "height": "1657",
+        "filesize": "4336298"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1956.87/1956.87_alt4_full.tif",
+        "width": "6590",
+        "height": "3211",
+        "filesize": "63513444"
+      },
+      "date_created": "2008-09-15T17:13:04",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1956.87/1956.87_alt5_web.jpg",
+        "width": "1263",
+        "height": "611",
+        "filesize": "664473"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1956.87/1956.87_alt5_print.jpg",
+        "width": "3400",
+        "height": "1644",
+        "filesize": "4587617"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1956.87/1956.87_alt5_full.tif",
+        "width": "6622",
+        "height": "3202",
+        "filesize": "63643688"
+      },
+      "date_created": "2008-09-15T17:18:18",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1956.87/1956.87_alt6_web.jpg",
+        "width": "1263",
+        "height": "625",
+        "filesize": "661117"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1956.87/1956.87_alt6_print.jpg",
+        "width": "3400",
+        "height": "1682",
+        "filesize": "4667498"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1956.87/1956.87_alt6_full.tif",
+        "width": "6652",
+        "height": "3291",
+        "filesize": "65707400"
+      },
+      "date_created": "2008-09-15T17:22:08",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1956.87/1956.87_alt7_web.jpg",
+        "width": "1263",
+        "height": "611",
+        "filesize": "621381"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1956.87/1956.87_alt7_print.jpg",
+        "width": "3400",
+        "height": "1645",
+        "filesize": "4348626"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1956.87/1956.87_alt7_full.tif",
+        "width": "6651",
+        "height": "3217",
+        "filesize": "64220900"
+      },
+      "date_created": "2008-09-15T17:25:52",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1956.87/1956.87_alt8_web.jpg",
+        "width": "1263",
+        "height": "613",
+        "filesize": "624820"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1956.87/1956.87_alt8_print.jpg",
+        "width": "3400",
+        "height": "1649",
+        "filesize": "4353207"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1956.87/1956.87_alt8_full.tif",
+        "width": "6660",
+        "height": "3230",
+        "filesize": "64567788"
+      },
+      "date_created": "2008-09-15T17:30:37",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1956.87/1956.87_alt9_web.jpg",
+        "width": "1263",
+        "height": "614",
+        "filesize": "646032"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1956.87/1956.87_alt9_print.jpg",
+        "width": "3400",
+        "height": "1653",
+        "filesize": "4538623"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1956.87/1956.87_alt9_full.tif",
+        "width": "6643",
+        "height": "3229",
+        "filesize": "64383164"
+      },
+      "date_created": "2008-09-15T17:37:00",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1956.87/1956.87_alt10_web.jpg",
+        "width": "1263",
+        "height": "615",
+        "filesize": "648261"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1956.87/1956.87_alt10_print.jpg",
+        "width": "3400",
+        "height": "1655",
+        "filesize": "4547396"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1956.87/1956.87_alt10_full.tif",
+        "width": "6651",
+        "height": "3237",
+        "filesize": "64620268"
+      },
+      "date_created": "2008-09-15T17:41:39",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1956.87/1956.87_alt11_web.jpg",
+        "width": "1263",
+        "height": "613",
+        "filesize": "646758"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1956.87/1956.87_alt11_print.jpg",
+        "width": "3400",
+        "height": "1650",
+        "filesize": "4504431"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1956.87/1956.87_alt11_full.tif",
+        "width": "6654",
+        "height": "3230",
+        "filesize": "64510184"
+      },
+      "date_created": "2008-09-15T17:48:54",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1956.87/1956.87_alt12_web.jpg",
+        "width": "1263",
+        "height": "612",
+        "filesize": "609883"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1956.87/1956.87_alt12_print.jpg",
+        "width": "3400",
+        "height": "1648",
+        "filesize": "4236118"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1956.87/1956.87_alt12_full.tif",
+        "width": "6655",
+        "height": "3226",
+        "filesize": "64439544"
+      },
+      "date_created": "2008-09-15T17:54:19",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1956.87/1956.87_alt13_web.jpg",
+        "width": "1263",
+        "height": "613",
+        "filesize": "577993"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1956.87/1956.87_alt13_print.jpg",
+        "width": "3400",
+        "height": "1651",
+        "filesize": "4154229"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1956.87/1956.87_alt13_full.tif",
+        "width": "6668",
+        "height": "3237",
+        "filesize": "64784412"
+      },
+      "date_created": "2008-09-15T17:59:49",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1956.87/1956.87_alt14_web.jpg",
+        "width": "1263",
+        "height": "611",
+        "filesize": "590912"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1956.87/1956.87_alt14_print.jpg",
+        "width": "3400",
+        "height": "1644",
+        "filesize": "4155041"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1956.87/1956.87_alt14_full.tif",
+        "width": "6650",
+        "height": "3215",
+        "filesize": "64171180"
+      },
+      "date_created": "2008-09-15T18:03:13",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1956.87/1956.87_alt15_web.jpg",
+        "width": "1263",
+        "height": "611",
+        "filesize": "624201"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1956.87/1956.87_alt15_print.jpg",
+        "width": "3400",
+        "height": "1646",
+        "filesize": "4327620"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1956.87/1956.87_alt15_full.tif",
+        "width": "6650",
+        "height": "3219",
+        "filesize": "64251140"
+      },
+      "date_created": "2008-09-15T18:07:12",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1956.87/1956.87_alt16_web.jpg",
+        "width": "1263",
+        "height": "610",
+        "filesize": "635338"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1956.87/1956.87_alt16_print.jpg",
+        "width": "3400",
+        "height": "1643",
+        "filesize": "4405936"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1956.87/1956.87_alt16_full.tif",
+        "width": "6650",
+        "height": "3213",
+        "filesize": "64131676"
+      },
+      "date_created": "2008-09-15T18:11:12",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1956.87/1956.87_alt17_web.jpg",
+        "width": "1263",
+        "height": "611",
+        "filesize": "620354"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1956.87/1956.87_alt17_print.jpg",
+        "width": "3400",
+        "height": "1646",
+        "filesize": "4323606"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1956.87/1956.87_alt17_full.tif",
+        "width": "6658",
+        "height": "3223",
+        "filesize": "64408568"
+      },
+      "date_created": "2008-09-15T18:14:33",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1956.87/1956.87_alt18_web.jpg",
+        "width": "1263",
+        "height": "614",
+        "filesize": "656536"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1956.87/1956.87_alt18_print.jpg",
+        "width": "3400",
+        "height": "1653",
+        "filesize": "4314486"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1956.87/1956.87_alt18_full.tif",
+        "width": "6649",
+        "height": "3232",
+        "filesize": "64503340"
+      },
+      "date_created": "2008-09-15T18:16:24",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1956.87/1956.87_alt19_web.jpg",
+        "width": "1263",
+        "height": "611",
+        "filesize": "646779"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1956.87/1956.87_alt19_print.jpg",
+        "width": "3400",
+        "height": "1645",
+        "filesize": "4253432"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1956.87/1956.87_alt19_full.tif",
+        "width": "6651",
+        "height": "3217",
+        "filesize": "64222796"
+      },
+      "date_created": "2008-09-15T18:32:39",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1956.87/1956.87_alt20_web.jpg",
+        "width": "1263",
+        "height": "611",
+        "filesize": "641584"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1956.87/1956.87_alt20_print.jpg",
+        "width": "3400",
+        "height": "1646",
+        "filesize": "4426846"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1956.87/1956.87_alt20_full.tif",
+        "width": "6631",
+        "height": "3211",
+        "filesize": "63909780"
+      },
+      "date_created": "2008-09-15T18:42:42",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1956.87/1956.87_alt21_web.jpg",
+        "width": "1263",
+        "height": "613",
+        "filesize": "616316"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1956.87/1956.87_alt21_print.jpg",
+        "width": "3400",
+        "height": "1649",
+        "filesize": "4384421"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1956.87/1956.87_alt21_full.tif",
+        "width": "6647",
+        "height": "3223",
+        "filesize": "64301848"
+      },
+      "date_created": "2008-09-15T18:48:02",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1956.87/1956.87_alt22_web.jpg",
+        "width": "1263",
+        "height": "610",
+        "filesize": "621246"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1956.87/1956.87_alt22_print.jpg",
+        "width": "3400",
+        "height": "1641",
+        "filesize": "4370675"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1956.87/1956.87_alt22_full.tif",
+        "width": "6650",
+        "height": "3210",
+        "filesize": "64071788"
+      },
+      "date_created": "2008-09-15T18:54:40",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1956.87/1956.87_alt23_web.jpg",
+        "width": "1263",
+        "height": "613",
+        "filesize": "630089"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1956.87/1956.87_alt23_print.jpg",
+        "width": "3400",
+        "height": "1650",
+        "filesize": "4356855"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1956.87/1956.87_alt23_full.tif",
+        "width": "6652",
+        "height": "3228",
+        "filesize": "64451260"
+      },
+      "date_created": "2008-09-15T18:58:52",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1956.87/1956.87_alt24_web.jpg",
+        "width": "1263",
+        "height": "614",
+        "filesize": "627476"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1956.87/1956.87_alt24_print.jpg",
+        "width": "3400",
+        "height": "1653",
+        "filesize": "4242221"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1956.87/1956.87_alt24_full.tif",
+        "width": "6650",
+        "height": "3233",
+        "filesize": "64531948"
+      },
+      "date_created": "2008-09-15T19:03:25",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1956.87/1956.87_alt25_web.jpg",
+        "width": "1263",
+        "height": "611",
+        "filesize": "533969"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1956.87/1956.87_alt25_print.jpg",
+        "width": "3400",
+        "height": "1646",
+        "filesize": "3835698"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1956.87/1956.87_alt25_full.tif",
+        "width": "6654",
+        "height": "3222",
+        "filesize": "64349760"
+      },
+      "date_created": "2008-09-15T19:10:51",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1956.87/1956.87_alt26_web.jpg",
+        "width": "1263",
+        "height": "364",
+        "filesize": "99524"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1956.87/1956.87_alt26_print.jpg",
+        "width": "2048",
+        "height": "590",
+        "filesize": "284941"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1956.87/1956.87_alt26_full.tif",
+        "width": "2048",
+        "height": "590",
+        "filesize": "287913"
+      },
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1956.87/1956.87_alt27_web.jpg",
+        "width": "1263",
+        "height": "323",
+        "filesize": "349484"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1956.87/1956.87_alt27_print.jpg",
+        "width": "3400",
+        "height": "869",
+        "filesize": "2450711"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1956.87/1956.87_alt27_full.tif",
+        "width": "3922",
+        "height": "1002",
+        "filesize": "11793720"
+      },
+      "annotation": ""
+    }
+  ],
+  "creditline": "Mr. and Mrs. William H. Marlatt, John L. Severance, and Edward L. Whittemore Funds",
+  "image_credit": null,
+  "sketchfab_id": null,
+  "sketchfab_url": null,
+  "gallery_donor_text": null,
+  "athena_id": 134430,
+  "creators": [],
+  "legal_status": "accessioned",
+  "accession_date": "1956-04-05T00:00:00",
+  "sortable_date": 1300,
+  "date_added_to_oa": null,
+  "date_text": "early 1300s",
+  "collapse_artists": false,
+  "on_loan": false,
+  "recently_acquired": false,
+  "record_type": "object",
+  "conservation_statement": null,
+  "has_conservation_images": false,
+  "cover_accession_number": null,
+  "is_nazi_era_provenance": false,
+  "impression": null,
+  "alternate_titles": [
+    "Legends of the Yuzu Nembutsu Sect: Yuzu Nembutsu Engi",
+    "Yuzu Nembutsu Engi: Efficacy of Repeated Invocations to the Amida Buddha"
+  ],
+  "is_highlight": true,
+  "updated_at": "2026-07-21 11:12:34.801000"
+}

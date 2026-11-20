@@ -1,0 +1,348 @@
+{
+  "id": 167663,
+  "accession_number": "2009.342.2",
+  "share_license_status": "CC0",
+  "tombstone": "Shakyamuni Triad: Buddha Attended by Manjushri and Samantabhadra (Buddha) (釋迦三尊：釋迦摩尼與文殊菩薩普賢菩薩), late 1300s. China, Fuzhou, Fujian Province, Yuan dynasty (1271-1368). Hanging scroll; ink and color on silk; painting: 107 x 46.6 cm (42 1/8 x 18 3/8 in.); overall with knobs: 192.4 x 66.7 cm (75 3/4 x 26 1/4 in.). The Cleveland Museum of Art, Purchase from the J. H. Wade Fund, 2009.342.2",
+  "current_location": null,
+  "title": "Shakyamuni Triad: Buddha Attended by Manjushri and Samantabhadra (Buddha)",
+  "title_in_original_language": "釋迦三尊：釋迦摩尼與文殊菩薩普賢菩薩",
+  "creation_date": "late 1300s",
+  "creation_date_earliest": 1350,
+  "creation_date_latest": 1368,
+  "artists_tags": [],
+  "culture": [
+    "China, Fuzhou, Fujian Province, Yuan dynasty (1271-1368)"
+  ],
+  "technique": "Hanging scroll; ink and color on silk",
+  "support_materials": [],
+  "department": "Chinese Art",
+  "collection": "ASIAN - Hanging scroll",
+  "type": "Painting",
+  "measurements": "Painting: 107 x 46.6 cm (42 1/8 x 18 3/8 in.); Overall with knobs: 192.4 x 66.7 cm (75 3/4 x 26 1/4 in.)",
+  "dimensions": {
+    "painting": {
+      "height": 1.07,
+      "height_inch": 42,
+      "height_inch_fraction": 0.125,
+      "width": 0.466,
+      "width_inch": 18,
+      "width_inch_fraction": 0.375
+    },
+    "overall": {
+      "height": 1.924,
+      "height_inch": 75,
+      "height_inch_fraction": 0.75,
+      "width": 0.625,
+      "width_inch": 24,
+      "width_inch_fraction": 0.625
+    },
+    "overall with knobs": {
+      "height": 1.924,
+      "height_inch": 75,
+      "height_inch_fraction": 0.75,
+      "width": 0.667,
+      "width_inch": 26,
+      "width_inch_fraction": 0.25
+    }
+  },
+  "state_of_the_work": null,
+  "edition_of_the_work": null,
+  "copyright": null,
+  "inscriptions": [
+    {
+      "inscription": "Inscription at the bottom of the central scroll reads: \"Da Song Fuzhou fu…(Fuzhou prefecture of the great Song).\"  \n大宋福州府",
+      "inscription_translation": null,
+      "inscription_remark": null,
+      "sortorder": null
+    }
+  ],
+  "exhibitions": {
+    "current": [
+      {
+        "id": 318433,
+        "title": "Taming Tigers and Releasing Dragons: Masterpieces of Chinese Buddhist Art – Chinese Gallery Rotation 240a, 241c",
+        "description": "<i>Taming Tigers and Releasing Dragons: Masterpieces of Chinese Buddhist Art – Chinese Gallery Rotation 240a, 241c</i>. The Cleveland Museum of Art (organizer) (February 8-August 11, 2019).",
+        "opening_date": "2019-02-08T05:00:00"
+      },
+      {
+        "id": 539332,
+        "title": "Six Dynasties of Chinese Painting (Chinese art rotation)",
+        "description": "<i>Six Dynasties of Chinese Painting (Chinese art rotation)</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (November 10, 2023-May 5, 2024).",
+        "opening_date": "2023-11-10T05:00:00"
+      }
+    ],
+    "legacy": [
+      {
+        "description": "<em>Main gallery rotation (Gallery 244), </em>The Cleveland Museum of Art, Cleveland, OH (March 11-July 7, 2015).",
+        "opening_date": "2015-03-11T00:00:00"
+      }
+    ]
+  },
+  "provenance": [
+    {
+      "description": "Reportedly from the Enman-in 円満院 located inside the Onjo-ji temple (also known as the Miidera temple) in Otsu City, Shiga prefecture, Japan",
+      "citations": [],
+      "footnotes": [],
+      "date": "before 1888–c. 1945",
+      "sortorder": 1
+    },
+    {
+      "description": "Private collection, Japan",
+      "citations": [],
+      "footnotes": [],
+      "date": "after 1945–c. 1985",
+      "sortorder": 2
+    },
+    {
+      "description": "Takashi Yanagi of Yanagi Fine Art Shop, Kyoto, Japan, to Koichi Yanagi",
+      "citations": [],
+      "footnotes": null,
+      "date": "c. 1985–before 2009",
+      "sortorder": 3
+    },
+    {
+      "description": "(Koichi Yanagi Oriental Fine Art, Kyoto, Japan, sold to the Cleveland Museum of Art)",
+      "citations": [],
+      "footnotes": [],
+      "date": "?–2009",
+      "sortorder": 4
+    },
+    {
+      "description": "The Cleveland Museum of Art, Cleveland, OH",
+      "citations": [],
+      "footnotes": [],
+      "date": "2009–",
+      "sortorder": 5
+    }
+  ],
+  "find_spot": null,
+  "related_works": [],
+  "former_accession_numbers": [],
+  "did_you_know": "Shakyamuni is seated cross-legged on the throne with the hand gesture (mudra) of giving instruction.",
+  "early_education_description": null,
+  "artlens_description": null,
+  "description": "This triptych is a rare example of Yuan Buddhist painting. It depicts the historic Buddha Shakyamuni flanked by two attending bodhisattvas, Manjushri (the bodhisattva of wisdom, riding a lion) and Samantabhadra (the bodhisattva of universal virtue, riding an elephant). Below them are others seeking enlightenment: two disciples of the Buddha (Ananada and Kasyapa), two non-Chinese people, a boy with topknots, and a female worshiper. <br><br>The clouds above and around the divine beings form one scene that illustrates Shakyamuni’s sermon from the <em>Lotus Sutra</em>. This text became an important basis for Buddhist faith throughout East Asia and was central to the Mahayana school of Buddhism.",
+  "external_resources": {
+    "wikidata": [
+      "https://www.wikidata.org/wiki/Q60480523"
+    ],
+    "internet_archive": [
+      "https://archive.org/details/clevelandart-2009.342.2-shakyamuni-triad-bud"
+    ]
+  },
+  "citations": [
+    {
+      "citation": "Ōsaka Shiritsu Bijutsukan 大阪市立美術館. <em>Sō Gen no bijutsu </em>宋元の美術. Tōkyō: Heibonsha, 1980.",
+      "page_number": "Reproduced: pl. 300",
+      "url": null
+    },
+    {
+      "citation": "<em>Fenorosa, Tenshin no mita Ōmi: Meiji 21-nen rinji zenkoku hōmotsu chōsa kara: tokubetsuten</em> [フェノロサ・天心の見た近江 : 明治 21年臨時全国宝物調查から : 特别展]. Ōtsu-shi: Shiga Kenritsu Biwako Bunkakan, Heisei 16 [2004].",
+      "page_number": "p. 95",
+      "url": null
+    },
+    {
+      "citation": "<em>Sō Gen butsuga: kaikan 40-shūnen kinen tokubetsuten </em>[宋元仏画: 開館 40周年記念特別展 = The 40th Anniversary Special Exhibition: Buddhist Paintings of Song and Yuan Dynasties]. Yokohama-shi: Kanagawa Kenritsu Rekishi Hakubutsukan [神奈川県立歴史博物館 = Kanagawa Prefectural Museum of Cultural History], 2007.",
+      "page_number": "Reproduced: p. 38, pl. 5",
+      "url": null
+    },
+    {
+      "citation": "“Art of Asia Acquired by North American Museums, 2008-2009.” <em>Archives of Asian Art</em>, vol. 60, 2010, pp. 95–159.",
+      "page_number": "Reproduced:  p. 109, no. 14",
+      "url": "https://www.jstor.org/stable/40863712"
+    },
+    {
+      "citation": "Chung, Anita. \"Re-emergence: New Chinese Galleries and Art Acquisitions of The Cleveland Museum of Art.\" <em>Orientations</em> vol 44 no. 8 (November/December 2013): 64-75.",
+      "page_number": "Reproduced: pp. 68-69, fig. 5",
+      "url": null
+    },
+    {
+      "citation": "Chou, Ju-hsi and Anita Chung. <em>Silent poetry: Chinese paintings from the collection of the Cleveland Museum of Art</em>. Cleveland, OH: Cleveland Museum of Art, 2015.",
+      "page_number": "Reproduced: pp. 196-200",
+      "url": null
+    }
+  ],
+  "url": "https://clevelandart.org/art/2009.342.2",
+  "images": {
+    "annotation": null,
+    "web": {
+      "url": "https://openaccess-cdn.clevelandart.org/2009.342.2/2009.342.2_web.jpg",
+      "width": "403",
+      "height": "893",
+      "filesize": "308260",
+      "filename": "2009.342.2_web.jpg"
+    },
+    "print": {
+      "url": "https://openaccess-cdn.clevelandart.org/2009.342.2/2009.342.2_print.jpg",
+      "width": "1535",
+      "height": "3400",
+      "filesize": "4547360",
+      "filename": "2009.342.2_print.jpg"
+    },
+    "full": {
+      "url": "https://openaccess-cdn.clevelandart.org/2009.342.2/2009.342.2_full.tif",
+      "width": "2969",
+      "height": "6576",
+      "filesize": "58598228",
+      "filename": "2009.342.2_full.tif"
+    }
+  },
+  "alternate_images": [
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/2009.342.2/2009.342.2_alt0_web.jpg",
+        "width": "396",
+        "height": "893",
+        "filesize": "229998"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/2009.342.2/2009.342.2_alt0_print.jpg",
+        "width": "1509",
+        "height": "3400",
+        "filesize": "3112520"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/2009.342.2/2009.342.2_alt0_full.tif",
+        "width": "2933",
+        "height": "6607",
+        "filesize": "58160808"
+      },
+      "date_created": "2009-11-17T14:05:05",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/2009.342.2/2009.342.2_alt1_web.jpg",
+        "width": "662",
+        "height": "893",
+        "filesize": "502402"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/2009.342.2/2009.342.2_alt1_print.jpg",
+        "width": "2520",
+        "height": "3400",
+        "filesize": "8105689"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/2009.342.2/2009.342.2_alt1_full.tif",
+        "width": "4943",
+        "height": "6668",
+        "filesize": "98906216"
+      },
+      "date_created": "2009-11-17T15:36:21",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/2009.342.2/2009.342.2_alt2_web.jpg",
+        "width": "423",
+        "height": "893",
+        "filesize": "329563"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/2009.342.2/2009.342.2_alt2_print.jpg",
+        "width": "1610",
+        "height": "3400",
+        "filesize": "5380388"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/2009.342.2/2009.342.2_alt2_full.tif",
+        "width": "3122",
+        "height": "6595",
+        "filesize": "61794380"
+      },
+      "date_created": "2009-11-17T15:41:06",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/2009.342.2/2009.342.2_alt3_web.jpg",
+        "width": "464",
+        "height": "893",
+        "filesize": "368234"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/2009.342.2/2009.342.2_alt3_print.jpg",
+        "width": "1765",
+        "height": "3400",
+        "filesize": "5909892"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/2009.342.2/2009.342.2_alt3_full.tif",
+        "width": "3424",
+        "height": "6597",
+        "filesize": "67790280"
+      },
+      "date_created": "2009-11-17T15:42:43",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/2009.342.2/2009.342.2_alt4_web.jpg",
+        "width": "622",
+        "height": "893",
+        "filesize": "459619"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/2009.342.2/2009.342.2_alt4_print.jpg",
+        "width": "2367",
+        "height": "3400",
+        "filesize": "7944058"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/2009.342.2/2009.342.2_alt4_full.tif",
+        "width": "4643",
+        "height": "6668",
+        "filesize": "92903520"
+      },
+      "date_created": "2009-11-17T15:44:27",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/2009.342.2/2009.342.2_alt5_web.jpg",
+        "width": "548",
+        "height": "893",
+        "filesize": "473215"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/2009.342.2/2009.342.2_alt5_print.jpg",
+        "width": "2087",
+        "height": "3400",
+        "filesize": "6029012"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/2009.342.2/2009.342.2_alt5_full.tif",
+        "width": "3240",
+        "height": "5278",
+        "filesize": "51328872"
+      },
+      "date_created": "2009-11-17T15:46:11",
+      "annotation": ""
+    }
+  ],
+  "creditline": "Purchase from the J. H. Wade Fund",
+  "image_credit": null,
+  "sketchfab_id": null,
+  "sketchfab_url": null,
+  "gallery_donor_text": null,
+  "athena_id": 167663,
+  "creators": [],
+  "legal_status": "accessioned",
+  "accession_date": "2009-11-30T00:00:00",
+  "sortable_date": 1350,
+  "date_added_to_oa": null,
+  "date_text": "late 1300s",
+  "collapse_artists": false,
+  "on_loan": false,
+  "recently_acquired": false,
+  "record_type": "component",
+  "conservation_statement": null,
+  "has_conservation_images": false,
+  "cover_accession_number": "2009.342",
+  "is_nazi_era_provenance": false,
+  "impression": null,
+  "alternate_titles": [],
+  "is_highlight": false,
+  "updated_at": "2026-06-25 11:12:55.283000"
+}

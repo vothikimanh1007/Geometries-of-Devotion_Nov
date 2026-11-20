@@ -1,0 +1,247 @@
+{
+  "id": 147047,
+  "accession_number": "1972.7",
+  "share_license_status": "CC0",
+  "tombstone": "Maitreya:  The Buddha of the Future, 600s. Cambodia. Bronze; overall: 28.2 cm (11 1/8 in.). The Cleveland Museum of Art, John L. Severance Fund, 1972.7",
+  "current_location": null,
+  "title": "Maitreya:  The Buddha of the Future",
+  "creation_date": "600s",
+  "creation_date_earliest": 600,
+  "creation_date_latest": 699,
+  "artists_tags": [],
+  "culture": [
+    "Cambodia"
+  ],
+  "technique": "bronze",
+  "support_materials": [],
+  "department": "Indian and Southeast Asian Art",
+  "collection": "Cambodian Art",
+  "type": "Sculpture",
+  "measurements": "Overall: 28.2 cm (11 1/8 in.)",
+  "dimensions": {
+    "overall": {
+      "height": 0.282,
+      "height_inch": 11,
+      "height_inch_fraction": 0.125
+    }
+  },
+  "state_of_the_work": null,
+  "edition_of_the_work": null,
+  "copyright": null,
+  "inscriptions": [],
+  "exhibitions": {
+    "current": [
+      {
+        "id": 301752,
+        "title": "Year in Review: 1972",
+        "description": "<i>Year in Review: 1972</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (February 27-March 18, 1973).",
+        "opening_date": "1973-02-27T05:00:00"
+      }
+    ],
+    "legacy": []
+  },
+  "provenance": [
+    {
+      "description": "(J.J. Klejman [1906–1995], New York, NY, sold to the Cleveland Museum of Art)",
+      "citations": [],
+      "footnotes": null,
+      "date": "?–1972",
+      "sortorder": 1
+    },
+    {
+      "description": "The Cleveland Museum of Art, Cleveland, OH",
+      "citations": [],
+      "footnotes": null,
+      "date": "1972–",
+      "sortorder": 2
+    }
+  ],
+  "find_spot": null,
+  "related_works": [],
+  "former_accession_numbers": [],
+  "did_you_know": "The slender fingers of the left hand hold a water pot while the right hand is in the gesture of the vitarka mudra, a gesture of explanation and exposition.",
+  "early_education_description": null,
+  "artlens_description": null,
+  "description": null,
+  "external_resources": {
+    "wikidata": [
+      "https://www.wikidata.org/wiki/Q79926048"
+    ],
+    "internet_archive": [
+      "https://archive.org/details/clevelandart-1972.7-maitreya-the-buddha"
+    ]
+  },
+  "citations": [
+    {
+      "citation": "“Annual Report for 1972.” <em>The Bulletin of the Cleveland Museum of Art</em> 60, no. 6 (June 1973): 171–205.",
+      "page_number": "Mentioned: p. 184",
+      "url": "http://www.jstor.org/stable/25152482"
+    },
+    {
+      "citation": "The Cleveland Museum of Art. <em>Handbook of the Cleveland Museum of Art/1978</em>. Cleveland, OH: The Cleveland Museum of Art, 1978.",
+      "page_number": "Reproduced: p. 316",
+      "url": "https://archive.org/details/CMAHandbook1978/page/n336"
+    }
+  ],
+  "url": "https://clevelandart.org/art/1972.7",
+  "images": {
+    "annotation": null,
+    "web": {
+      "url": "https://openaccess-cdn.clevelandart.org/1972.7/1972.7_web.jpg",
+      "width": "599",
+      "height": "893",
+      "filesize": "46300",
+      "filename": "1972.7_web.jpg"
+    },
+    "print": {
+      "url": "https://openaccess-cdn.clevelandart.org/1972.7/1972.7_print.jpg",
+      "width": "2282",
+      "height": "3400",
+      "filesize": "720569",
+      "filename": "1972.7_print.jpg"
+    },
+    "full": {
+      "url": "https://openaccess-cdn.clevelandart.org/1972.7/1972.7_full.tif",
+      "width": "3886",
+      "height": "5789",
+      "filesize": "67519408",
+      "filename": "1972.7_full.tif"
+    }
+  },
+  "alternate_images": [
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1972.7/1972.7_alt0_web.jpg",
+        "width": "573",
+        "height": "893",
+        "filesize": "44663"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1972.7/1972.7_alt0_print.jpg",
+        "width": "2183",
+        "height": "3400",
+        "filesize": "704650"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1972.7/1972.7_alt0_full.tif",
+        "width": "3637",
+        "height": "5662",
+        "filesize": "61811684"
+      },
+      "date_created": "2012-06-05T15:48:18",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1972.7/1972.7_alt1_web.jpg",
+        "width": "585",
+        "height": "893",
+        "filesize": "40156"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1972.7/1972.7_alt1_print.jpg",
+        "width": "2226",
+        "height": "3400",
+        "filesize": "645641"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1972.7/1972.7_alt1_full.tif",
+        "width": "3781",
+        "height": "5775",
+        "filesize": "65537588"
+      },
+      "date_created": "2012-06-05T18:01:34",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1972.7/1972.7_alt2_web.jpg",
+        "width": "548",
+        "height": "893",
+        "filesize": "37750"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1972.7/1972.7_alt2_print.jpg",
+        "width": "2086",
+        "height": "3400",
+        "filesize": "588813"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1972.7/1972.7_alt2_full.tif",
+        "width": "3538",
+        "height": "5766",
+        "filesize": "61235700"
+      },
+      "date_created": "2012-06-05T17:18:04",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1972.7/1972.7_alt3_web.jpg",
+        "width": "558",
+        "height": "893",
+        "filesize": "35560"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1972.7/1972.7_alt3_print.jpg",
+        "width": "2123",
+        "height": "3400",
+        "filesize": "567148"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1972.7/1972.7_alt3_full.tif",
+        "width": "3633",
+        "height": "5818",
+        "filesize": "63440716"
+      },
+      "date_created": "2012-06-05T18:12:03",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1972.7/1972.7_alt4_web.jpg",
+        "width": "590",
+        "height": "893",
+        "filesize": "46031"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1972.7/1972.7_alt4_print.jpg",
+        "width": "2248",
+        "height": "3400",
+        "filesize": "743157"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1972.7/1972.7_alt4_full.tif",
+        "width": "3835",
+        "height": "5799",
+        "filesize": "66746328"
+      },
+      "date_created": "2012-06-05T17:50:59",
+      "annotation": ""
+    }
+  ],
+  "creditline": "John L. Severance Fund",
+  "image_credit": null,
+  "sketchfab_id": null,
+  "sketchfab_url": null,
+  "gallery_donor_text": null,
+  "athena_id": 147047,
+  "creators": [],
+  "legal_status": "accessioned",
+  "accession_date": "1972-01-31T00:00:00",
+  "sortable_date": 600,
+  "date_added_to_oa": null,
+  "date_text": "600s",
+  "collapse_artists": false,
+  "on_loan": false,
+  "recently_acquired": false,
+  "record_type": "object",
+  "conservation_statement": null,
+  "has_conservation_images": false,
+  "cover_accession_number": null,
+  "is_nazi_era_provenance": false,
+  "impression": null,
+  "alternate_titles": [],
+  "is_highlight": false,
+  "updated_at": "2026-08-03 14:18:47.218000"
+}

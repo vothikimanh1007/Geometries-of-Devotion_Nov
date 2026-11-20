@@ -1,0 +1,34 @@
+{
+  "systemNumber": "O18934",
+  "accessionNumber": "FE.13-1998",
+  "objectType": "Figure",
+  "availableToBook": false,
+  "_currentLocation": {
+    "id": "THES344551",
+    "displayName": "Storage Displays, Level 3",
+    "type": "display",
+    "site": "ES",
+    "onDisplay": true,
+    "detail": {
+      "free": "",
+      "case": "",
+      "shelf": "",
+      "box": ""
+    }
+  },
+  "_primaryTitle": "Buddha in Flight",
+  "_primaryMaker": {
+    "name": "Yang, Loretta H.",
+    "association": "maker"
+  },
+  "_primaryImageId": "2006AA4659",
+  "_primaryDate": "1998",
+  "_primaryPlace": "Shanghai",
+  "_warningTypes": [],
+  "_images": {
+    "_primary_thumbnail": "https://framemark.vam.ac.uk/collections/2006AA4659/full/!100,100/0/default.jpg",
+    "_iiif_image_base_url": "https://framemark.vam.ac.uk/collections/2006AA4659/",
+    "_iiif_presentation_url": null,
+    "imageResolution": "low"
+  }
+}

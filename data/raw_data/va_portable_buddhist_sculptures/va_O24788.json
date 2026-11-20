@@ -1,0 +1,34 @@
+{
+  "systemNumber": "O24788",
+  "accessionNumber": "IPN.2639",
+  "objectType": "Sculpture",
+  "availableToBook": false,
+  "_currentLocation": {
+    "id": "THES49793",
+    "displayName": "Buddhism, Room 47f, The Robert H. N. Ho Family Foundation Galleries of Buddhist Art",
+    "type": "display",
+    "site": "VA",
+    "onDisplay": true,
+    "detail": {
+      "free": "",
+      "case": "CA009",
+      "shelf": "",
+      "box": ""
+    }
+  },
+  "_primaryTitle": "Standing Buddha",
+  "_primaryMaker": {
+    "name": "Unknown",
+    "association": ""
+  },
+  "_primaryImageId": "2006AU5639",
+  "_primaryDate": "11th century-12th century",
+  "_primaryPlace": "Thanjavur",
+  "_warningTypes": [],
+  "_images": {
+    "_primary_thumbnail": "https://framemark.vam.ac.uk/collections/2006AU5639/full/!100,100/0/default.jpg",
+    "_iiif_image_base_url": "https://framemark.vam.ac.uk/collections/2006AU5639/",
+    "_iiif_presentation_url": "https://iiif.vam.ac.uk/collections/O24788/manifest.json",
+    "imageResolution": "high"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "systemNumber": "O168373",
+  "accessionNumber": "IM.13-1931",
+  "objectType": "Relief panel",
+  "availableToBook": false,
+  "_currentLocation": {
+    "id": "THES49793",
+    "displayName": "Buddhism, Room 47f, The Robert H. N. Ho Family Foundation Galleries of Buddhist Art",
+    "type": "display",
+    "site": "VA",
+    "onDisplay": true,
+    "detail": {
+      "free": "",
+      "case": "PL007",
+      "shelf": "",
+      "box": ""
+    }
+  },
+  "_primaryTitle": "",
+  "_primaryMaker": {
+    "name": "Unknown",
+    "association": ""
+  },
+  "_primaryImageId": "2006BC5341",
+  "_primaryDate": "5th century -6th Century",
+  "_primaryPlace": "Pakistan",
+  "_warningTypes": [],
+  "_images": {
+    "_primary_thumbnail": "https://framemark.vam.ac.uk/collections/2006BC5341/full/!100,100/0/default.jpg",
+    "_iiif_image_base_url": "https://framemark.vam.ac.uk/collections/2006BC5341/",
+    "_iiif_presentation_url": "https://iiif.vam.ac.uk/collections/O168373/manifest.json",
+    "imageResolution": "high"
+  }
+}

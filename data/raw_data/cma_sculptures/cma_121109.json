@@ -1,0 +1,266 @@
+{
+  "id": 121109,
+  "accession_number": "1941.94",
+  "share_license_status": "CC0",
+  "tombstone": "Seated Buddha, 200s CE. Northern India, Mathura, Kushan period. Sandstone; overall: 63 x 58.5 cm (24 13/16 x 23 1/16 in.). The Cleveland Museum of Art, Edward L. Whittemore Fund, 1941.94",
+  "current_location": null,
+  "title": "Seated Buddha",
+  "creation_date": "200s CE",
+  "creation_date_earliest": 200,
+  "creation_date_latest": 299,
+  "artists_tags": [],
+  "culture": [
+    "Northern India, Mathura, Kushan period"
+  ],
+  "technique": "sandstone",
+  "support_materials": [],
+  "department": "Indian and Southeast Asian Art",
+  "collection": "Indian Art - Kushan, Mathura",
+  "type": "Sculpture",
+  "measurements": "Overall: 63 x 58.5 cm (24 13/16 x 23 1/16 in.)",
+  "dimensions": {
+    "overall": {
+      "height": 0.63,
+      "height_inch": 24,
+      "height_inch_fraction": 0.8125,
+      "width": 0.585,
+      "width_inch": 23,
+      "width_inch_fraction": 0.0625
+    }
+  },
+  "state_of_the_work": null,
+  "edition_of_the_work": null,
+  "copyright": null,
+  "inscriptions": [],
+  "exhibitions": {
+    "current": [
+      {
+        "id": 520110,
+        "title": "Evolution of the Buddha Image",
+        "description": "<i>Evolution of the Buddha Image</i>. The Asia Society Museum, New York, NY (organizer) (May 7-June 30, 1963).",
+        "opening_date": "1963-05-07T04:00:00"
+      },
+      {
+        "id": 300779,
+        "title": "Juxtapositions",
+        "description": "<i>Juxtapositions</i>. The Cleveland Museum of Art, Cleveland, OH (September 11-October 10, 1965).",
+        "opening_date": "1965-09-11T04:00:00"
+      },
+      {
+        "id": 309889,
+        "title": "Kushan Sculpture: Images from Early India",
+        "description": "<i>Kushan Sculpture: Images from Early India</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (November 13, 1985-January 5, 1986).",
+        "opening_date": "1985-11-13T05:00:00"
+      },
+      {
+        "id": 218889,
+        "title": "Buddha",
+        "description": "<i>Buddha</i>. Tobu Museum of Art (April 11-June 28, 1998); Nara National Museum (July 11-August 30, 1998); Nagoya City Art Museum (September 9-October 11, 1998).",
+        "opening_date": "1998-04-11T00:00:00"
+      },
+      {
+        "id": 453007,
+        "title": "Julie Mehretu: Portals",
+        "description": "<i>Julie Mehretu: Portals</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (July 16-November 13, 2022).",
+        "opening_date": "2022-07-16T04:00:00"
+      }
+    ],
+    "legacy": [
+      {
+        "description": "<em>Buddhist Art. Detroit Institute of Arts, Twenty-Fourth Loan Exhibition, October, 1942</em>. Institute of Arts, Detroit, MI (October 1942).",
+        "opening_date": "1942-10-01T00:00:00"
+      },
+      {
+        "description": "<em>Indian Buddhist Sculpture in American Collections</em>. J.B. Speed Art Museum, Louisville, KY (February 27–March 31, 1968).",
+        "opening_date": "1968-03-31T00:00:00"
+      }
+    ]
+  },
+  "provenance": [
+    {
+      "description": "(Heeramaneck Galleries, New York, NY, sold to the Cleveland Museum of Art)",
+      "citations": [],
+      "footnotes": null,
+      "date": "?–1941",
+      "sortorder": 1
+    },
+    {
+      "description": "The Cleveland Museum of Art, Cleveland, OH",
+      "citations": [],
+      "footnotes": null,
+      "date": "1941–",
+      "sortorder": 2
+    }
+  ],
+  "find_spot": null,
+  "related_works": [],
+  "former_accession_numbers": [],
+  "did_you_know": null,
+  "early_education_description": null,
+  "artlens_description": null,
+  "description": "Artists in the north Indian city of Mathura reinterpreted the appearance of the Greco-Roman style of drapery, which was popular in the region of Gandhara, in present-day Pakistan. They preferred a more otherworldly, abstracted rendition of the folds, giving the Buddha a powerful, superhuman energy.",
+  "external_resources": {
+    "wikidata": [
+      "https://www.wikidata.org/wiki/Q80016764"
+    ],
+    "internet_archive": [
+      "https://archive.org/details/clevelandart-1941.94-seated-buddha"
+    ]
+  },
+  "citations": [
+    {
+      "citation": "Coomaraswamy, Ananda K. “The Origin of the Buddha Image.” <em>The Art Bulletin</em>, vol. 9, no. 4, 1927, pp. 287–329.",
+      "page_number": "Mentioned and Reproduced: p. 312, fig. 52",
+      "url": "www.jstor.org/stable/3046550"
+    },
+    {
+      "citation": "Hollis, Howard. “Buddhist Statue from Mathurā.” <em>The Bulletin of the Cleveland Museum of Art</em>, vol. 29, no. 6, 1942, pp. 98, 100–102.",
+      "page_number": "Reproduced: p. 98",
+      "url": "https://www.jstor.org/stable/25140996"
+    },
+    {
+      "citation": "Lee, Sherman E. <em>Buddhist Art. Detroit Institute of Arts, Twenty-Fourth Loan Exhibition, October, 1942</em>. Detroit: Detroit Institute of Arts, 1942.",
+      "page_number": "Mentioned: cat. no. 4, p. 21; Reproduced: cat. no. 4, p. 40",
+      "url": ""
+    },
+    {
+      "citation": "The Cleveland Museum of Art. <em>The Cleveland Museum of Art Handbook.</em> Cleveland, OH: The Cleveland Museum of Art, 1958.",
+      "page_number": "Mentioned and Reproduced: cat. no. 743",
+      "url": "https://archive.org/details/CMAHandbook1958/page/n135"
+    },
+    {
+      "citation": "Rowland, Benjamin. <em>The Evolution of the Buddha Image</em>. [New York]: Distributed by Abrams, 1963.",
+      "page_number": "Mentioned and Reproduced: p. 47, fig. 8",
+      "url": ""
+    },
+    {
+      "citation": "The Cleveland Museum of Art. <em>Handbook of the Cleveland Museum of Art/1966</em>. Cleveland, OH: The Cleveland Museum of Art, 1966.",
+      "page_number": "Reproduced: p. 230",
+      "url": "https://archive.org/details/CMAHandbook1966/page/n254"
+    },
+    {
+      "citation": "Begley, W. E. <em>Indian Buddhist Sculpture in American Collections</em>. Louisville, KY: J.B. Speed Art Museum, 1968.",
+      "page_number": "Mentioned and Reproduced: cat. no. 13",
+      "url": ""
+    },
+    {
+      "citation": "The Cleveland Museum of Art. <em>Handbook of the Cleveland Museum of Art/1969</em>. Cleveland, OH: The Cleveland Museum of Art, 1969.",
+      "page_number": "Reproduced: p. 230",
+      "url": "https://archive.org/details/CMAHandbook1969/page/n254"
+    },
+    {
+      "citation": "Czuma, Stanislaw. “Mathura Sculpture in the Cleveland Museum Collection.” <em>The Bulletin of the Cleveland Museum of Art</em>, vol. 64, no. 3, 1977, pp. 83–114.",
+      "page_number": "Mentioned and Reproduced: p. 98, fig. 26",
+      "url": "www.jstor.org/stable/25152680"
+    },
+    {
+      "citation": "The Cleveland Museum of Art. <em>Handbook of the Cleveland Museum of Art/1978</em>. Cleveland, OH: The Cleveland Museum of Art, 1978.",
+      "page_number": "Reproduced: p. 289",
+      "url": "https://archive.org/details/CMAHandbook1978/page/n309"
+    },
+    {
+      "citation": "Williams, Joanna Gottfried. <em>The Art of Gupta India: Empire and Province</em>. Princeton, NJ: Princeton University Press, 1982.",
+      "page_number": "Mentioned and Reproduced: pl. 22",
+      "url": ""
+    },
+    {
+      "citation": "Czuma, Stanislaw J., and Rekha Morris. <em>Kushan Sculpture: Images from Early India</em>. Cleveland, OH: The Cleveland Museum of Art in cooperation with Indiana University Press, 1985.",
+      "page_number": "Mentioned and Reproduced: cat.no. 16, p. 73",
+      "url": ""
+    }
+  ],
+  "url": "https://clevelandart.org/art/1941.94",
+  "images": {
+    "annotation": null,
+    "web": {
+      "url": "https://openaccess-cdn.clevelandart.org/1941.94/1941.94_web.jpg",
+      "width": "819",
+      "height": "893",
+      "filesize": "99415",
+      "filename": "1941.94_web.jpg"
+    },
+    "print": {
+      "url": "https://openaccess-cdn.clevelandart.org/1941.94/1941.94_print.jpg",
+      "width": "3117",
+      "height": "3400",
+      "filesize": "1527765",
+      "filename": "1941.94_print.jpg"
+    },
+    "full": {
+      "url": "https://openaccess-cdn.clevelandart.org/1941.94/1941.94_full.tif",
+      "width": "6000",
+      "height": "6543",
+      "filesize": "117811636",
+      "filename": "1941.94_full.tif"
+    }
+  },
+  "alternate_images": [
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1941.94/1941.94_alt0_web.jpg",
+        "width": "832",
+        "height": "893",
+        "filesize": "130177"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1941.94/1941.94_alt0_print.jpg",
+        "width": "3168",
+        "height": "3400",
+        "filesize": "1920375"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1941.94/1941.94_alt0_full.tif",
+        "width": "5887",
+        "height": "6318",
+        "filesize": "111627424"
+      },
+      "date_created": "2013-03-12T19:22:06",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1941.94/1941.94_alt1_web.jpg",
+        "width": "747",
+        "height": "893",
+        "filesize": "512254"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1941.94/1941.94_alt1_print.jpg",
+        "width": "1536",
+        "height": "1837",
+        "filesize": "2293455"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1941.94/1941.94_alt1_full.tif",
+        "width": "1536",
+        "height": "1837",
+        "filesize": "8468020"
+      },
+      "annotation": ""
+    }
+  ],
+  "creditline": "Edward L. Whittemore Fund",
+  "image_credit": null,
+  "sketchfab_id": null,
+  "sketchfab_url": null,
+  "gallery_donor_text": null,
+  "athena_id": 121109,
+  "creators": [],
+  "legal_status": "accessioned",
+  "accession_date": "1941-06-10T00:00:00",
+  "sortable_date": 200,
+  "date_added_to_oa": null,
+  "date_text": "200s CE",
+  "collapse_artists": false,
+  "on_loan": false,
+  "recently_acquired": false,
+  "record_type": "object",
+  "conservation_statement": null,
+  "has_conservation_images": false,
+  "cover_accession_number": null,
+  "is_nazi_era_provenance": false,
+  "impression": null,
+  "alternate_titles": [],
+  "is_highlight": false,
+  "updated_at": "2026-05-29 06:14:27.563000"
+}

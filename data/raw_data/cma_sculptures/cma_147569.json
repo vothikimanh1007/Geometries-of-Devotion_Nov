@@ -1,0 +1,1270 @@
+{
+  "id": 147569,
+  "accession_number": "1973.69",
+  "share_license_status": "CC0",
+  "tombstone": "Bejeweled Buddha Preaching, 1648. Nepal. Gum tempera, ink, and gold on cloth; overall: 109.5 x 82.5 cm (43 1/8 x 32 1/2 in.). The Cleveland Museum of Art, Purchase from the J. H. Wade Fund, 1973.69",
+  "current_location": null,
+  "title": "Bejeweled Buddha Preaching",
+  "creation_date": "1648",
+  "creation_date_earliest": 1648,
+  "creation_date_latest": 1648,
+  "artists_tags": [],
+  "culture": [
+    "Nepal"
+  ],
+  "technique": "Gum tempera, ink, and gold on cloth",
+  "support_materials": [],
+  "department": "Indian and Southeast Asian Art",
+  "collection": "Nepalese Art",
+  "type": "Painting",
+  "measurements": "Overall: 109.5 x 82.5 cm (43 1/8 x 32 1/2 in.)",
+  "dimensions": {
+    "overall": {
+      "height": 1.095,
+      "height_inch": 43,
+      "height_inch_fraction": 0.125,
+      "width": 0.825,
+      "width_inch": 32,
+      "width_inch_fraction": 0.5
+    }
+  },
+  "state_of_the_work": null,
+  "edition_of_the_work": null,
+  "copyright": null,
+  "inscriptions": [],
+  "exhibitions": {
+    "current": [
+      {
+        "id": 309885,
+        "title": "Sacred India",
+        "description": "<i>Sacred India</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (November 5, 1985-January 12, 1986).",
+        "opening_date": "1985-11-05T05:00:00"
+      },
+      {
+        "id": 216467,
+        "title": "The Circle of Bliss: Buddhist Meditational Art",
+        "description": "<i>The Circle of Bliss: Buddhist Meditational Art</i>. Los Angeles County Museum of Art, Los Angeles, CA (organizer) (October 5, 2003-January 11, 2004).",
+        "opening_date": "2003-10-05T00:00:00"
+      }
+    ],
+    "legacy": [
+      {
+        "description": "<em>Himalayan Gallery Rotation (gallery 239/237)</em>. The Cleveland Museum of Art, Cleveland, OH (November 2, 2015–April 4, 2016).",
+        "opening_date": "2015-11-02T05:00:00Z"
+      }
+    ]
+  },
+  "provenance": [
+    {
+      "description": "(Wiener Gallery, New York, NY, sold to the Cleveland Museum of Art)",
+      "citations": [],
+      "footnotes": null,
+      "date": "?–1973",
+      "sortorder": 1
+    },
+    {
+      "description": "The Cleveland Museum of Art, Cleveland, OH",
+      "citations": [],
+      "footnotes": null,
+      "date": "1973–",
+      "sortorder": 2
+    }
+  ],
+  "find_spot": null,
+  "related_works": [],
+  "former_accession_numbers": [],
+  "did_you_know": "Nepalese devotional paintings on cloth are called \"paubha\" in the Newari language.",
+  "early_education_description": null,
+  "artlens_description": null,
+  "description": null,
+  "external_resources": {
+    "wikidata": [
+      "https://www.wikidata.org/wiki/Q60472531"
+    ],
+    "internet_archive": [
+      "https://archive.org/details/clevelandart-1973.69-thangka-with-bejewel",
+      "https://archive.org/details/clevelandart-1973.69-bejeweled-buddha-pre"
+    ]
+  },
+  "citations": [
+    {
+      "citation": "\"The Year in Review for 1973.\" <em>The Bulletin of the Cleveland Museum of Art</em> 61, no. 2 (1974): 31–78.",
+      "page_number": "Mentioned: no. 199, p. 79; Reproduced: no. 199, p. 62",
+      "url": "https://www.jstor.org/stable/25152513"
+    },
+    {
+      "citation": "The Cleveland Museum of Art. <em>Handbook of the Cleveland Museum of Art/1978</em>. Cleveland, OH: The Cleveland Museum of Art, 1978.",
+      "page_number": "Reproduced: p. 297",
+      "url": "https://archive.org/details/CMAHandbook1978/page/n317"
+    },
+    {
+      "citation": "Slusser, Mary Shepherd. “Serpents, Sages, and Sorcerers in Cleveland.” <em>The Bulletin of the Cleveland Museum of Art</em> 66, no. 2 (February 1979): 67–82.",
+      "page_number": "Mentioned and Reproduced: p. 71, fig. 11",
+      "url": "http://www.jstor.org/stable/25159618"
+    },
+    {
+      "citation": "Huntington, John C., Dina Bangdel, and Robert A. F. Thurman. <em>The Circle of Bliss: Buddhist Meditational Art</em>. Chicago: Serindia Publications, 2003.",
+      "page_number": "Mentioned and Reproduced: pp. 146–149, cat. no. 30",
+      "url": null
+    },
+    {
+      "citation": "Béguin, Gilles. <em>Buddhist Art: An Historical and Cultural Journey</em>. Bangkok: River Books, 2009.",
+      "page_number": "Mentioned and Reproduced: p. 253, fig. 6",
+      "url": ""
+    }
+  ],
+  "url": "https://clevelandart.org/art/1973.69",
+  "images": {
+    "annotation": null,
+    "web": {
+      "url": "https://openaccess-cdn.clevelandart.org/1973.69/1973.69_web.jpg",
+      "width": "682",
+      "height": "900",
+      "filesize": "387398",
+      "filename": "1973.69_web.jpg"
+    },
+    "print": {
+      "url": "https://openaccess-cdn.clevelandart.org/1973.69/1973.69_print.jpg",
+      "width": "2577",
+      "height": "3400",
+      "filesize": "4926658",
+      "filename": "1973.69_print.jpg"
+    },
+    "full": {
+      "url": "https://openaccess-cdn.clevelandart.org/1973.69/1973.69_full.tif",
+      "width": "9556",
+      "height": "12609",
+      "filesize": "361507158",
+      "filename": "1973.69_full.tif"
+    }
+  },
+  "alternate_images": [
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1973.69/1973.69_alt0_web.jpg",
+        "width": "682",
+        "height": "900",
+        "filesize": "392031"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1973.69/1973.69_alt0_print.jpg",
+        "width": "2577",
+        "height": "3400",
+        "filesize": "5139318"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1973.69/1973.69_alt0_full.tif",
+        "width": "9556",
+        "height": "12609",
+        "filesize": "361507202"
+      },
+      "date_created": "2024-04-12T10:05:49",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1973.69/1973.69_alt1_web.jpg",
+        "width": "900",
+        "height": "688",
+        "filesize": "402961"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1973.69/1973.69_alt1_print.jpg",
+        "width": "3400",
+        "height": "2598",
+        "filesize": "5429990"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1973.69/1973.69_alt1_full.tif",
+        "width": "12695",
+        "height": "9701",
+        "filesize": "369495630"
+      },
+      "date_created": "2024-04-12T10:26:19",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1973.69/1973.69_alt2_web.jpg",
+        "width": "900",
+        "height": "688",
+        "filesize": "389923"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1973.69/1973.69_alt2_print.jpg",
+        "width": "3400",
+        "height": "2598",
+        "filesize": "5412349"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1973.69/1973.69_alt2_full.tif",
+        "width": "12695",
+        "height": "9701",
+        "filesize": "369494562"
+      },
+      "date_created": "2024-04-12T10:29:21",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1973.69/1973.69_alt3_web.jpg",
+        "width": "675",
+        "height": "900",
+        "filesize": "399355"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1973.69/1973.69_alt3_print.jpg",
+        "width": "2550",
+        "height": "3400",
+        "filesize": "5236546"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1973.69/1973.69_alt3_full.tif",
+        "width": "10652",
+        "height": "14204",
+        "filesize": "453935682"
+      },
+      "date_created": "2024-04-12T10:47:14",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1973.69/1973.69_alt4_web.jpg",
+        "width": "675",
+        "height": "900",
+        "filesize": "392851"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1973.69/1973.69_alt4_print.jpg",
+        "width": "2550",
+        "height": "3400",
+        "filesize": "4972815"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1973.69/1973.69_alt4_full.tif",
+        "width": "10652",
+        "height": "14204",
+        "filesize": "453935670"
+      },
+      "date_created": "2024-04-12T13:09:33",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1973.69/1973.69_alt5_web.jpg",
+        "width": "675",
+        "height": "900",
+        "filesize": "392956"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1973.69/1973.69_alt5_print.jpg",
+        "width": "2550",
+        "height": "3400",
+        "filesize": "4837028"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1973.69/1973.69_alt5_full.tif",
+        "width": "10652",
+        "height": "14204",
+        "filesize": "453935754"
+      },
+      "date_created": "2024-04-12T13:10:01",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1973.69/1973.69_alt6_web.jpg",
+        "width": "675",
+        "height": "900",
+        "filesize": "402670"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1973.69/1973.69_alt6_print.jpg",
+        "width": "2550",
+        "height": "3400",
+        "filesize": "4934611"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1973.69/1973.69_alt6_full.tif",
+        "width": "10652",
+        "height": "14204",
+        "filesize": "453935614"
+      },
+      "date_created": "2024-04-12T13:10:25",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1973.69/1973.69_alt7_web.jpg",
+        "width": "675",
+        "height": "900",
+        "filesize": "414436"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1973.69/1973.69_alt7_print.jpg",
+        "width": "2550",
+        "height": "3400",
+        "filesize": "5297106"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1973.69/1973.69_alt7_full.tif",
+        "width": "10652",
+        "height": "14204",
+        "filesize": "453935454"
+      },
+      "date_created": "2024-04-12T13:10:52",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1973.69/1973.69_alt8_web.jpg",
+        "width": "675",
+        "height": "900",
+        "filesize": "432329"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1973.69/1973.69_alt8_print.jpg",
+        "width": "2550",
+        "height": "3400",
+        "filesize": "5534901"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1973.69/1973.69_alt8_full.tif",
+        "width": "10652",
+        "height": "14204",
+        "filesize": "453935810"
+      },
+      "date_created": "2024-04-12T13:11:19",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1973.69/1973.69_alt9_web.jpg",
+        "width": "675",
+        "height": "900",
+        "filesize": "424905"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1973.69/1973.69_alt9_print.jpg",
+        "width": "2550",
+        "height": "3400",
+        "filesize": "5390734"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1973.69/1973.69_alt9_full.tif",
+        "width": "10652",
+        "height": "14204",
+        "filesize": "453935990"
+      },
+      "date_created": "2024-04-12T13:12:15",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1973.69/1973.69_alt10_web.jpg",
+        "width": "675",
+        "height": "900",
+        "filesize": "407611"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1973.69/1973.69_alt10_print.jpg",
+        "width": "2550",
+        "height": "3400",
+        "filesize": "5087230"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1973.69/1973.69_alt10_full.tif",
+        "width": "10652",
+        "height": "14204",
+        "filesize": "453935966"
+      },
+      "date_created": "2024-04-12T13:12:30",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1973.69/1973.69_alt11_web.jpg",
+        "width": "675",
+        "height": "900",
+        "filesize": "386708"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1973.69/1973.69_alt11_print.jpg",
+        "width": "2550",
+        "height": "3400",
+        "filesize": "4852061"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1973.69/1973.69_alt11_full.tif",
+        "width": "10652",
+        "height": "14204",
+        "filesize": "453936034"
+      },
+      "date_created": "2024-04-12T13:15:22",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1973.69/1973.69_alt12_web.jpg",
+        "width": "611",
+        "height": "900",
+        "filesize": "376267"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1973.69/1973.69_alt12_print.jpg",
+        "width": "2308",
+        "height": "3400",
+        "filesize": "4938741"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1973.69/1973.69_alt12_full.tif",
+        "width": "9642",
+        "height": "14204",
+        "filesize": "410897018"
+      },
+      "date_created": "2024-04-12T13:18:38",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1973.69/1973.69_alt13_web.jpg",
+        "width": "675",
+        "height": "900",
+        "filesize": "404886"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1973.69/1973.69_alt13_print.jpg",
+        "width": "2550",
+        "height": "3400",
+        "filesize": "5320877"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1973.69/1973.69_alt13_full.tif",
+        "width": "10652",
+        "height": "14204",
+        "filesize": "453935234"
+      },
+      "date_created": "2024-04-12T13:19:45",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1973.69/1973.69_alt14_web.jpg",
+        "width": "675",
+        "height": "900",
+        "filesize": "400158"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1973.69/1973.69_alt14_print.jpg",
+        "width": "2550",
+        "height": "3400",
+        "filesize": "5282715"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1973.69/1973.69_alt14_full.tif",
+        "width": "10652",
+        "height": "14204",
+        "filesize": "453935282"
+      },
+      "date_created": "2024-04-12T13:20:31",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1973.69/1973.69_alt15_web.jpg",
+        "width": "675",
+        "height": "900",
+        "filesize": "401621"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1973.69/1973.69_alt15_print.jpg",
+        "width": "2550",
+        "height": "3400",
+        "filesize": "5252420"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1973.69/1973.69_alt15_full.tif",
+        "width": "10652",
+        "height": "14204",
+        "filesize": "453935562"
+      },
+      "date_created": "2024-04-12T13:20:56",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1973.69/1973.69_alt16_web.jpg",
+        "width": "675",
+        "height": "900",
+        "filesize": "413480"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1973.69/1973.69_alt16_print.jpg",
+        "width": "2550",
+        "height": "3400",
+        "filesize": "5343664"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1973.69/1973.69_alt16_full.tif",
+        "width": "10652",
+        "height": "14204",
+        "filesize": "453935466"
+      },
+      "date_created": "2024-04-12T13:21:26",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1973.69/1973.69_alt17_web.jpg",
+        "width": "675",
+        "height": "900",
+        "filesize": "406020"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1973.69/1973.69_alt17_print.jpg",
+        "width": "2550",
+        "height": "3400",
+        "filesize": "5247151"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1973.69/1973.69_alt17_full.tif",
+        "width": "10652",
+        "height": "14204",
+        "filesize": "453935234"
+      },
+      "date_created": "2024-04-12T13:22:02",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1973.69/1973.69_alt18_web.jpg",
+        "width": "675",
+        "height": "900",
+        "filesize": "403267"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1973.69/1973.69_alt18_print.jpg",
+        "width": "2550",
+        "height": "3400",
+        "filesize": "5319321"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1973.69/1973.69_alt18_full.tif",
+        "width": "10652",
+        "height": "14204",
+        "filesize": "453935030"
+      },
+      "date_created": "2024-04-12T13:22:37",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1973.69/1973.69_alt19_web.jpg",
+        "width": "675",
+        "height": "900",
+        "filesize": "391314"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1973.69/1973.69_alt19_print.jpg",
+        "width": "2550",
+        "height": "3400",
+        "filesize": "5279722"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1973.69/1973.69_alt19_full.tif",
+        "width": "10652",
+        "height": "14204",
+        "filesize": "453934714"
+      },
+      "date_created": "2024-04-12T13:22:49",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1973.69/1973.69_alt20_web.jpg",
+        "width": "675",
+        "height": "900",
+        "filesize": "395820"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1973.69/1973.69_alt20_print.jpg",
+        "width": "2550",
+        "height": "3400",
+        "filesize": "5301760"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1973.69/1973.69_alt20_full.tif",
+        "width": "10652",
+        "height": "14204",
+        "filesize": "453934926"
+      },
+      "date_created": "2024-04-12T13:23:10",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1973.69/1973.69_alt21_web.jpg",
+        "width": "675",
+        "height": "900",
+        "filesize": "395793"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1973.69/1973.69_alt21_print.jpg",
+        "width": "2550",
+        "height": "3400",
+        "filesize": "5266883"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1973.69/1973.69_alt21_full.tif",
+        "width": "10652",
+        "height": "14204",
+        "filesize": "453935126"
+      },
+      "date_created": "2024-04-12T13:23:26",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1973.69/1973.69_alt22_web.jpg",
+        "width": "675",
+        "height": "900",
+        "filesize": "407591"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1973.69/1973.69_alt22_print.jpg",
+        "width": "2550",
+        "height": "3400",
+        "filesize": "5326296"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1973.69/1973.69_alt22_full.tif",
+        "width": "10652",
+        "height": "14204",
+        "filesize": "453935466"
+      },
+      "date_created": "2024-04-12T13:23:42",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1973.69/1973.69_alt23_web.jpg",
+        "width": "675",
+        "height": "900",
+        "filesize": "407061"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1973.69/1973.69_alt23_print.jpg",
+        "width": "2550",
+        "height": "3400",
+        "filesize": "5357883"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1973.69/1973.69_alt23_full.tif",
+        "width": "10652",
+        "height": "14204",
+        "filesize": "453935142"
+      },
+      "date_created": "2024-04-12T13:24:03",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1973.69/1973.69_alt24_web.jpg",
+        "width": "675",
+        "height": "900",
+        "filesize": "413470"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1973.69/1973.69_alt24_print.jpg",
+        "width": "2550",
+        "height": "3400",
+        "filesize": "5505543"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1973.69/1973.69_alt24_full.tif",
+        "width": "10652",
+        "height": "14204",
+        "filesize": "453935094"
+      },
+      "date_created": "2024-04-12T13:28:07",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1973.69/1973.69_alt25_web.jpg",
+        "width": "675",
+        "height": "900",
+        "filesize": "407932"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1973.69/1973.69_alt25_print.jpg",
+        "width": "2550",
+        "height": "3400",
+        "filesize": "5505047"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1973.69/1973.69_alt25_full.tif",
+        "width": "10652",
+        "height": "14204",
+        "filesize": "453934990"
+      },
+      "date_created": "2024-04-12T13:29:26",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1973.69/1973.69_alt26_web.jpg",
+        "width": "675",
+        "height": "900",
+        "filesize": "404181"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1973.69/1973.69_alt26_print.jpg",
+        "width": "2550",
+        "height": "3400",
+        "filesize": "5490319"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1973.69/1973.69_alt26_full.tif",
+        "width": "10652",
+        "height": "14204",
+        "filesize": "453934846"
+      },
+      "date_created": "2024-04-12T13:30:02",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1973.69/1973.69_alt27_web.jpg",
+        "width": "675",
+        "height": "900",
+        "filesize": "383558"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1973.69/1973.69_alt27_print.jpg",
+        "width": "2550",
+        "height": "3400",
+        "filesize": "5087726"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1973.69/1973.69_alt27_full.tif",
+        "width": "10652",
+        "height": "14204",
+        "filesize": "453935394"
+      },
+      "date_created": "2024-04-12T13:30:30",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1973.69/1973.69_alt28_web.jpg",
+        "width": "675",
+        "height": "900",
+        "filesize": "407480"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1973.69/1973.69_alt28_print.jpg",
+        "width": "2550",
+        "height": "3400",
+        "filesize": "5284685"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1973.69/1973.69_alt28_full.tif",
+        "width": "10652",
+        "height": "14204",
+        "filesize": "453935542"
+      },
+      "date_created": "2024-04-12T13:30:57",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1973.69/1973.69_alt29_web.jpg",
+        "width": "675",
+        "height": "900",
+        "filesize": "421801"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1973.69/1973.69_alt29_print.jpg",
+        "width": "2550",
+        "height": "3400",
+        "filesize": "5483106"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1973.69/1973.69_alt29_full.tif",
+        "width": "10652",
+        "height": "14204",
+        "filesize": "453935874"
+      },
+      "date_created": "2024-04-12T13:31:25",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1973.69/1973.69_alt30_web.jpg",
+        "width": "675",
+        "height": "900",
+        "filesize": "421736"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1973.69/1973.69_alt30_print.jpg",
+        "width": "2550",
+        "height": "3400",
+        "filesize": "5542512"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1973.69/1973.69_alt30_full.tif",
+        "width": "10652",
+        "height": "14204",
+        "filesize": "453935874"
+      },
+      "date_created": "2024-04-12T13:33:16",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1973.69/1973.69_alt31_web.jpg",
+        "width": "675",
+        "height": "900",
+        "filesize": "427854"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1973.69/1973.69_alt31_print.jpg",
+        "width": "2550",
+        "height": "3400",
+        "filesize": "5513377"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1973.69/1973.69_alt31_full.tif",
+        "width": "10652",
+        "height": "14204",
+        "filesize": "453935842"
+      },
+      "date_created": "2024-04-12T13:33:48",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1973.69/1973.69_alt32_web.jpg",
+        "width": "675",
+        "height": "900",
+        "filesize": "429505"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1973.69/1973.69_alt32_print.jpg",
+        "width": "2550",
+        "height": "3400",
+        "filesize": "5467367"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1973.69/1973.69_alt32_full.tif",
+        "width": "10652",
+        "height": "14204",
+        "filesize": "453935790"
+      },
+      "date_created": "2024-04-12T13:34:55",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1973.69/1973.69_alt33_web.jpg",
+        "width": "675",
+        "height": "900",
+        "filesize": "412151"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1973.69/1973.69_alt33_print.jpg",
+        "width": "2550",
+        "height": "3400",
+        "filesize": "4945731"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1973.69/1973.69_alt33_full.tif",
+        "width": "10652",
+        "height": "14204",
+        "filesize": "453936186"
+      },
+      "date_created": "2024-04-12T13:36:04",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1973.69/1973.69_alt34_web.jpg",
+        "width": "675",
+        "height": "900",
+        "filesize": "409834"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1973.69/1973.69_alt34_print.jpg",
+        "width": "2550",
+        "height": "3400",
+        "filesize": "4997445"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1973.69/1973.69_alt34_full.tif",
+        "width": "10652",
+        "height": "14204",
+        "filesize": "453936114"
+      },
+      "date_created": "2024-04-12T13:37:19",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1973.69/1973.69_alt35_web.jpg",
+        "width": "675",
+        "height": "900",
+        "filesize": "396596"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1973.69/1973.69_alt35_print.jpg",
+        "width": "2550",
+        "height": "3400",
+        "filesize": "5283516"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1973.69/1973.69_alt35_full.tif",
+        "width": "10652",
+        "height": "14204",
+        "filesize": "453935510"
+      },
+      "date_created": "2024-04-12T13:39:00",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1973.69/1973.69_alt36_web.jpg",
+        "width": "675",
+        "height": "900",
+        "filesize": "398299"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1973.69/1973.69_alt36_print.jpg",
+        "width": "2550",
+        "height": "3400",
+        "filesize": "5372887"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1973.69/1973.69_alt36_full.tif",
+        "width": "10652",
+        "height": "14204",
+        "filesize": "453935442"
+      },
+      "date_created": "2024-04-12T13:39:33",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1973.69/1973.69_alt37_web.jpg",
+        "width": "675",
+        "height": "900",
+        "filesize": "416235"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1973.69/1973.69_alt37_print.jpg",
+        "width": "2550",
+        "height": "3400",
+        "filesize": "5651767"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1973.69/1973.69_alt37_full.tif",
+        "width": "10652",
+        "height": "14204",
+        "filesize": "453934878"
+      },
+      "date_created": "2024-04-12T13:41:56",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1973.69/1973.69_alt38_web.jpg",
+        "width": "675",
+        "height": "900",
+        "filesize": "428485"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1973.69/1973.69_alt38_print.jpg",
+        "width": "2550",
+        "height": "3400",
+        "filesize": "5701548"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1973.69/1973.69_alt38_full.tif",
+        "width": "10652",
+        "height": "14204",
+        "filesize": "453935334"
+      },
+      "date_created": "2024-04-12T13:42:34",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1973.69/1973.69_alt39_web.jpg",
+        "width": "675",
+        "height": "900",
+        "filesize": "418876"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1973.69/1973.69_alt39_print.jpg",
+        "width": "2550",
+        "height": "3400",
+        "filesize": "5640877"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1973.69/1973.69_alt39_full.tif",
+        "width": "10652",
+        "height": "14204",
+        "filesize": "453935162"
+      },
+      "date_created": "2024-04-12T13:43:19",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1973.69/1973.69_alt40_web.jpg",
+        "width": "675",
+        "height": "900",
+        "filesize": "392782"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1973.69/1973.69_alt40_print.jpg",
+        "width": "2550",
+        "height": "3400",
+        "filesize": "5172136"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1973.69/1973.69_alt40_full.tif",
+        "width": "10652",
+        "height": "14204",
+        "filesize": "453935646"
+      },
+      "date_created": "2024-04-12T13:45:14",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1973.69/1973.69_alt41_web.jpg",
+        "width": "675",
+        "height": "900",
+        "filesize": "402056"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1973.69/1973.69_alt41_print.jpg",
+        "width": "2550",
+        "height": "3400",
+        "filesize": "5220928"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1973.69/1973.69_alt41_full.tif",
+        "width": "10652",
+        "height": "14204",
+        "filesize": "453935654"
+      },
+      "date_created": "2024-04-12T13:46:33",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1973.69/1973.69_alt42_web.jpg",
+        "width": "675",
+        "height": "900",
+        "filesize": "404066"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1973.69/1973.69_alt42_print.jpg",
+        "width": "2550",
+        "height": "3400",
+        "filesize": "5277945"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1973.69/1973.69_alt42_full.tif",
+        "width": "10652",
+        "height": "14204",
+        "filesize": "453935222"
+      },
+      "date_created": "2024-04-12T13:48:35",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1973.69/1973.69_alt43_web.jpg",
+        "width": "675",
+        "height": "900",
+        "filesize": "396233"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1973.69/1973.69_alt43_print.jpg",
+        "width": "2550",
+        "height": "3400",
+        "filesize": "5383530"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1973.69/1973.69_alt43_full.tif",
+        "width": "10652",
+        "height": "14204",
+        "filesize": "453934946"
+      },
+      "date_created": "2024-04-12T13:49:59",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1973.69/1973.69_alt44_web.jpg",
+        "width": "675",
+        "height": "900",
+        "filesize": "407499"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1973.69/1973.69_alt44_print.jpg",
+        "width": "2550",
+        "height": "3400",
+        "filesize": "5431886"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1973.69/1973.69_alt44_full.tif",
+        "width": "10652",
+        "height": "14204",
+        "filesize": "453935330"
+      },
+      "date_created": "2024-04-12T13:51:07",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1973.69/1973.69_alt45_web.jpg",
+        "width": "675",
+        "height": "900",
+        "filesize": "411088"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1973.69/1973.69_alt45_print.jpg",
+        "width": "2550",
+        "height": "3400",
+        "filesize": "5463264"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1973.69/1973.69_alt45_full.tif",
+        "width": "10652",
+        "height": "14204",
+        "filesize": "453935022"
+      },
+      "date_created": "2024-04-12T13:51:48",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1973.69/1973.69_alt46_web.jpg",
+        "width": "675",
+        "height": "900",
+        "filesize": "414141"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1973.69/1973.69_alt46_print.jpg",
+        "width": "2550",
+        "height": "3400",
+        "filesize": "5289106"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1973.69/1973.69_alt46_full.tif",
+        "width": "10652",
+        "height": "14204",
+        "filesize": "453935370"
+      },
+      "date_created": "2024-04-12T13:52:30",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1973.69/1973.69_alt47_web.jpg",
+        "width": "675",
+        "height": "900",
+        "filesize": "416582"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1973.69/1973.69_alt47_print.jpg",
+        "width": "2550",
+        "height": "3400",
+        "filesize": "5439562"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1973.69/1973.69_alt47_full.tif",
+        "width": "10652",
+        "height": "14204",
+        "filesize": "453935590"
+      },
+      "date_created": "2024-04-12T14:05:40",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1973.69/1973.69_alt48_web.jpg",
+        "width": "675",
+        "height": "900",
+        "filesize": "418660"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1973.69/1973.69_alt48_print.jpg",
+        "width": "2550",
+        "height": "3400",
+        "filesize": "5373976"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1973.69/1973.69_alt48_full.tif",
+        "width": "10652",
+        "height": "14204",
+        "filesize": "453935522"
+      },
+      "date_created": "2024-04-12T14:06:03",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1973.69/1973.69_alt49_web.jpg",
+        "width": "670",
+        "height": "893",
+        "filesize": "175399"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1973.69/1973.69_alt49_print.jpg",
+        "width": "2550",
+        "height": "3400",
+        "filesize": "2345885"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1973.69/1973.69_alt49_full.tif",
+        "width": "5869",
+        "height": "7824",
+        "filesize": "137780492"
+      },
+      "date_created": "2012-08-07T18:49:12",
+      "annotation": ""
+    }
+  ],
+  "creditline": "Purchase from the J. H. Wade Fund",
+  "image_credit": null,
+  "sketchfab_id": null,
+  "sketchfab_url": null,
+  "gallery_donor_text": null,
+  "athena_id": 147569,
+  "creators": [],
+  "legal_status": "accessioned",
+  "accession_date": "1973-05-07T00:00:00",
+  "sortable_date": 1648,
+  "date_added_to_oa": null,
+  "date_text": "1648",
+  "collapse_artists": false,
+  "on_loan": false,
+  "recently_acquired": false,
+  "record_type": "object",
+  "conservation_statement": null,
+  "has_conservation_images": false,
+  "cover_accession_number": null,
+  "is_nazi_era_provenance": false,
+  "impression": null,
+  "alternate_titles": [
+    "Tanka with Bejeweled Buddha Preaching",
+    "Thangka with Bejeweled Buddha Preaching"
+  ],
+  "is_highlight": false,
+  "updated_at": "2026-07-18 11:14:35.584000"
+}

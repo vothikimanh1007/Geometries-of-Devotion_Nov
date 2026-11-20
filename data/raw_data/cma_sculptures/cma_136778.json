@@ -1,0 +1,219 @@
+{
+  "id": 136778,
+  "accession_number": "1961.279",
+  "share_license_status": "CC0",
+  "tombstone": "The Buddha, 1895. Odilon Redon (French, 1840–1916), printed by Auguste Clot (French, 1858–1936), published by Andre Marty (French, b. 1857). Lithograph on China paper laid on wove paper; image: 31.4 x 24.7 cm (12 3/8 x 9 3/4 in.); sheet: 57.9 x 42.9 cm (22 13/16 x 16 7/8 in.). The Cleveland Museum of Art, Gift of Mrs. Malcolm L. McBride, 1961.279",
+  "current_location": null,
+  "title": "The Buddha",
+  "creation_date": "1895",
+  "creation_date_earliest": 1895,
+  "creation_date_latest": 1895,
+  "artists_tags": [
+    "male"
+  ],
+  "culture": [
+    "France, 19th century"
+  ],
+  "technique": "lithograph on China paper laid on wove paper",
+  "support_materials": [
+    {
+      "description": "China paper",
+      "watermarks": []
+    },
+    {
+      "description": "wove paper",
+      "watermarks": []
+    }
+  ],
+  "department": "Prints",
+  "collection": "PR - Lithograph",
+  "type": "Print",
+  "measurements": "Image: 31.4 x 24.7 cm (12 3/8 x 9 3/4 in.); Sheet: 57.9 x 42.9 cm (22 13/16 x 16 7/8 in.)",
+  "dimensions": {
+    "image": {
+      "height": 0.314,
+      "height_inch": 12,
+      "height_inch_fraction": 0.375,
+      "width": 0.247,
+      "width_inch": 9,
+      "width_inch_fraction": 0.75
+    },
+    "sheet": {
+      "height": 0.579,
+      "height_inch": 22,
+      "height_inch_fraction": 0.8125,
+      "width": 0.429,
+      "width_inch": 16,
+      "width_inch_fraction": 0.875
+    }
+  },
+  "state_of_the_work": "II/II",
+  "edition_of_the_work": "edition of 100",
+  "copyright": null,
+  "inscriptions": [
+    {
+      "inscription": "Inscribed on stone, below image: Buddha / On m'a mené dans les écoles. J'en savais plus que les docteurs. / (Gustave Flaubert); signed at lower right, below image, in graphite: Od. R.",
+      "inscription_translation": null,
+      "inscription_remark": null,
+      "sortorder": null
+    }
+  ],
+  "exhibitions": {
+    "current": [
+      {
+        "id": 302276,
+        "title": "Year in Review - 1962",
+        "description": "<i>Year in Review - 1962</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (October 24-November 25, 1962).",
+        "opening_date": "1962-10-24T04:00:00"
+      },
+      {
+        "id": 310017,
+        "title": "Contemporaries of the Pont-Aven Printmakers",
+        "description": "<i>Contemporaries of the Pont-Aven Printmakers</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (August 14-September 27, 1987).",
+        "opening_date": "1987-08-14T04:00:00"
+      }
+    ],
+    "legacy": [
+      {
+        "description": "<em>\"La Rêverie esthétique\": Symbolist Works on Paper</em>. Allen Memorial Art Museum (March 29 - May 22, 1988).",
+        "opening_date": "1988-03-29T00:00:00"
+      }
+    ]
+  },
+  "provenance": [
+    {
+      "description": "Mrs. Malcolm L. McBride, Shaker Heights, OH, given to the Cleveland Museum of Art, Cleveland, OH",
+      "citations": [],
+      "footnotes": [],
+      "date": "?-1961",
+      "sortorder": 1
+    },
+    {
+      "description": "The Cleveland Museum of Art, Cleveland, OH",
+      "citations": [],
+      "footnotes": [],
+      "date": "1961-",
+      "sortorder": 2
+    }
+  ],
+  "find_spot": null,
+  "related_works": [],
+  "former_accession_numbers": [],
+  "did_you_know": null,
+  "early_education_description": null,
+  "artlens_description": null,
+  "description": null,
+  "external_resources": {
+    "wikidata": [
+      "https://www.wikidata.org/wiki/Q80030878"
+    ],
+    "internet_archive": [
+      "https://archive.org/details/clevelandart-1961.279-the-buddha"
+    ]
+  },
+  "citations": [
+    {
+      "citation": "Lee, Sherman. \"Year in Review: 1962.\" <em>Bulletin of the Cleveland Museum of Art</em> 49, no. 9 (November 1962): 199-227",
+      "page_number": "Mentioned: p. 226, no. 131",
+      "url": "https://www.jstor.org/stable/25151915"
+    },
+    {
+      "citation": "\"'La Rêverie esthétique': Symbolist Works on Paper.\" <em>Allen Memorial Art Museum Bulletin</em>43, no. 1 (Summer 1988): 3-47.",
+      "page_number": "Mentioned: p. 34, no. 36",
+      "url": null
+    }
+  ],
+  "catalogue_raisonne": "Mellerio 132",
+  "url": "https://clevelandart.org/art/1961.279",
+  "images": {
+    "annotation": null,
+    "web": {
+      "url": "https://openaccess-cdn.clevelandart.org/1961.279/1961.279_web.jpg",
+      "width": "616",
+      "height": "893",
+      "filesize": "458849",
+      "filename": "1961.279_web.jpg"
+    },
+    "print": {
+      "url": "https://openaccess-cdn.clevelandart.org/1961.279/1961.279_print.jpg",
+      "width": "2347",
+      "height": "3400",
+      "filesize": "7094787",
+      "filename": "1961.279_print.jpg"
+    },
+    "full": {
+      "url": "https://openaccess-cdn.clevelandart.org/1961.279/1961.279_full.tif",
+      "width": "2952",
+      "height": "4276",
+      "filesize": "37901376",
+      "filename": "1961.279_full.tif"
+    }
+  },
+  "alternate_images": [],
+  "creditline": "Gift of Mrs. Malcolm L. McBride",
+  "image_credit": null,
+  "sketchfab_id": null,
+  "sketchfab_url": null,
+  "gallery_donor_text": null,
+  "athena_id": 136778,
+  "creators": [
+    {
+      "id": 1748,
+      "description": "Odilon Redon (French, 1840–1916)",
+      "extent": null,
+      "qualifier": null,
+      "role": "artist",
+      "biography": "A leader of the symbolist movement in France, Odilon Redon was born in Bordeaux in 1840 and grew up in the surrounding region. During his early years he studied drawing, architecture, and the violin. A friendship with Armand Clavaud, a local botanist and philosopher, stimulated Redon's passion for romantic art and literature. In 1864, after a brief and discouraging period of instruction with Gérôme in Paris, Redon returned to Bordeaux, where he studied printmaking with Rodolphe Bresdin (1825-1885). Deploring the emphasis on rational, phenomenal experience in academic and naturalist art, Redon turned for inspiration to the imaginative paintings of Delacroix, the prints of Francisco José de Goya (1746-1828), and the poetry of Charles Baudelaire. In 1870, after military service in the Franco-Prussian War, Redon settled in Paris and produced his first <em>Noirs</em>. These visionary images, featuring floating eyes and severed heads born aloft on wings, reflect Redon's belief in the superiority of the imagination and fantasy, which he considered \"the messenger of the unconscious.\" After producing his initial <em>Noirs </em>in charcoal, Redon discovered a method of transferring his drawings to lithography in 1876. Throughout the 1880s he continued to use charcoal, etching, and lithography as his primary media, and he produced twelve lithography albums before abandoning the genre in the late 1890s. During the 1880s Redon emerged as a leader of the symbolist reaction against impressionism. The publication in 1879 of his first lithographic album, <em>Dans le rêve</em>, followed by his first solo exhibition in 1881, attracted the admiration of J. K. Huysmans, who included illustrations by Redon in his novel <em>À rebours</em> (1884). Around the same time, Redon developed a personal and artistic relationship with poet Stéphane Mallarmé. Increasingly drawn into the public arena, Redon helped organize the Société des Artistes Indépendants in 1884. In 1886 he participated in the last impressionist exhibition and began showing with Les XX in Brussels. Redon's antinaturalist, visionary, art inspired many symbolist and Nabi artists, including Gauguin and Vuillard. Maurice Denis praised Redon as \"our Mallarmé,\" and in 1892 critic Albert Aurier described Redon as a leader of the new \"idealistic\" tendency in art. After 1890 the focus of Redon's activity shifted from monochromatic drawings and prints toward exploring color in richly worked pastels. His innovations in luminous color, as seen in the pastel and oil paintings he exhibited at the Galeries Durand-Ruel in 1900 were greatly admired by Henri Matisse (1869-1954) and the Fauves. Awarded the Legion of Honor in 1903, Redon continued his leadership role in the avant-garde and in 1904 became a founding member of the Salon d'Automne. In 1913 forty of his works were selected for exhibition in the Armory Show, the most by any artist. Redon died at his home in Paris in the summer of 1916.",
+      "name_in_original_language": null,
+      "birth_year": "1840",
+      "death_year": "1916",
+      "use_in_caption": true,
+      "include_extent": false,
+      "weight": 1
+    },
+    {
+      "id": 28934,
+      "description": "Auguste Clot (French, 1858–1936)",
+      "extent": "printed by",
+      "qualifier": null,
+      "role": "printer",
+      "biography": null,
+      "name_in_original_language": null,
+      "birth_year": "1858",
+      "death_year": "1936",
+      "use_in_caption": true,
+      "include_extent": true,
+      "weight": 2
+    },
+    {
+      "id": 67385,
+      "description": "Andre Marty (French, b. 1857)",
+      "extent": "published by",
+      "qualifier": null,
+      "role": "publisher",
+      "biography": null,
+      "name_in_original_language": null,
+      "birth_year": "1857",
+      "use_in_caption": true,
+      "include_extent": true,
+      "weight": 3
+    }
+  ],
+  "legal_status": "accessioned",
+  "accession_date": "1961-12-02T00:00:00",
+  "sortable_date": 1895,
+  "date_added_to_oa": null,
+  "date_text": "1895",
+  "collapse_artists": false,
+  "on_loan": false,
+  "recently_acquired": false,
+  "record_type": "object",
+  "conservation_statement": null,
+  "has_conservation_images": false,
+  "cover_accession_number": null,
+  "is_nazi_era_provenance": false,
+  "impression": null,
+  "alternate_titles": [],
+  "is_highlight": false,
+  "updated_at": "2026-08-03 14:16:03.822000"
+}

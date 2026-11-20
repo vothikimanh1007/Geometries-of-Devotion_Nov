@@ -1,0 +1,268 @@
+{
+  "id": 123021,
+  "accession_number": "1943.278",
+  "share_license_status": "CC0",
+  "tombstone": "Standing Buddha, 400s CE. Northern India, Uttar Pradesh, Sarnath. Sandstone; overall: 76.2 cm (30 in.). The Cleveland Museum of Art, Purchase from the J. H. Wade Fund, 1943.278",
+  "current_location": "243 Indian and Southeast Asian",
+  "title": "Standing Buddha",
+  "creation_date": "400s CE",
+  "creation_date_earliest": 400,
+  "creation_date_latest": 499,
+  "artists_tags": [],
+  "culture": [
+    "Northern India, Uttar Pradesh, Sarnath"
+  ],
+  "technique": "sandstone",
+  "support_materials": [],
+  "department": "Indian and Southeast Asian Art",
+  "collection": "Indian Art",
+  "type": "Sculpture",
+  "measurements": "Overall: 76.2 cm (30 in.)",
+  "dimensions": {
+    "overall": {
+      "height": 0.762,
+      "height_inch": 30,
+      "height_inch_fraction": 0.0
+    }
+  },
+  "state_of_the_work": null,
+  "edition_of_the_work": null,
+  "copyright": null,
+  "inscriptions": [],
+  "exhibitions": {
+    "current": [
+      {
+        "id": 520110,
+        "title": "Evolution of the Buddha Image",
+        "description": "<i>Evolution of the Buddha Image</i>. The Asia Society Museum, New York, NY (organizer) (May 7-June 30, 1963).",
+        "opening_date": "1963-05-07T04:00:00"
+      },
+      {
+        "id": 302145,
+        "title": "Traditions and Revisions: Themes from the History of Sculpture",
+        "description": "<i>Traditions and Revisions: Themes from the History of Sculpture</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (September 24-November 16, 1975).",
+        "opening_date": "1975-09-24T04:00:00"
+      }
+    ],
+    "legacy": [
+      {
+        "description": "<em>Buddhist Art. Detroit Institute of Arts, Twenty-Fourth Loan Exhibition, October, 1942</em>. Institute of Arts, Detroit, MI (October 1942).",
+        "opening_date": "1942-10-01T00:00:00"
+      }
+    ]
+  },
+  "provenance": [
+    {
+      "description": "(Heeramaneck Galleries, New York, NY, sold to the Cleveland Museum of Art)",
+      "citations": [],
+      "footnotes": null,
+      "date": "at least by 1942–43",
+      "sortorder": 1
+    },
+    {
+      "description": "The Cleveland Museum of Art, Cleveland, OH",
+      "citations": [],
+      "footnotes": null,
+      "date": "1943–",
+      "sortorder": 2
+    }
+  ],
+  "find_spot": null,
+  "related_works": [],
+  "former_accession_numbers": [],
+  "did_you_know": null,
+  "early_education_description": null,
+  "artlens_description": null,
+  "description": "Depicting the Buddha in a plain robe that clings to the body, without interrupting the beauty of its contours, was a new development in the sculptural workshops of Sarnath during the 400s CE. Sarnath is located near the ancient city of Varanasi on the banks of the Ganges River and is identified as the place where the Buddha gave his first teaching. This form spread by means of portable images to peninsular Southeast Asia.",
+  "external_resources": {
+    "wikidata": [
+      "https://www.wikidata.org/wiki/Q60747324"
+    ],
+    "internet_archive": [
+      "https://archive.org/details/clevelandart-1943.278-standing-buddha"
+    ]
+  },
+  "citations": [
+    {
+      "citation": "Lee, Sherman E. <em>Buddhist Art. Detroit Institute of Arts, Twenty-Fourth Loan Exhibition, October, 1942</em>. Detroit: Detroit Institute of Arts, 1942.",
+      "page_number": "Mentioned: cat. no. 15, p. 23; Reproduced: cat. no. 15, p. 43",
+      "url": ""
+    },
+    {
+      "citation": "Hollis, Howard. “Three Indian Buddhist Sculptures.” <em>The Bulletin of the Cleveland Museum of Art</em>, vol. 31, no. 3, 1944, pp. 33–37.",
+      "page_number": "Mentioned: pp. 33–34; Reproduced: p. 37",
+      "url": "www.jstor.org/stable/25141113"
+    },
+    {
+      "citation": "Trubner, Henry. <em>The Art of Greater India, 3000 B.C.-1800 A.D.; An Exhibition of Indian Art Presented Under the Patronage of the Embassy of India Functioning for the Government of India. March 1 to Apr. 16, 1950</em>. Los Angeles, CA: Los Angeles County Museum, 1950.",
+      "page_number": "no. 42",
+      "url": ""
+    },
+    {
+      "citation": "Mayling Soong Foundation, and Wellesley College. <em>Exhibition of the Art of India, April 18th Through May 15th, 1953, Under the Auspices of the Mayling Soong Foundation</em>. Wellesley, MA: Mayling Soong Foundation, 1953.",
+      "page_number": "no. 14",
+      "url": ""
+    },
+    {
+      "citation": "The Cleveland Museum of Art. <em>The Cleveland Museum of Art Handbook.</em> Cleveland, OH: The Cleveland Museum of Art, 1958.",
+      "page_number": "Mentioned and Reproduced: cat. no. 747",
+      "url": "https://archive.org/details/CMAHandbook1958/page/n135"
+    },
+    {
+      "citation": "Rowland, Benjamin. <em>The Evolution of the Buddha Image</em>. [New York]: Distributed by Abrams, 1963.",
+      "page_number": "Mentioned and Reproduced: no. 11, p. 51",
+      "url": ""
+    },
+    {
+      "citation": "The Cleveland Museum of Art. <em>Handbook of the Cleveland Museum of Art/1966</em>. Cleveland, OH: The Cleveland Museum of Art, 1966.",
+      "page_number": "Reproduced: p. 231",
+      "url": "https://archive.org/details/CMAHandbook1966/page/n255"
+    },
+    {
+      "citation": "The Cleveland Museum of Art. <em>Handbook of the Cleveland Museum of Art/1969</em>. Cleveland, OH: The Cleveland Museum of Art, 1969.",
+      "page_number": "Reproduced: p. 231",
+      "url": "https://archive.org/details/CMAHandbook1969/page/n255"
+    },
+    {
+      "citation": "Craven, Roy C. <em>A Concise History of Indian Art</em>. London: Thames and Hudson, 1976.",
+      "page_number": "Mentioned and Reproduced: p. 113, fig. 72",
+      "url": ""
+    },
+    {
+      "citation": "The Cleveland Museum of Art. <em>Handbook of the Cleveland Museum of Art/1978</em>. Cleveland, OH: The Cleveland Museum of Art, 1978.",
+      "page_number": "Reproduced: p. 291",
+      "url": "https://archive.org/details/CMAHandbook1978/page/n311"
+    },
+    {
+      "citation": "Heeramaneck, Alice N. <em>Masterpieces of Indian Painting: From the Former Collections of Nasli M. Heeramaneck</em>. Verona, Italy: A.N. Heeramaneck, 1984.",
+      "page_number": "no. 32",
+      "url": ""
+    },
+    {
+      "citation": "Cunningham, Michael R., Stanislaw J. Czuma, Anne E. Wardwell, and J. Keith Wilson. <em>Masterworks of Asian Art</em>. Cleveland, OH: The Cleveland Museum of Art, 1998.",
+      "page_number": "Mentioned and Reproduced: pp. 126–127",
+      "url": ""
+    },
+    {
+      "citation": "May, Sally Ruth, Jane Takac, and Barbara J. Bradley. <em>Knockouts: A Pocket Guide</em>. Cleveland, OH: The Cleveland Museum of Art, 2001.",
+      "page_number": "Reproduced: no. 96, p. 87; Mentioned: p. 119",
+      "url": ""
+    }
+  ],
+  "url": "https://clevelandart.org/art/1943.278",
+  "images": {
+    "annotation": null,
+    "web": {
+      "url": "https://openaccess-cdn.clevelandart.org/1943.278/1943.278_web.jpg",
+      "width": "571",
+      "height": "893",
+      "filesize": "54050",
+      "filename": "1943.278_web.jpg"
+    },
+    "print": {
+      "url": "https://openaccess-cdn.clevelandart.org/1943.278/1943.278_print.jpg",
+      "width": "2175",
+      "height": "3400",
+      "filesize": "743355",
+      "filename": "1943.278_print.jpg"
+    },
+    "full": {
+      "url": "https://openaccess-cdn.clevelandart.org/1943.278/1943.278_full.tif",
+      "width": "4758",
+      "height": "7437",
+      "filesize": "106178600",
+      "filename": "1943.278_full.tif"
+    }
+  },
+  "alternate_images": [
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1943.278/1943.278_alt0_web.jpg",
+        "width": "567",
+        "height": "893",
+        "filesize": "54643"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1943.278/1943.278_alt0_print.jpg",
+        "width": "2158",
+        "height": "3400",
+        "filesize": "745509"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1943.278/1943.278_alt0_full.tif",
+        "width": "4848",
+        "height": "7635",
+        "filesize": "111071288"
+      },
+      "date_created": "2012-10-01T13:59:31",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1943.278/1943.278_alt1_web.jpg",
+        "width": "456",
+        "height": "893",
+        "filesize": "31929"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1943.278/1943.278_alt1_print.jpg",
+        "width": "1738",
+        "height": "3400",
+        "filesize": "406128"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1943.278/1943.278_alt1_full.tif",
+        "width": "3696",
+        "height": "7228",
+        "filesize": "80171332"
+      },
+      "date_created": "2012-10-01T14:26:24",
+      "annotation": ""
+    },
+    {
+      "web": {
+        "url": "https://openaccess-cdn.clevelandart.org/1943.278/1943.278_alt2_web.jpg",
+        "width": "643",
+        "height": "893",
+        "filesize": "367248"
+      },
+      "print": {
+        "url": "https://openaccess-cdn.clevelandart.org/1943.278/1943.278_alt2_print.jpg",
+        "width": "1106",
+        "height": "1536",
+        "filesize": "1178085"
+      },
+      "full": {
+        "url": "https://openaccess-cdn.clevelandart.org/1943.278/1943.278_alt2_full.tif",
+        "width": "1106",
+        "height": "1536",
+        "filesize": "5098388"
+      },
+      "annotation": ""
+    }
+  ],
+  "creditline": "Purchase from the J. H. Wade Fund",
+  "image_credit": null,
+  "sketchfab_id": null,
+  "sketchfab_url": null,
+  "gallery_donor_text": null,
+  "athena_id": 123021,
+  "creators": [],
+  "legal_status": "accessioned",
+  "accession_date": "1943-06-02T00:00:00",
+  "sortable_date": 400,
+  "date_added_to_oa": null,
+  "date_text": "400s CE",
+  "collapse_artists": false,
+  "on_loan": false,
+  "recently_acquired": false,
+  "record_type": "object",
+  "conservation_statement": null,
+  "has_conservation_images": false,
+  "cover_accession_number": null,
+  "is_nazi_era_provenance": false,
+  "impression": null,
+  "alternate_titles": [],
+  "is_highlight": false,
+  "updated_at": "2026-06-17 11:19:43.659000"
+}

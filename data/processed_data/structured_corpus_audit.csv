@@ -1,0 +1,509 @@
+artifact_id,partition,title,raw_region,macro_region,has_origin,raw_date,year_ce,is_dated,material_clean,iconography_class,token_count,year_ce_imputed
+DHARMA_INSIDENK00007,DHARMA,"Dharmasraya A (Padang Roco Amoghapāśa base), 1286 CE",Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Monastic_Endowment,1176,1017.0
+DHARMA_INSIDENK00024,DHARMA,"N. 24. River stone from Kambang Purun, at Palembang (ca. 8th c. CE)",Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,46,1017.0
+DHARMA_INSIDENK00050,DHARMA,N. 50. Pillar from Kota Kapur (608 Śaka),Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,334,1017.0
+DHARMA_INSIDENK00059,DHARMA,Gunung Tua Lokanātha Statue,Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,380,1017.0
+DHARMA_INSIDENK00066,DHARMA,N. 66. Śrīkṣetra Dedication: Slab from Talang Tuwo (606 Śaka),Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Bodhisattva_Cult,344,1017.0
+DHARMA_INSIDENK00096,DHARMA,"Stela from Bukit Gombak (N. 96), 1278 Śaka",Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,1186,1017.0
+DHARMA_INSIDENK00105,DHARMA,N. 105. River stone from Sebokingking at Palembang (ca. 8th c. CE),Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,55,1017.0
+DHARMA_INSIDENK00106,DHARMA,N. 106. River stone from Sebokingking at Palembang (ca. 8th c. CE),Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,57,1017.0
+DHARMA_INSIDENK00138,DHARMA,"Bronze base for a triad of statuettes (N. 138, ca. 10th c. CE)",Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,230,1017.0
+DHARMA_INSIDENK00139,DHARMA,N. 139. Sebokingking (Telaga Batu) Stone fragment,Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,42,1017.0
+DHARMA_INSIDENK00143,DHARMA,"N. 143. River stone from Kambang Purun, at Palembang (ca. 8th c. CE)",Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,48,1017.0
+DHARMA_INSIDENK00153,DHARMA,"N. 153. River stone from Kambang Purun, at Palembang (ca. 8th c. CE)",Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,50,1017.0
+DHARMA_INSIDENK00159,DHARMA,N. 159. Riverstone from Kedukan Bukit (604 Śaka),Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,380,1017.0
+DHARMA_INSIDENK00186,DHARMA,"Makara of Candi Kedaton at Muara Jambi (N. 186), 10/11th c. CE",Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,62,1017.0
+DHARMA_INSIDENK00348,DHARMA,N. 348. Gaṇeśa statue from Ketanen (826 Śaka),Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,340,1017.0
+DHARMA_INSIDENK00351,DHARMA,"Foundation of Sarungga's Hermitage (N. 351), 823 Śaka",Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,110,1017.0
+DHARMA_INSIDENK00353,DHARMA,N. 353. Prayer of the,Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,992,1017.0
+DHARMA_INSIDENK00361,DHARMA,"N. 361. Charter of Kasugihan, 829 Śaka (907-11-18 CE)",Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Monastic_Endowment,1000,1017.0
+DHARMA_INSIDENK00368,DHARMA,Silver plate for the deity at Abhaya,Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,94,1017.0
+DHARMA_INSIDENK00369,DHARMA,N. 369. Stone from Kebonkopi (932 CE),Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,301,1017.0
+DHARMA_INSIDENK00372,DHARMA,N. 372 Mandiwunga (9th/10th c. CE),Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,82,1017.0
+DHARMA_INSIDENK00382,DHARMA,N. 382. Broken copper plate from Pasanggrahan (ca. 900-910 CE),Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,426,1017.0
+DHARMA_INSIDENK00383,DHARMA,N. 383. Charter of Rukam (829 Śaka),Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Monastic_Endowment,1894,1017.0
+DHARMA_INSIDENK00388,DHARMA,"Silver vase of the deity at Dieng, early 10th c. CE",Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,431,1017.0
+DHARMA_INSIDENK00391,DHARMA,"N. 391. Demarcation of the villages Wukajana, Tumpak & Wuru Telu for the monaste",Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Monastic_Endowment,3488,1017.0
+DHARMA_INSIDENK00396,DHARMA,Silver plate for the deified ancestor at Abhayamukha,Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,104,1017.0
+DHARMA_INSIDENK00404,DHARMA,N. 404. Victory document of,Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,1043,1017.0
+DHARMA_INSIDENK00447,DHARMA,"N. 447. Charter for Bhatari (829 Śaka, 907-10-07)",Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Monastic_Endowment,463,1017.0
+DHARMA_INSIDENK00454,DHARMA,"N. 454. Instruction to tax collectors at Wuang Got, ca. 875 CE",Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,186,1017.0
+DHARMA_INSIDENK00467,DHARMA,"N. 467. Charter of the early tenth century, said to be from Plered",Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Monastic_Endowment,640,1017.0
+DHARMA_INSIDENK00503,DHARMA,"N. 503. Charter of Wungandaik, reign of Balitung (898–910 CE)",Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Monastic_Endowment,1451,1017.0
+DHARMA_INSIDENK00526,DHARMA,Kamalagyan charter (959 Śaka),Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Monastic_Endowment,911,1017.0
+DHARMA_INSIDENK00579,DHARMA,"Lucem (N. 579), 924 Śaka",Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,87,1017.0
+DHARMA_INSIDENK00649,DHARMA,N. 649. Buddha Statue from Gondang Lor (11th or 12th c. CE),Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,679,1017.0
+DHARMA_INSIDENK00654,DHARMA,"N. 654. Stela at Kedungwangi (Lawan), ca. 1350–1450 CE",Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,1022,1017.0
+DHARMA_INSIDENK00722,DHARMA,N. 722. The Sangguran Charter (851 Śaka),Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Monastic_Endowment,5467,1017.0
+DHARMA_INSIDENK01481,DHARMA,N. 1481. Inventory of a Śaiva temple at Dieng (9th c. CE),Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Monastic_Endowment,417,1017.0
+DHARMA_INSIDENKAbhayananda,DHARMA,Abhayananda (779 Śaka),Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,259,1017.0
+DHARMA_INSIDENKAdanAdan,DHARMA,Adan-Adan (1223 Śaka),Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,4664,1017.0
+DHARMA_INSIDENKAdulengen,DHARMA,Adulengen,Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,969,1017.0
+DHARMA_INSIDENKAirAsih,DHARMA,Air Asih (between 1177 and 1208 Śaka),Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Bodhisattva_Cult,439,1017.0
+DHARMA_INSIDENKAirKali,DHARMA,Air Kali (849-850 Śaka),Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,698,1017.0
+DHARMA_INSIDENKAlasantan,DHARMA,Alasantan,Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,7097,1017.0
+DHARMA_INSIDENKAmoghapasaPlaqueTropenmuseum,DHARMA,Singasari Amoghapāśa plaque Tropenmuseum,Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Bodhisattva_Cult,39,1017.0
+DHARMA_INSIDENKAnjatan,DHARMA,Anjatan: Foundation Charter of the Amr̥tamaṅgala Monastery,Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Monastic_Endowment,3413,1017.0
+DHARMA_INSIDENKAyamTeas_I,DHARMA,Ayam Teas I (822 Śaka),Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,562,1017.0
+DHARMA_INSIDENKAyamTeas_II,DHARMA,Charter of Ayam Teas II,Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Monastic_Endowment,319,1017.0
+DHARMA_INSIDENKAyamTeas_III,DHARMA,"Charter of Ayam Teas III (822 Śaka, 901-01-01)",Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Monastic_Endowment,324,1017.0
+DHARMA_INSIDENKBalekambang,DHARMA,Prayer for long life of Vijaya (7th c. CE),Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,340,1017.0
+DHARMA_INSIDENKBarahasrama,DHARMA,"Barahasrama (837 Śaka, 915-12-14)",Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Bodhisattva_Cult,5320,1017.0
+DHARMA_INSIDENKBarsahan,DHARMA,Barsahan charter (date lost),Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Monastic_Endowment,855,1017.0
+DHARMA_INSIDENKBaru,DHARMA,"Charter of Baru, 952 Śaka",Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Monastic_Endowment,2565,1017.0
+DHARMA_INSIDENKBatur,DHARMA,Batur,Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,406,1017.0
+DHARMA_INSIDENKBatutulis,DHARMA,Batutulis,Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,949,1017.0
+DHARMA_INSIDENKBorobudurHB021,DHARMA,"Relief label from Borobudur's hidden base, no. 21 (8th c. CE)",Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,107,1017.0
+DHARMA_INSIDENKBorobudurHB024,DHARMA,"Relief label from Borobudur's hidden base, no. 24",Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,30,1017.0
+DHARMA_INSIDENKBorobudurHB029,DHARMA,"Relief label from Borobudur's hidden base, no. 29",Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,31,1017.0
+DHARMA_INSIDENKBorobudurHB043,DHARMA,"Relief label from Borobudur's hidden base, no. 43 (8th c. CE)",Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,41,1017.0
+DHARMA_INSIDENKBorobudurHB121A,DHARMA,"Relief label from Borobudur's hidden base, no. 121A (8th c. CE)",Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,52,1017.0
+DHARMA_INSIDENKBorobudurHB121B,DHARMA,"Relief label from Borobudur's hidden base, no. 121B (8th c. CE)",Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,53,1017.0
+DHARMA_INSIDENKBorobudurHB122,DHARMA,"Relief label from Borobudur's hidden base, no. 122 (8th c. CE)",Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Ritual_Votive_Relic,55,1017.0
+DHARMA_INSIDENKBorobudurHB123,DHARMA,"Relief label from Borobudur's hidden base, no. 123 (8th c. CE)",Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,52,1017.0
+DHARMA_INSIDENKBorobudurHB124A,DHARMA,"Relief label from Borobudur's hidden base, no. 124A (8th c. CE)",Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,55,1017.0
+DHARMA_INSIDENKBorobudurHB124B,DHARMA,"Relief label from Borobudur's hidden base, no. 124B (8th c. CE)",Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,94,1017.0
+DHARMA_INSIDENKBorobudurHB125A,DHARMA,"Relief label from Borobudur's hidden base, no. 125A (8th c. CE)",Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,116,1017.0
+DHARMA_INSIDENKBorobudurHB125B,DHARMA,"Relief label from Borobudur's hidden base, no. 125B (8th c. CE)",Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,85,1017.0
+DHARMA_INSIDENKBorobudurHB126A,DHARMA,"Relief label from Borobudur's hidden base, no. 126A (8th c. CE)",Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,86,1017.0
+DHARMA_INSIDENKBorobudurHB126B,DHARMA,"Relief label from Borobudur's hidden base, no. 126B (8th c. CE)",Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,51,1017.0
+DHARMA_INSIDENKBorobudurHB127A,DHARMA,"Relief label from Borobudur's hidden base, no. 127A (8th c. CE)",Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,56,1017.0
+DHARMA_INSIDENKBorobudurHB127B,DHARMA,"Relief label from Borobudur's hidden base, no. 127B (8th c. CE)",Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,118,1017.0
+DHARMA_INSIDENKBorobudurHB128,DHARMA,"Relief label from Borobudur's hidden base, no. 128 (8th c. CE)",Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,57,1017.0
+DHARMA_INSIDENKBorobudurHB129,DHARMA,"Relief label from Borobudur's hidden base, no. 129 (8th c. CE)",Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,55,1017.0
+DHARMA_INSIDENKBorobudurHB130,DHARMA,"Relief label from Borobudur's hidden base, no. 130 (8th c. CE)",Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,52,1017.0
+DHARMA_INSIDENKBorobudurHB131A,DHARMA,"Relief label from Borobudur's hidden base, no. 131A (8th c. CE)",Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,52,1017.0
+DHARMA_INSIDENKBorobudurHB131B,DHARMA,"Relief label from Borobudur's hidden base, no. 131B (8th c. CE)",Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,55,1017.0
+DHARMA_INSIDENKBorobudurHB132,DHARMA,"Relief label from Borobudur's hidden base, no. 132 (8th c. CE)",Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,54,1017.0
+DHARMA_INSIDENKBorobudurHB133,DHARMA,"Relief label from Borobudur's hidden base, no. 133 (8th c. CE)",Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,128,1017.0
+DHARMA_INSIDENKBorobudurHB134A,DHARMA,"Relief label from Borobudur's hidden base, no. 134A (8th c. CE)",Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,126,1017.0
+DHARMA_INSIDENKBorobudurHB134B,DHARMA,"Relief label from Borobudur's hidden base, no. 134B (8th c. CE)",Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,53,1017.0
+DHARMA_INSIDENKBorobudurHB135A,DHARMA,"Relief label from Borobudur's hidden base, no. 135A (8th c. CE)",Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,54,1017.0
+DHARMA_INSIDENKBorobudurHB135B,DHARMA,"Relief label from Borobudur's hidden base, no. 135B (8th c. CE)",Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,81,1017.0
+DHARMA_INSIDENKBorobudurHB137,DHARMA,"Relief label from Borobudur's hidden base, no. 137 (8th c. CE)",Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,52,1017.0
+DHARMA_INSIDENKBorobudurHB138A,DHARMA,"Relief label from Borobudur's hidden base, no. 138A (8th c. CE)",Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,99,1017.0
+DHARMA_INSIDENKBorobudurHB138B,DHARMA,"Relief label from Borobudur's hidden base, no. 138B (8th c. CE)",Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,55,1017.0
+DHARMA_INSIDENKBorobudurHB139,DHARMA,"Relief label from Borobudur's hidden base, no. 139 (8th c. CE)",Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Monastic_Endowment,45,1017.0
+DHARMA_INSIDENKBorobudurHB140,DHARMA,"Relief label from Borobudur's hidden base, no. 140 (8th c. CE)",Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,52,1017.0
+DHARMA_INSIDENKBorobudurHB141,DHARMA,"Relief label from Borobudur's hidden base, no. 141 (8th c. CE)",Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,52,1017.0
+DHARMA_INSIDENKBorobudurHB142,DHARMA,"Relief label from Borobudur's hidden base, no. 142 (8th c. CE)",Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,52,1017.0
+DHARMA_INSIDENKBorobudurHB144,DHARMA,"Relief label from Borobudur's hidden base, no. 144 (8th c. CE)",Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,83,1017.0
+DHARMA_INSIDENKBorobudurHB147,DHARMA,"Relief label from Borobudur's hidden base, no. 147 (8th c. CE)",Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,51,1017.0
+DHARMA_INSIDENKBorobudurHB148A,DHARMA,"Relief label from Borobudur's hidden base, no. 148A (8th c. CE)",Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,72,1017.0
+DHARMA_INSIDENKBorobudurHB148B,DHARMA,"Relief label from Borobudur's hidden base, no. 148B (8th c. CE)",Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Monastic_Endowment,76,1017.0
+DHARMA_INSIDENKBorobudurHB149,DHARMA,"Relief label from Borobudur's hidden base, no. 149 (8th c. CE)",Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,40,1017.0
+DHARMA_INSIDENKBorobudurHB150A,DHARMA,"Relief label from Borobudur's hidden base, no. 150A (8th c. CE)",Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,89,1017.0
+DHARMA_INSIDENKBorobudurHB150B,DHARMA,"Relief label from Borobudur's hidden base, no. 150B (8th c. CE)",Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,91,1017.0
+DHARMA_INSIDENKBorobudurHB151,DHARMA,"Relief label from Borobudur's hidden base, no. 151 (8th c. CE)",Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,51,1017.0
+DHARMA_INSIDENKBorobudurHB152A,DHARMA,"Relief label from Borobudur's hidden base, no. 152A (8th c. CE)",Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,55,1017.0
+DHARMA_INSIDENKBorobudurHB152B,DHARMA,"Relief label from Borobudur's hidden base, no. 152B (8th c. CE)",Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,51,1017.0
+DHARMA_INSIDENKBorobudurHB153A,DHARMA,"Relief label from Borobudur's hidden base, no. 153A (8th c. CE)",Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,80,1017.0
+DHARMA_INSIDENKBorobudurHB153B,DHARMA,"Relief label from Borobudur's hidden base, no. 153B (8th c. CE)",Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,36,1017.0
+DHARMA_INSIDENKBorobudurHB154A,DHARMA,"Relief label from Borobudur's hidden base, no. 154A (8th c. CE)",Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Monastic_Endowment,55,1017.0
+DHARMA_INSIDENKBorobudurHB154B,DHARMA,"Relief label from Borobudur's hidden base, no. 154B (8th c. CE)",Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,103,1017.0
+DHARMA_INSIDENKBorobudurHB154C,DHARMA,"Relief label from Borobudur's hidden base, no. 154C (8th c. CE)",Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,51,1017.0
+DHARMA_INSIDENKBorobudurHB157,DHARMA,"Relief label from Borobudur's hidden base, no. 157 (8th c. CE)",Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,59,1017.0
+DHARMA_INSIDENKBukateja,DHARMA,Embossed Image of Śiva in Gold Leaf from Central Java (8th c. CE),Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,69,1017.0
+DHARMA_INSIDENKBulai,DHARMA,Bulai,Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,513,1017.0
+DHARMA_INSIDENKBularut,DHARMA,Bularut charter (964 Śaka),Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Monastic_Endowment,1987,1017.0
+DHARMA_INSIDENKCamundi,DHARMA,Camundi,Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Bodhisattva_Cult,174,1017.0
+DHARMA_INSIDENKCanggal,DHARMA,The stela of Canggal or Gunung Wukir (654 Śaka),Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Bodhisattva_Cult,1557,1017.0
+DHARMA_INSIDENKCanggu,DHARMA,Canggu inscription,tiktavilva,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Bodhisattva_Cult,1532,1017.0
+DHARMA_INSIDENKDawangsari,DHARMA,"A poem in honor of Gaṇeśa found at Dawangsari, 9th c. CE",Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,970,1017.0
+DHARMA_INSIDENKDinoyoIIa,DHARMA,Two connected charters on a stone from Dinoyo (772 and 786 Śaka),Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Monastic_Endowment,661,1017.0
+DHARMA_INSIDENKDisunuh,DHARMA,Disunuh (709 Śaka),Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,580,1017.0
+DHARMA_INSIDENKE62,DHARMA,E62,Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,187,1017.0
+DHARMA_INSIDENKGajahMada,DHARMA,Gajah Mada's foundation of a caitya (1351-04-27),Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,259,1017.0
+DHARMA_INSIDENKGandasuli,DHARMA,Gandasuli (early 8th century CE),Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Bodhisattva_Cult,1034,1017.0
+DHARMA_INSIDENKGandhakuti,DHARMA,Gandhakuti,Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Bodhisattva_Cult,1609,1017.0
+DHARMA_INSIDENKGaraman,DHARMA,Garaman,Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,4992,1017.0
+DHARMA_INSIDENKGarung,DHARMA,Garung,Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,296,1017.0
+DHARMA_INSIDENKGenengII,DHARMA,Geneng II,Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Bodhisattva_Cult,731,1017.0
+DHARMA_INSIDENKGerba01,DHARMA,Stone from Gerba (no. 1),Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,75,1017.0
+DHARMA_INSIDENKGerba02,DHARMA,Stone from Gerba (no. 2),Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,90,1017.0
+DHARMA_INSIDENKGilikan,DHARMA,"Charter of Gilikan, ca. 925 CE",Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Bodhisattva_Cult,1442,1017.0
+DHARMA_INSIDENKGulungGulung,DHARMA,Gulung-Gulung (851 Śaka),Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Bodhisattva_Cult,2975,1017.0
+DHARMA_INSIDENKHampran,DHARMA,Gift of Hampran village (674 Śaka),Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,1091,1017.0
+DHARMA_INSIDENKHarinjing,DHARMA,The Harinjing Charter,Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Monastic_Endowment,861,1017.0
+DHARMA_INSIDENKHering,DHARMA,Charter of Hering (870 Śaka),Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Monastic_Endowment,1516,1017.0
+DHARMA_INSIDENKHimadvalandit,DHARMA,Himad Walandit,Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Monastic_Endowment,591,1017.0
+DHARMA_INSIDENKHorren,DHARMA,"Charter of Horren, ca. 975 Śaka",Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Bodhisattva_Cult,928,1017.0
+DHARMA_INSIDENKHujungGaluh-Sangsang,DHARMA,Hujung Galuh / Sangsang (907-05-04),Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,1492,1017.0
+DHARMA_INSIDENKHuludayeuh,DHARMA,Huludayeuh,Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,1429,1017.0
+DHARMA_INSIDENKHumanding,DHARMA,The Polengan plates: Humanding charter (797 Śaka),Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Monastic_Endowment,2097,1017.0
+DHARMA_INSIDENKHuwung,DHARMA,Demarcation of Huwung (822/823 CE),Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Bodhisattva_Cult,87,1017.0
+DHARMA_INSIDENKJamwi,DHARMA,Jamwi (Sinaguha),Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,240,1017.0
+DHARMA_INSIDENKJeruJeru,DHARMA,Jeru-Jeru (852 Śaka),Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,2362,1017.0
+DHARMA_INSIDENKJobongMNI382,DHARMA,Well ring (,Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,127,1017.0
+DHARMA_INSIDENKJragung,DHARMA,Jragung,Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Protective_Esoteric,297,1017.0
+DHARMA_INSIDENKJurungan,DHARMA,The Polengan plates: Jurungan charter (798 Śaka),Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Monastic_Endowment,1628,1017.0
+DHARMA_INSIDENKKabhagavanan,DHARMA,"Kabhagavanan, 1361 Śaka",Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,1003,1017.0
+DHARMA_INSIDENKKakalangan,DHARMA,Kakalangan,Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,562,1017.0
+DHARMA_INSIDENKKaladi,DHARMA,Kaladi charter,Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Bodhisattva_Cult,2331,1017.0
+DHARMA_INSIDENKKalasan,DHARMA,Kalasan,Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,2013,1017.0
+DHARMA_INSIDENKKandangan,DHARMA,The Charter of Kandangan,Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Monastic_Endowment,643,1017.0
+DHARMA_INSIDENKKanjuruhan,DHARMA,The Kanjuruhan Charter (682 Śaka),Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Monastic_Endowment,1671,1017.0
+DHARMA_INSIDENKKarangloMojokerto,DHARMA,Karang Lo (1019 Śaka),Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,261,1017.0
+DHARMA_INSIDENKKawali_1a,DHARMA,Kawali I (a),Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,701,1017.0
+DHARMA_INSIDENKKawali_1b,DHARMA,Kawali I (b),Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,330,1017.0
+DHARMA_INSIDENKKawali_2,DHARMA,Kawali 2,Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,93,1017.0
+DHARMA_INSIDENKKawali_3,DHARMA,Kawali 3,Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,73,1017.0
+DHARMA_INSIDENKKawali_4,DHARMA,Kawali 4,Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,44,1017.0
+DHARMA_INSIDENKKawali_5,DHARMA,Kawali 5,Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,120,1017.0
+DHARMA_INSIDENKKawali_6,DHARMA,Kawali VI,Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,381,1017.0
+DHARMA_INSIDENKKayuAraHiwang,DHARMA,Kayu Ara Hiwang (823 Śaka),Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,787,1017.0
+DHARMA_INSIDENKKayumwungan,DHARMA,Kayumwungan charter of the Veṇuvanavihāra (746 Śaka),Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Bodhisattva_Cult,1473,1017.0
+DHARMA_INSIDENKKebantenan_1,DHARMA,Kebantenan 1,Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,1831,1017.0
+DHARMA_INSIDENKKebantenan_2,DHARMA,Kebantenan 2,Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Monastic_Endowment,1344,1017.0
+DHARMA_INSIDENKKebantenan_3,DHARMA,Kebantenan 3,Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,329,1017.0
+DHARMA_INSIDENKKebantenan_4,DHARMA,Kebantenan 4,Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Monastic_Endowment,781,1017.0
+DHARMA_INSIDENKKinewu,DHARMA,Kinewu (829 Śaka – 907-11-20),Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,1274,1017.0
+DHARMA_INSIDENKKiringan,DHARMA,Kiringan (917-11-14),Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,1624,1017.0
+DHARMA_INSIDENKKubu-Kubu,DHARMA,"Kubu-Kubu (827 Ś, 905-10-17)",Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,1368,1017.0
+DHARMA_INSIDENKKurungan,DHARMA,Kurungan (Randusari II),Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,2661,1017.0
+DHARMA_INSIDENKKusambyan,DHARMA,Kusambyan charter (945 Śaka),Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Monastic_Endowment,408,1017.0
+DHARMA_INSIDENKLaguna,DHARMA,Laguna Copper plate (820 Śaka),Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,464,1017.0
+DHARMA_INSIDENKLanda,DHARMA,Resources of the temple at Landa (late 9th c. CE),Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Monastic_Endowment,1319,1017.0
+DHARMA_INSIDENKLinggasuntan,DHARMA,Linggasuntan (851 Śaka),Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Bodhisattva_Cult,2640,1017.0
+DHARMA_INSIDENKLinggawangi,DHARMA,Linggawangi,Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,222,1017.0
+DHARMA_INSIDENKLintakan,DHARMA,"Lintakan (841 Śaka, 919-07-12)",Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,6206,1017.0
+DHARMA_INSIDENKLuitan,DHARMA,Charter of Luitan I,Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Monastic_Endowment,555,1017.0
+DHARMA_INSIDENKLurah,DHARMA,Lurah (E. 14),Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,187,1017.0
+DHARMA_INSIDENKMadhawapura,DHARMA,Madhawapura (13th c. CE),Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,1125,1017.0
+DHARMA_INSIDENKMalenga,DHARMA,Malenga,Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,915,1017.0
+DHARMA_INSIDENKMamali,DHARMA,The Polengan plates: Mamali Charter (800 Śaka),Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Monastic_Endowment,431,1017.0
+DHARMA_INSIDENKManahimanuk,DHARMA,Manah i Manuk Charter (1350–1356 CE),Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Monastic_Endowment,1966,1017.0
+DHARMA_INSIDENKManjusrigerha,DHARMA,Manjusrigerha (792 CE),Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,480,1017.0
+DHARMA_INSIDENKMantyasihI,DHARMA,The Charter of Mantyasih I,Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Monastic_Endowment,2368,1017.0
+DHARMA_INSIDENKMantyasihII,DHARMA,"Mantyasih II (829 Śaka, 907-04-11)",Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,220,1017.0
+DHARMA_INSIDENKMantyasihIII,DHARMA,The Charter of Mantyasih III,Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Monastic_Endowment,1924,1017.0
+DHARMA_INSIDENKMaribong,DHARMA,The Maribong Charter of Wisnuwardhana (1170 Śaka),Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Monastic_Endowment,606,1017.0
+DHARMA_INSIDENKMarinci_I,DHARMA,Marinci I,Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,181,1017.0
+DHARMA_INSIDENKMarinci_II,DHARMA,Marinci II,Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Bodhisattva_Cult,326,1017.0
+DHARMA_INSIDENKMarsemu,DHARMA,"Marsemu charter, ca. 875 CE",Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Monastic_Endowment,167,1017.0
+DHARMA_INSIDENKMasahar,DHARMA,Charter of Masahar (852 Śaka),Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Bodhisattva_Cult,6148,1017.0
+DHARMA_INSIDENKMpuMano,DHARMA,Mpu Mano,Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,1427,1017.0
+DHARMA_INSIDENKMula-Malurung,DHARMA,Mula-Malurung,Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,3924,1017.0
+DHARMA_INSIDENKMunduan,DHARMA,Munduan,Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,1210,1017.0
+DHARMA_INSIDENKMunggut,DHARMA,Munggut charter (944 Śaka),Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Monastic_Endowment,5624,1017.0
+DHARMA_INSIDENKNarasinghanagara,DHARMA,Narasinghanagara,Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,558,1017.0
+DHARMA_INSIDENKNgadoman,DHARMA,Ngadoman,Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,536,1017.0
+DHARMA_INSIDENKNglumbangDungik,DHARMA,Stone from Nglumbang Dungik (9th-10th c. CE),Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,91,1017.0
+DHARMA_INSIDENKPabanyolan,DHARMA,The Comedy (,Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,595,1017.0
+DHARMA_INSIDENKPadingding,DHARMA,"Stray plate of a foundation bordering on Paḍiṅḍiṅ, Paṅeran and Pajənvan (14th c.",paṅeran,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,896,1017.0
+DHARMA_INSIDENKPaguhan,DHARMA,Paguhan,Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,463,1017.0
+DHARMA_INSIDENKPakisWetan,DHARMA,The Pakis Wetan Charter of Kertanagara (1188 Śaka),Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Monastic_Endowment,581,1017.0
+DHARMA_INSIDENKPalebuhan,DHARMA,"Palebuhan, 849 Śaka",Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,1092,1017.0
+DHARMA_INSIDENKPalepangan,DHARMA,Palepangan charter (828 Śaka),Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Monastic_Endowment,2261,1017.0
+DHARMA_INSIDENKPamintihan,DHARMA,The Pamintihan charter,Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Bodhisattva_Cult,1261,1017.0
+DHARMA_INSIDENKPananggaran,DHARMA,Pananggaran (791 Śaka),Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,359,1017.0
+DHARMA_INSIDENKPanggumulanA,DHARMA,The Charter of Panggumulan,Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Monastic_Endowment,2668,1017.0
+DHARMA_INSIDENKPanunggalan,DHARMA,"Panunggalan charter (818 Śaka, 896-08-15 CE)",Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Monastic_Endowment,499,1017.0
+DHARMA_INSIDENKParablyan,DHARMA,Parablyan (between 1177 and 1208 Śaka),Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Bodhisattva_Cult,401,1017.0
+DHARMA_INSIDENKParhyangan,DHARMA,Parhyangan,Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,306,1017.0
+DHARMA_INSIDENKParung_I,DHARMA,Parung I,Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,665,1017.0
+DHARMA_INSIDENKParung_II,DHARMA,Parung II,Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,302,1017.0
+DHARMA_INSIDENKPasrujambe01,DHARMA,Stone from Pasrujambe (no. 1),Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,53,1017.0
+DHARMA_INSIDENKPasrujambe02,DHARMA,Stone from Pasrujambe (no. 2),Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,123,1017.0
+DHARMA_INSIDENKPasrujambe04,DHARMA,Stone from Pasrujambe (no. 4),Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,92,1017.0
+DHARMA_INSIDENKPasrujambe05,DHARMA,Stone from Pasrujambe (no. 5),Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,81,1017.0
+DHARMA_INSIDENKPasrujambe06,DHARMA,Stone from Pasrujambe (no. 6),Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,66,1017.0
+DHARMA_INSIDENKPasrujambe07,DHARMA,Stone from Pasrujambe (no. 7),Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,50,1017.0
+DHARMA_INSIDENKPasrujambe08,DHARMA,Stone from Pasrujambe (no. 8),Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,83,1017.0
+DHARMA_INSIDENKPasrujambe09,DHARMA,Stone from Pasrujambe (no. 9),Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,73,1017.0
+DHARMA_INSIDENKPasrujambe10,DHARMA,Stone from Pasrujambe (no. 10),Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,72,1017.0
+DHARMA_INSIDENKPasrujambe11,DHARMA,Stone from Pasrujambe (no. 11),Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,27,1017.0
+DHARMA_INSIDENKPasrujambe12,DHARMA,Stone from Pasrujambe (no. 12),Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,106,1017.0
+DHARMA_INSIDENKPasrujambe13,DHARMA,Stone from Pasrujambe (no. 13),Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,46,1017.0
+DHARMA_INSIDENKPasrujambe14,DHARMA,Stone from Pasrujambe (no. 14),Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,104,1017.0
+DHARMA_INSIDENKPasrujambe15,DHARMA,Stone from Pasrujambe (no. 15),Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,74,1017.0
+DHARMA_INSIDENKPasrujambe16,DHARMA,Stone from Pasrujambe (no. 16),Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,71,1017.0
+DHARMA_INSIDENKPasrujambe17,DHARMA,Stone from Pasrujambe (no. 17),Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,67,1017.0
+DHARMA_INSIDENKPasrujambe18,DHARMA,Stone from Pasrujambe (no. 18),Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,65,1017.0
+DHARMA_INSIDENKPasrujambe19,DHARMA,Stone from Pasrujambe (no. 19),Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,60,1017.0
+DHARMA_INSIDENKPasrujambe20,DHARMA,Stone from Pasrujambe (no. 20),Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,82,1017.0
+DHARMA_INSIDENKPasrujambe21,DHARMA,Stone from Pasrujambe (no. 21),Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,48,1017.0
+DHARMA_INSIDENKPasrujambe22,DHARMA,Stone from Pasrujambe (no. 22),Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,45,1017.0
+DHARMA_INSIDENKPasrujambe23,DHARMA,Stone from Pasrujambe (no. 23),Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,53,1017.0
+DHARMA_INSIDENKPasrujambe24,DHARMA,Stone from Pasrujambe (no. 24),Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,56,1017.0
+DHARMA_INSIDENKPasrujambe25,DHARMA,Stone from Pasrujambe (no. 25),Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,42,1017.0
+DHARMA_INSIDENKPasrujambe26,DHARMA,Stone from Pasrujambe (no. 26),Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,20,1017.0
+DHARMA_INSIDENKPasrujambe28,DHARMA,Stone from Pasrujambe (no. 28),Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,14,1017.0
+DHARMA_INSIDENKPasrujambe29,DHARMA,Stone from Pasrujambe (no. 29),Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,19,1017.0
+DHARMA_INSIDENKPasrujambe30,DHARMA,Stone from Pasrujambe (no. 30),Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,29,1017.0
+DHARMA_INSIDENKPatapan,DHARMA,Patapan I,Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,97,1017.0
+DHARMA_INSIDENKPatapan_II,DHARMA,Patapan II,Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,327,1017.0
+DHARMA_INSIDENKPatitihan,DHARMA,Patitihan,Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,1027,1017.0
+DHARMA_INSIDENKPenampihan,DHARMA,Penampihan,Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,252,1017.0
+DHARMA_INSIDENKPesindon,DHARMA,Pesindon I and II (914-08-14),Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,1382,1017.0
+DHARMA_INSIDENKPlalangan,DHARMA,Stone from Plalangan (9th-10th c. CE),Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,142,1017.0
+DHARMA_INSIDENKPoh,DHARMA,Charter of Poh (Randusari I),Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Monastic_Endowment,2458,1017.0
+DHARMA_INSIDENKPucangan,DHARMA,Charter of Pucangan (1041-11-6),Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Monastic_Endowment,13100,1017.0
+DHARMA_INSIDENKPuhawangGlis,DHARMA,Puhawang Glis (749 Śaka),Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Monastic_Endowment,286,1017.0
+DHARMA_INSIDENKRaKidanI,DHARMA,Ra Kidan I (750-800 Śaka),Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,165,1017.0
+DHARMA_INSIDENKRabvan,DHARMA,"Rabvan (827 Śaka, 906-02-03)",Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,48,1017.0
+DHARMA_INSIDENKRameswarapura,DHARMA,Rameswarapura charter (1197 Śaka),Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Bodhisattva_Cult,4049,1017.0
+DHARMA_INSIDENKRampal,DHARMA,Rampal (ca. 875 CE),Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,423,1017.0
+DHARMA_INSIDENKRembang,DHARMA,Rembang,Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,395,1017.0
+DHARMA_INSIDENKRongkab,DHARMA,Charter of Rongkab,Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Monastic_Endowment,1036,1017.0
+DHARMA_INSIDENKRumwigaI,DHARMA,"Rumwiga I (826 Śaka, 904-12-28)",Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,887,1017.0
+DHARMA_INSIDENKRumwigaII,DHARMA,"Rumwiga II (827 Śaka, 905-07-05)",Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Bodhisattva_Cult,873,1017.0
+DHARMA_INSIDENKSadang,DHARMA,Sadang,Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,244,1017.0
+DHARMA_INSIDENKSalingsinganII,DHARMA,Donation Record of Salingsingan II (802 Śaka) and Kikil Batu Addendum (827 Śaka),Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,1112,1017.0
+DHARMA_INSIDENKSamalagi,DHARMA,"Samalagi ([824 Ś], 902-10-29)",Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Bodhisattva_Cult,712,1017.0
+DHARMA_INSIDENKSangHyangTapak,DHARMA,Sang Hyang Tapak Charter of Jayabhūpati (952 Śaka),Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Monastic_Endowment,465,1017.0
+DHARMA_INSIDENKSanga,DHARMA,Charter of Sanga (13th c. CE),Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Monastic_Endowment,1290,1017.0
+DHARMA_INSIDENKSangsang,DHARMA,Sangsang,Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,2359,1017.0
+DHARMA_INSIDENKSankara,DHARMA,Sankara,Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,499,1017.0
+DHARMA_INSIDENKSarwadharma,DHARMA,Sarwadharma (1191 Śaka),Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,2155,1017.0
+DHARMA_INSIDENKSatyapura,DHARMA,Satyapura,Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,393,1017.0
+DHARMA_INSIDENKSelamandi_I,DHARMA,Selamandi I,Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,247,1017.0
+DHARMA_INSIDENKSelamandi_II,DHARMA,Śelamaṇḍi II,Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Monastic_Endowment,220,1017.0
+DHARMA_INSIDENKSelobrojo,DHARMA,Selobrojo (1226 Śaka),Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,119,1017.0
+DHARMA_INSIDENKSikuLalawa,DHARMA,Stray plate of a foundation bordering on Halaṅan and Taratap (13th c. CE),Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Bodhisattva_Cult,934,1017.0
+DHARMA_INSIDENKSilamanikundala,DHARMA,Foundation of a Dam Called Śilāmaṇi-kuṇḍala (1272 Śaka),Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,1201,1017.0
+DHARMA_INSIDENKSimaAnglayang,DHARMA,Sima Anglayang charter (in or after 968 Śaka),Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Monastic_Endowment,3228,1017.0
+DHARMA_INSIDENKSindoro-PuBahut,DHARMA,Pu Bahut (828 Śaka),Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,792,1017.0
+DHARMA_INSIDENKSindoro-PuMamruk,DHARMA,Pu Mamruk (828 Śaka),Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,739,1017.0
+DHARMA_INSIDENKSojomerto,DHARMA,Sojomerto (7th or 8th century CE),Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,570,1017.0
+DHARMA_INSIDENKSriManggalaII,DHARMA,Sri Manggala II (796 Śaka),Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,786,1017.0
+DHARMA_INSIDENKSriManggalaIII,DHARMA,Sri Manggala III (796 Śaka),Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,766,1017.0
+DHARMA_INSIDENKSugihManek,DHARMA,"Sugih Manek Charter (837 Śaka, 915-09-13)",Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Monastic_Endowment,8370,1017.0
+DHARMA_INSIDENKSukhamerta,DHARMA,Sukhamerta,Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Bodhisattva_Cult,1199,1017.0
+DHARMA_INSIDENKSumundul,DHARMA,Sumundul (791 Śaka),Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,366,1017.0
+DHARMA_INSIDENKTaji,DHARMA,"The Charter of Taji (823 Śaka, 8 April 901)",Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Monastic_Endowment,1510,1017.0
+DHARMA_INSIDENKTajiGunung,DHARMA,"Taji Gunung (Sañjaya 194, 910-12-21)",Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,6006,1017.0
+DHARMA_INSIDENKTalan,DHARMA,Charter of Talan (941 and 1058 Śaka),Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Monastic_Endowment,4738,1017.0
+DHARMA_INSIDENKTaragal,DHARMA,The Polengan plates: Taragal Charter (802 Śaka),Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Bodhisattva_Cult,622,1017.0
+DHARMA_INSIDENKTelahap,DHARMA,Telahap Stone,Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,41,1017.0
+DHARMA_INSIDENKTelangI-WanagiriI,DHARMA,"Grant of the villages of Telang, Mahe and Paparuhan",Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Monastic_Endowment,947,1017.0
+DHARMA_INSIDENKTelangII-WanagiriII,DHARMA,"Telang II / Wanagiri II (825 Ś, 904-01-11)",Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,351,1017.0
+DHARMA_INSIDENKTerep_I,DHARMA,Terep I,Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,373,1017.0
+DHARMA_INSIDENKTerep_II,DHARMA,Terep II,Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,570,1017.0
+DHARMA_INSIDENKTigaRon-TluRon,DHARMA,Charter of Tiga Ron also called Təlu Ron (822 Śaka – 900-03-30),Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Bodhisattva_Cult,1012,1017.0
+DHARMA_INSIDENKTihang,DHARMA,"Tihang charter (Sañjaya 198, 836 Śaka, 914-11-08 CE)",Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Monastic_Endowment,2920,1017.0
+DHARMA_INSIDENKTija-HaruHaru,DHARMA,Tija & Haru-Haru (11th c. CE?),Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,1456,1017.0
+DHARMA_INSIDENKTimbananWungkal,DHARMA,"Timbanan Wungkal (Sañjaya 196, 913-02-11)",Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Bodhisattva_Cult,1524,1017.0
+DHARMA_INSIDENKTirah,DHARMA,Tirah,Tirah,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,438,1017.0
+DHARMA_INSIDENKTugu,DHARMA,Tugu Boulder Inscription of Pūrṇavarman (ca. 6th c. CE),Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,168,1017.0
+DHARMA_INSIDENKTuhanyaru,DHARMA,Tuhanyaru,Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Bodhisattva_Cult,2021,1017.0
+DHARMA_INSIDENKTukMas,DHARMA,Praise of a mountain stream (mid-7th c. CE),Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,313,1017.0
+DHARMA_INSIDENKTulangEr,DHARMA,Tulang Er III (914-12-30),Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,2985,1017.0
+DHARMA_INSIDENKTulangan,DHARMA,"Tulangan (832 Śaka, 910-08-13)",Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,643,1017.0
+DHARMA_INSIDENKTunahan,DHARMA,The Polengan plates: Tunahan Charter (794 Śaka),Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Monastic_Endowment,678,1017.0
+DHARMA_INSIDENKTuwuhada,DHARMA,Tuwuhada,Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,173,1017.0
+DHARMA_INSIDENKUpitI,DHARMA,Upit I (788 Śaka),Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,341,1017.0
+DHARMA_INSIDENKWalanditA,DHARMA,Walandit A,Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Monastic_Endowment,181,1017.0
+DHARMA_INSIDENKWangkud,DHARMA,Demarcation of Asam Panjang (874 CE),Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,498,1017.0
+DHARMA_INSIDENKWanuaTengahIII,DHARMA,Wanua Tengah III,Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,6401,1017.0
+DHARMA_INSIDENKWatuGenuk,DHARMA,Watu Genuk slab (8th c. CE),Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,416,1017.0
+DHARMA_INSIDENKWatuKuraI,DHARMA,Charter of Watu Kura I,Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Monastic_Endowment,1611,1017.0
+DHARMA_INSIDENKWatuRidang,DHARMA,"Watu Ridang (832 Śaka, 910-03-22)",Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,692,1017.0
+DHARMA_INSIDENKWayuku,DHARMA,Wayuku (776 Śaka),Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,151,1017.0
+DHARMA_INSIDENKWidodaren,DHARMA,Stone from Widodaren,Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,164,1017.0
+DHARMA_INSIDENKWintangMasI,DHARMA,Wintang Mas I (800 Śaka),Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,1528,1017.0
+DHARMA_INSIDENKWintangMasII,DHARMA,"Wintang Mas II (841 Śaka, 919-10-12)",Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,2787,1017.0
+DHARMA_INSIDENKWukiran,DHARMA,"Stela of Pereng, also known as Wukiran inscription (784 Śaka, 863-1-25 CE)",Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,1006,1017.0
+DHARMA_INSIDENKWurare,DHARMA,Wurare,Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,1106,1017.0
+DHARMA_INSIDENKWuruTunggal,DHARMA,Wuru Tunggal (833 Śaka),Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,757,1017.0
+DHARMA_INSIDENKWuruduKidul,DHARMA,Wurudu Kidul,Maritime Southeast Asia,Maritime_Mainland_SEA,True,Unrecorded,,False,Lithic_Stone_Stele,Buddha_Canonical,2795,1017.0
+O1122840,VA,Buddha,India,South_Asia_Core,True,Unrecorded,,False,Cast_Bronze_Copper,Buddha_Canonical,1,1017.0
+O1125180,VA,Two mussel shells,Unknown,Unassigned_Contact_Zone,False,19th century,,False,Cast_Bronze_Copper,Buddha_Canonical,3,1017.0
+O116722,VA,Seated Buddha,Hebei,Unassigned_Contact_Zone,True,550 - 577,563.5,True,Cast_Bronze_Copper,Buddha_Canonical,2,563.5
+O121295,VA,Buddha,Myanmar,Unassigned_Contact_Zone,True,ca 18th century,,False,Cast_Bronze_Copper,Buddha_Canonical,1,1017.0
+O1227041,VA,Buddha Vairocana ,Tibet,Trans_Himalayan,True,1300-1400,1350.0,True,Cast_Bronze_Copper,Buddha_Canonical,2,1350.0
+O1278713,VA,Model,Great Britain,Unassigned_Contact_Zone,True,ca. 2000,,False,Cast_Bronze_Copper,Buddha_Canonical,1,1017.0
+O127873,VA,Seated Buddha,Mathura,Unassigned_Contact_Zone,True,early 3rd century,,False,Cast_Bronze_Copper,Buddha_Canonical,2,1017.0
+O1290976,VA,"Colossal Buddha, Aunthia",Thailand,Maritime_Mainland_SEA,True,ca. 1900s,,False,Cast_Bronze_Copper,Buddha_Canonical,3,1017.0
+O1290979,VA,"Buddha in Temple of Wat Leip, Bangkok",Bangkok,Maritime_Mainland_SEA,True,ca. 1900s,,False,Cast_Bronze_Copper,Monastic_Endowment,7,1017.0
+O1290980,VA,"Buddha in Temple of Wat Mahan, Bangkok",Bangkok,Maritime_Mainland_SEA,True,ca. 1900s,,False,Cast_Bronze_Copper,Monastic_Endowment,7,1017.0
+O1290982,VA,"Siamese bronze sculpture of Buddha, 14th or 15th century, V&A Museum",Victoria and Albert Museum,Unassigned_Contact_Zone,True,ca. 1920s,,False,Cast_Bronze_Copper,Buddha_Canonical,11,1017.0
+O1290984,VA,"Siamese bronze sculpture of Buddha, 14th or 15th century, V&A Museum",Victoria and Albert Museum,Unassigned_Contact_Zone,True,ca. 1920s,,False,Cast_Bronze_Copper,Buddha_Canonical,11,1017.0
+O1290985,VA,"Bronze sculpture of standing figure of the Dipankara Buddha, V&A Museum",Victoria and Albert Museum,Unassigned_Contact_Zone,True,ca. 1920s,,False,Cast_Bronze_Copper,Buddha_Canonical,11,1017.0
+O1290988,VA,"Sandstone sculpture of head of Buddha, Siam, 9th century A.D., V&A Museum, Londo",Victoria and Albert Museum,Unassigned_Contact_Zone,True,ca. 1920s,,False,Cast_Bronze_Copper,Buddha_Canonical,13,1017.0
+O1290991,VA,"Bronze Cambodian sculpture of Buddha, ca. 13th century, V&A Museum, London",Victoria and Albert Museum,Unassigned_Contact_Zone,True,ca. 1920s,,False,Cast_Bronze_Copper,Buddha_Canonical,11,1017.0
+O1290992,VA,"Bronze Cambodian sculpture of Buddha, ca. 13th century, V&A Museum, London",Victoria and Albert Museum,Unassigned_Contact_Zone,True,ca. 1920s,,False,Cast_Bronze_Copper,Buddha_Canonical,11,1017.0
+O1290997,VA,"Cambodian bronze sculpture of Buddha head, ca. 13th century A.D., V&A Museum",Victoria and Albert Museum,Unassigned_Contact_Zone,True,ca. 1920s,,False,Cast_Bronze_Copper,Buddha_Canonical,12,1017.0
+O1290998,VA,"Cambodian bronze sculpture of Buddha head, ca. 13th century A.D., V&A Museum",Victoria and Albert Museum,Unassigned_Contact_Zone,True,ca. 1920s,,False,Cast_Bronze_Copper,Buddha_Canonical,12,1017.0
+O1291007,VA,"Cambodian Bayon style sandstone sculpture of head of Buddha, 10th century A.D., ",Victoria and Albert Museum,Unassigned_Contact_Zone,True,ca. 1920s,,False,Cast_Bronze_Copper,Buddha_Canonical,15,1017.0
+O1291083,VA,"Sculpture, carved stone, Buddha with naga hood, Eastern Siam, 12th-13th century,",Unknown,Unassigned_Contact_Zone,False,ca. 1930s,,False,Cast_Bronze_Copper,Buddha_Canonical,16,1017.0
+O129249,VA,Buddha head,Hebei,Unassigned_Contact_Zone,True,550-577,563.5,True,Cast_Bronze_Copper,Buddha_Canonical,2,563.5
+O130220,VA,Buddha,China,East_Asia,True,550-577,563.5,True,Cast_Bronze_Copper,Buddha_Canonical,1,563.5
+O130329,VA,Figure of Buddha,Quyang,Unassigned_Contact_Zone,True,618-906,762.0,True,Cast_Bronze_Copper,Buddha_Canonical,3,762.0
+O13332,VA,Votive seal,Myanmar,Unassigned_Contact_Zone,True,9th century-10th century,,False,Cast_Bronze_Copper,Ritual_Votive_Relic,2,1017.0
+O134681,VA,The Stein Collection,Khadalik,Unassigned_Contact_Zone,True,ca. 6th century,,False,Cast_Bronze_Copper,Buddha_Canonical,3,1017.0
+O136519,VA,The Stein Collection,Xinjiang,Unassigned_Contact_Zone,True,700-900,800.0,True,Cast_Bronze_Copper,Buddha_Canonical,3,800.0
+O136588,VA,The Stein Collection,Xinjiang,Unassigned_Contact_Zone,True,ca. 6th century,,False,Cast_Bronze_Copper,Buddha_Canonical,3,1017.0
+O136589,VA,The Stein Collection,Farhadbegyailaki,Unassigned_Contact_Zone,True,ca. 6th century,,False,Cast_Bronze_Copper,Buddha_Canonical,3,1017.0
+O138678,VA,The Stein Collection,Xinjiang,Unassigned_Contact_Zone,True,6th century - 7th century,,False,Cast_Bronze_Copper,Buddha_Canonical,3,1017.0
+O14511,VA,Sakyamuni Buddha,China,East_Asia,True,15th century,,False,Cast_Bronze_Copper,Buddha_Canonical,2,1017.0
+O145807,VA,Buddha Sakyamuni,Thailand,Maritime_Mainland_SEA,True,19th century,,False,Cast_Bronze_Copper,Buddha_Canonical,2,1017.0
+O146647,VA,Figure,Sri Lanka,Unassigned_Contact_Zone,True,pre 1017,1017.0,True,Cast_Bronze_Copper,Buddha_Canonical,1,1017.0
+O168373,VA,Relief panel,Pakistan,Unassigned_Contact_Zone,True,5th century -6th Century,,False,Cast_Bronze_Copper,Buddha_Canonical,2,1017.0
+O168515,VA,Figure of Buddha,China,East_Asia,True,ca. 600-618,609.0,True,Cast_Bronze_Copper,Buddha_Canonical,3,609.0
+O169562,VA,Panel,China,East_Asia,True,1740-1760,,False,Cast_Bronze_Copper,Buddha_Canonical,1,1017.0
+O175836,VA,Colossal Statue of the Gautama close to the N.end of the wooden bridge,Myanmar,Unassigned_Contact_Zone,True,August 1855 to November 1855,,False,Cast_Bronze_Copper,Buddha_Canonical,13,1017.0
+O175841,VA,Colossal Buddha at Lanktilaka,Sri Lanka,Unassigned_Contact_Zone,True,1870-71,,False,Cast_Bronze_Copper,Buddha_Canonical,4,1017.0
+O18871,VA,Seated Buddha,Thailand,Maritime_Mainland_SEA,True,8th century,,False,Cast_Bronze_Copper,Buddha_Canonical,2,1017.0
+O18934,VA,Buddha in Flight,Shanghai,Unassigned_Contact_Zone,True,1998,,False,Cast_Bronze_Copper,Buddha_Canonical,3,1017.0
+O20276,VA,Sculpture,Thailand,Maritime_Mainland_SEA,True,8th century-9th century,,False,Cast_Bronze_Copper,Buddha_Canonical,1,1017.0
+O20278,VA,Figure,Indonesia,Maritime_Mainland_SEA,True,7th century-8th Century,,False,Cast_Bronze_Copper,Buddha_Canonical,1,1017.0
+O20280,VA,Figure,Thailand,Maritime_Mainland_SEA,True,10th century - 11th Century,,False,Cast_Bronze_Copper,Buddha_Canonical,1,1017.0
+O20281,VA,Standing Buddha,Thailand,Maritime_Mainland_SEA,True,14th century,,False,Cast_Bronze_Copper,Buddha_Canonical,2,1017.0
+O202928,VA,"Majestic Calm of the Great Buddha at Kamakura, Japan, 1904",Japan,East_Asia,True,1904,,False,Cast_Bronze_Copper,Buddha_Canonical,10,1017.0
+O216017,VA,Bronze Statue of Buddha.  Japan,Japan,East_Asia,True,1850s to 1870s,,False,Cast_Bronze_Copper,Buddha_Canonical,5,1017.0
+O230905,VA,"Fudo, The Immovable",Japan,East_Asia,True,ca. 1400-1600,1500.0,True,Cast_Bronze_Copper,Buddha_Canonical,3,1500.0
+O24788,VA,Standing Buddha,Thanjavur,Unassigned_Contact_Zone,True,11th century-12th century,,False,Cast_Bronze_Copper,Buddha_Canonical,2,1017.0
+O24814,VA,The Buddha Preaching,Nepal,Trans_Himalayan,True,900-1200,1050.0,True,Cast_Bronze_Copper,Buddha_Canonical,3,1050.0
+O24823,VA,Buddha Shakyamuni,Nepal,Trans_Himalayan,True,16th century,,False,Cast_Bronze_Copper,Buddha_Canonical,2,1017.0
+O24859,VA,Descent of the Buddha from Tusita Heaven,Kashmir,Trans_Himalayan,True,8th century,,False,Cast_Bronze_Copper,Buddha_Canonical,7,1017.0
+O24980,VA,Buddha,Sri Lanka,Unassigned_Contact_Zone,True,7th century,,False,Cast_Bronze_Copper,Buddha_Canonical,1,1017.0
+O24992,VA,Head of the Buddha,Java,Maritime_Mainland_SEA,True,early 9th century,,False,Cast_Bronze_Copper,Buddha_Canonical,4,1017.0
+O25016,VA,Buddha Shakyamuni,Patna,Unassigned_Contact_Zone,True,Early 12th century,,False,Cast_Bronze_Copper,Buddha_Canonical,2,1017.0
+O25038,VA,Head of the Buddha,Pakistan,Unassigned_Contact_Zone,True,4th century-5th century,,False,Cast_Bronze_Copper,Buddha_Canonical,4,1017.0
+O25052,VA,Buddha Sakyamuni,Indonesia,Maritime_Mainland_SEA,True,9th century-10th century,,False,Cast_Bronze_Copper,Buddha_Canonical,2,1017.0
+O25076,VA,Throne of the Buddha,Mathura,Unassigned_Contact_Zone,True,2nd century - 3rd century,,False,Cast_Bronze_Copper,Buddha_Canonical,4,1017.0
+O40334,VA,Figure,Myanmar,Unassigned_Contact_Zone,True,19th century,,False,Cast_Bronze_Copper,Buddha_Canonical,1,1017.0
+O40389,VA,Head of the Buddha,Thailand,Maritime_Mainland_SEA,True,ca. 9th century,,False,Cast_Bronze_Copper,Buddha_Canonical,4,1017.0
+O405274,VA,Rites and Beliefs of the Hindus,Faizabad,Unassigned_Contact_Zone,True,ca. 1774,,False,Cast_Bronze_Copper,Buddha_Canonical,6,1017.0
+O41054,VA,Buddha Sakyamuni Preaching,Thailand,Maritime_Mainland_SEA,True,7th- 8th century,,False,Cast_Bronze_Copper,Buddha_Canonical,3,1017.0
+O479830,VA,Buddha,Gandhara,South_Asia_Core,True,c.4th century,,False,Cast_Bronze_Copper,Buddha_Canonical,1,1017.0
+O493118,VA,Buddha head,China,East_Asia,True,1368 -1644,1506.0,True,Cast_Bronze_Copper,Buddha_Canonical,2,1506.0
+O494211,VA,Buddha of the Future,Jingdezhen,Unassigned_Contact_Zone,True,1662-1722,1662.0,True,Cast_Bronze_Copper,Buddha_Canonical,4,1662.0
+O494225,VA,Buddha,China,East_Asia,True,1662-1722,1662.0,True,Cast_Bronze_Copper,Buddha_Canonical,1,1662.0
+O494949,VA,Architectural ornament,China,East_Asia,True,16th century-17th century,,False,Cast_Bronze_Copper,Buddha_Canonical,2,1017.0
+O497792,VA,Emanciated Buddha,China,East_Asia,True,1600 - 1699,1649.5,True,Cast_Bronze_Copper,Buddha_Canonical,2,1649.5
+O497793,VA,Figure of Buddha,China,East_Asia,True,Unrecorded,,False,Cast_Bronze_Copper,Buddha_Canonical,3,1017.0
+O63825,VA,Seated Buddha,Gandhara,South_Asia_Core,True,3rd century-4th century,,False,Cast_Bronze_Copper,Buddha_Canonical,2,1017.0
+O64193,VA,Meditating Buddha,Uttar Pradesh,Unassigned_Contact_Zone,True,Early 3rd century,,False,Cast_Bronze_Copper,Buddha_Canonical,2,1017.0
+O64194,VA,Buddha Shakyamuni,Bihar,South_Asia_Core,True,9th century-10th century,,False,Cast_Bronze_Copper,Buddha_Canonical,2,1017.0
+O64235,VA,Seated  crowned Buddha,Bengal,South_Asia_Core,True,11th century-12th century,,False,Cast_Bronze_Copper,Buddha_Canonical,3,1017.0
+O64237,VA,Head of the Buddha,Bihar,South_Asia_Core,True,7th century-8th century,,False,Cast_Bronze_Copper,Buddha_Canonical,4,1017.0
+O64467,VA,Crowned Buddha Shakyamuni,India,South_Asia_Core,True,12th Century,,False,Cast_Bronze_Copper,Buddha_Canonical,3,1017.0
+O64869,VA,Votive seal with the Buddha and attendant Bodhisattvas,Bihar,South_Asia_Core,True,10th century,,False,Cast_Bronze_Copper,Bodhisattva_Cult,8,1017.0
+O65328,VA,Buddha,Pakistan,Unassigned_Contact_Zone,True,3rd century - 5th century,,False,Cast_Bronze_Copper,Buddha_Canonical,1,1017.0
+O65800,VA,Sculpture,Pakistan,Unassigned_Contact_Zone,True,c.3rd Century,,False,Cast_Bronze_Copper,Buddha_Canonical,1,1017.0
+O66717,VA,Buddha,Mathura,Unassigned_Contact_Zone,True,5th Century,,False,Cast_Bronze_Copper,Buddha_Canonical,1,1017.0
+O68165,VA,Dr Kotnis ki Amar Kahani (1946),Bombay,Unassigned_Contact_Zone,True,1946,,False,Cast_Bronze_Copper,Buddha_Canonical,6,1017.0
+O68983,VA,Seated Buddha,Thailand,Maritime_Mainland_SEA,True,9th Century,,False,Cast_Bronze_Copper,Buddha_Canonical,2,1017.0
+O71144,VA,Buddha in meditation,Deccan,Unassigned_Contact_Zone,True,ca. 1780,,False,Cast_Bronze_Copper,Buddha_Canonical,3,1017.0
+O72373,VA,Buddha sheltered by Muchalinda,Andhra Pradesh,Unassigned_Contact_Zone,True,c. 3rd century,,False,Cast_Bronze_Copper,Buddha_Canonical,4,1017.0
+O72375,VA,Buddha,Tamil Nadu,Unassigned_Contact_Zone,True,ca. 16th Century,,False,Cast_Bronze_Copper,Buddha_Canonical,1,1017.0
+O73072,VA,Buddha in Tavatimsa Heaven,Myanmar,Unassigned_Contact_Zone,True,before 1865,,False,Cast_Bronze_Copper,Buddha_Canonical,4,1017.0
+O73162,VA,Figure,Thailand,Maritime_Mainland_SEA,True,ca. 7th century,,False,Cast_Bronze_Copper,Buddha_Canonical,1,1017.0
+O73927,VA,Head of Buddha,China,East_Asia,True,1368-1644,1506.0,True,Cast_Bronze_Copper,Buddha_Canonical,3,1506.0
+O81055,VA,Buddha,Myanmar,Unassigned_Contact_Zone,True,before 1874,,False,Cast_Bronze_Copper,Buddha_Canonical,1,1017.0
+O81099,VA,Buddha,Myanmar,Unassigned_Contact_Zone,True,before 1874,,False,Cast_Bronze_Copper,Buddha_Canonical,1,1017.0
+O81140,VA,Standing Buddha,Thailand,Maritime_Mainland_SEA,True,15th century-16th century,,False,Cast_Bronze_Copper,Buddha_Canonical,2,1017.0
+O81181,VA,Buddha,Ceylon,Unassigned_Contact_Zone,True,before 1880,,False,Cast_Bronze_Copper,Buddha_Canonical,1,1017.0
+O81320,VA,Seated buddha,Myanmar,Unassigned_Contact_Zone,True,before 1880,,False,Cast_Bronze_Copper,Buddha_Canonical,2,1017.0
+O82511,VA,Head of the Buddha,Ayutthaya,Unassigned_Contact_Zone,True,17th century,,False,Cast_Bronze_Copper,Buddha_Canonical,4,1017.0
+O82512,VA,sculpture,Thailand,Maritime_Mainland_SEA,True,16th century-18th century,,False,Cast_Bronze_Copper,Buddha_Canonical,1,1017.0
+O83209,VA,Maitreya Buddha,Myanmar,Unassigned_Contact_Zone,True,11th century,,False,Cast_Bronze_Copper,Bodhisattva_Cult,2,1017.0
+O83210,VA,Shakyamuni Buddha,Myanmar,Unassigned_Contact_Zone,True,12th century,,False,Cast_Bronze_Copper,Buddha_Canonical,2,1017.0
+O86075,VA,Figure of buddha,China,East_Asia,True,1200-1350,1275.0,True,Cast_Bronze_Copper,Buddha_Canonical,3,1275.0
+O89938,VA,The Stein Collection,Dunhuang,Unassigned_Contact_Zone,True,800-900,850.0,True,Cast_Bronze_Copper,Buddha_Canonical,3,850.0
+O92352,VA,The Stein Collection,Dunhuang,Unassigned_Contact_Zone,True,8th century,,False,Cast_Bronze_Copper,Buddha_Canonical,3,1017.0
+O93318,VA,Buddha's first bath,Pakistan,Unassigned_Contact_Zone,True,1st century,,False,Cast_Bronze_Copper,Buddha_Canonical,3,1017.0
+O93526,VA,Hanging,Japan,East_Asia,True,1770-1820,,False,Cast_Bronze_Copper,Buddha_Canonical,1,1017.0
+O98160,VA,Buddha,Bihar,South_Asia_Core,True,late 6th century - early 7th century,,False,Cast_Bronze_Copper,Buddha_Canonical,1,1017.0
+1923.97,CMA,Head of Buddha,"China, Hebei province, northern Xiangtangshan caves, South cave, Northern Qi dynasty (550-577)",East_Asia,True,c. 570,570.0,True,Cast_Bronze_Copper,Monastic_Endowment,75,570.0
+1935.146,CMA,Buddha Calling on Earth to Witness,"Northeastern India, Bihar, Tetravan, Pala Period (750-1197)",South_Asia_Core,True,800s,,False,Cast_Bronze_Copper,Ritual_Votive_Relic,146,1017.0
+1938.422,CMA,Medicine Master Buddha and the Twelve Divine Generals,"Japan, Kamakura period (1185–1333)",East_Asia,True,1200s,,False,Gilt_Copper_Alloy,Bodhisattva_Cult,136,1017.0
+1941.94,CMA,Seated Buddha,"Northern India, Mathura, Kushan period",South_Asia_Core,True,200s CE,,False,Cast_Bronze_Copper,Buddha_Canonical,48,1017.0
+1942.1082,CMA,Amitabha,"China, Yunnan province, Dali kingdom (938–1253)",East_Asia,True,mid-1000s,,False,Gilt_Copper_Alloy,Buddha_Canonical,81,1017.0
+1942.1087,CMA,Head of Buddha,"Indonesia, Java, Borobudur, Sailendra Period, 9th Century",Maritime_Mainland_SEA,True,early 800s,,False,Cast_Bronze_Copper,Monastic_Endowment,74,1017.0
+1942.149,CMA,Altarpiece with Buddha Enthroned,"Cambodia, found in Vietnam, near Ho Chi Minh City, Reign of Suryavarman II, Angkor Wat Period, 1st half 12th Century",Maritime_Mainland_SEA,True,mid-1100s,,False,Cast_Bronze_Copper,Protective_Esoteric,118,1017.0
+1943.278,CMA,Standing Buddha,"Northern India, Uttar Pradesh, Sarnath",South_Asia_Core,True,400s CE,,False,Cast_Bronze_Copper,Buddha_Canonical,77,1017.0
+1943.72,CMA,Veneration of the Buddha as a Fiery Pillar,"Southern India, Andhra Pradesh, Nagarjunakonda",South_Asia_Core,True,200s CE,,False,Cast_Bronze_Copper,Buddha_Canonical,110,1017.0
+1949.152,CMA,Blessed Lord Buddha,Sri Lanka,Unassigned_Contact_Zone,True,c. 1825–50,,False,Cast_Bronze_Copper,Bodhisattva_Cult,228,1017.0
+1950.86,CMA,Buddha of the Future (Miroku Bosatsu),"Japan, Asuka period (538–710)",East_Asia,True,late 600s,,False,Cast_Bronze_Copper,Buddha_Canonical,86,1017.0
+1954.788,CMA,"Temple Banner with pilgrimage sites and scenes from the ""Svayambhu-purana"" (Anci","Nepal, Kathmandu Valley",Trans_Himalayan,True,1635,1635.0,True,Gilt_Copper_Alloy,Ritual_Votive_Relic,129,1635.0
+1955.44,CMA,The White Path Between Two Rivers,"Japan, Kamakura period (1185–1333)",East_Asia,True,1200s,,False,Gilt_Copper_Alloy,Ritual_Votive_Relic,101,1017.0
+1955.46,CMA,The New-born Buddha,"China, Northern Wei dynasty (386-534)",East_Asia,True,400s CE,,False,Gilt_Copper_Alloy,Buddha_Canonical,53,1017.0
+1956.87,CMA,The Illustrated Miraculous Origins of the Yūzū Nenbutsu School,"Japan, Kamakura period (1185–1333)",East_Asia,True,early 1300s,,False,Gilt_Copper_Alloy,Ritual_Votive_Relic,81,1017.0
+1957.358,CMA,Barbarian Royalty Worshiping the Buddha,"China, Northern Song dynasty (960–1127)",East_Asia,True,900s,,False,Cast_Bronze_Copper,Buddha_Canonical,113,1017.0
+1958.334,CMA,"Buddha with Hands in Gesture of Teaching, Vitarka Mudra","Thailand, Mon-Dvaravati period",Maritime_Mainland_SEA,True,600s,,False,Cast_Bronze_Copper,Ritual_Votive_Relic,75,1017.0
+1958.474,CMA,Scenes from the Life of Buddha,"Pakistan, Gandhara, Kushan period",South_Asia_Core,True,100s CE,,False,Cast_Bronze_Copper,Bodhisattva_Cult,205,1017.0
+1959.349,CMA,Birth of the Buddha,"Northeastern India, Bengal, Pala dynasty (730-1197)",South_Asia_Core,True,800s,,False,Cast_Bronze_Copper,Buddha_Canonical,190,1017.0
+1960.197,CMA,Buddha of Infinite Life and Light (Amida Nyorai),"Japan, Kamakura period (1185–1333)",East_Asia,True,1269,1269.0,True,Gilt_Copper_Alloy,Monastic_Endowment,109,1269.0
+1961.18,CMA,Seated Buddha,"China, Tang dynasty (618-907)",East_Asia,True,600s,,False,Gilt_Copper_Alloy,Ritual_Votive_Relic,60,1017.0
+1961.279,CMA,The Buddha,"France, 19th century",Unassigned_Contact_Zone,True,1895,,False,Cast_Bronze_Copper,Buddha_Canonical,10,1017.0
+1962.167,CMA,Walking Buddha,"India, Kashmir, 8th century",Trans_Himalayan,True,700s,,False,Cast_Bronze_Copper,Buddha_Canonical,62,1017.0
+1963.263,CMA,Naga-Enthroned Buddha,"Cambodia, Angkor, Angkor Wat Period, 12th century",Unassigned_Contact_Zone,True,1100s,,False,Cast_Bronze_Copper,Ritual_Votive_Relic,250,1017.0
+1963.263.a,CMA,Naga-enthroned Buddha ,"Cambodia, Angkor, Angkor Wat Period, 12th century",Unassigned_Contact_Zone,True,1100–1150,1125.0,True,Cast_Bronze_Copper,Ritual_Votive_Relic,246,1125.0
+1963.263.b,CMA,Naga-enthroned Buddha (base),"Cambodia, Angkor, Angkor Wat Period, 12th century",Unassigned_Contact_Zone,True,1100–1150,1125.0,True,Cast_Bronze_Copper,Ritual_Votive_Relic,247,1125.0
+1963.263.c,CMA,Naga-enthroned Buddha (serpent hoods),"Cambodia, Angkor, Angkor Wat Period, 12th century",Unassigned_Contact_Zone,True,1100–1150,1125.0,True,Cast_Bronze_Copper,Ritual_Votive_Relic,248,1125.0
+1963.504,CMA,Head of Buddha,"Northern India, Uttar Pradesh, Mathura",South_Asia_Core,True,400s CE,,False,Cast_Bronze_Copper,Buddha_Canonical,99,1017.0
+1964.152,CMA,Amida Buddha,"China, Sui dynasty (581-618)",East_Asia,True,581–618,599.5,True,Cast_Bronze_Copper,Buddha_Canonical,69,599.5
+1964.93,CMA,Portable icon of Shakyamuni Buddha in the Earth-touching gesture,"Cambodia, reign of Jayavarman 7th",Unassigned_Contact_Zone,True,late 1100s–early 1200s,,False,Cast_Bronze_Copper,Ritual_Votive_Relic,125,1017.0
+1964.93.a,CMA,Finial with the temptation of Buddha by Mara,"Cambodia, reign of Jayavarman 7th",Unassigned_Contact_Zone,True,late 1100s–early 1200s,,False,Cast_Bronze_Copper,Ritual_Votive_Relic,124,1017.0
+1964.93.b,CMA,Finial with the temptation of Buddha by Mara,"Cambodia, reign of Jayavarman 7th",Unassigned_Contact_Zone,True,late 1100s–early 1200s,,False,Cast_Bronze_Copper,Ritual_Votive_Relic,124,1017.0
+1965.27,CMA,Shakyamuni Buddha Calling the Earth to Witness his Enlightenment,Northeast India,South_Asia_Core,True,1000–1100s,1000.0,True,Cast_Bronze_Copper,Buddha_Canonical,125,1000.0
+1965.33,CMA,Mi-lê:  Maitreya Buddha,"China, Tang dynasty (618-907)",East_Asia,True,683,683.0,True,Cast_Bronze_Copper,Bodhisattva_Cult,4,683.0
+1966.116,CMA,Shakyamuni as an Ascetic,"China, Yuan dynasty (1271–1368)",East_Asia,True,early 1300s,,False,Gilt_Copper_Alloy,Monastic_Endowment,113,1017.0
+1966.30,CMA,Standing Buddha,"India, Kashmir",Trans_Himalayan,True,c. 900,900.0,True,Cast_Brass,Ritual_Votive_Relic,107,900.0
+1967.39,CMA,Seated Buddha,"Afghanistan, Hadda, probably Tape Shotor",Unassigned_Contact_Zone,True,c. 300 CE,300.0,True,Cast_Bronze_Copper,Ritual_Votive_Relic,85,300.0
+1967.41,CMA,Monk bearing offerings,"Afghanistan, Hadda, probably Tape Shotor",Unassigned_Contact_Zone,True,c. 300 CE,300.0,True,Cast_Bronze_Copper,Ritual_Votive_Relic,62,300.0
+1968.40,CMA,Standing Buddha,"Northern India, Uttar Pradesh",South_Asia_Core,True,591,591.0,True,Cast_Bronze_Copper,Buddha_Canonical,95,591.0
+1969.130,CMA,Repository for the Great Perfection of Wisdom Sutra and Eleven Volumes of the Gr,"Japan, Heian period (794–1185)",East_Asia,True,late 1100s,,False,Gilt_Copper_Alloy,Buddha_Canonical,86,1017.0
+1969.56,CMA,Bust of Buddha,"Central Thailand, Dvaravati, Mon-Dvaravati style, 7th-9th Century",Maritime_Mainland_SEA,True,c. 700,700.0,True,Cast_Bronze_Copper,Monastic_Endowment,77,700.0
+1970.10,CMA,Akshobhya: the Buddha of the East,"Northeast India, Bihar, Kurkihar, Pala period",South_Asia_Core,True,late 800s,,False,Cast_Bronze_Copper,Protective_Esoteric,120,1017.0
+1970.156,CMA,Green Tara,Central Tibet,Trans_Himalayan,True,"c. 1260s, mounted 2020",,False,Gilt_Copper_Alloy,Bodhisattva_Cult,104,1017.0
+1970.63,CMA,Seated Shakyamuni Buddha,"Northern India, Uttar Pradesh, Mathura, Kushan period",South_Asia_Core,True,c. 120 CE,,False,Cast_Bronze_Copper,Buddha_Canonical,71,1017.0
+1971.16,CMA,The Five Hundred Arhats,"China, Ming dynasty (1368–1644)",East_Asia,True,1591–1626,1608.5,True,Cast_Bronze_Copper,Bodhisattva_Cult,108,1608.5
+1971.18,CMA,Temptation of Buddha by the Evil Forces of Mara,"Northern India, Kashmir, 8th century",Trans_Himalayan,True,700s,,False,Gilt_Copper_Alloy,Buddha_Canonical,102,1017.0
+1972.43,CMA,Standing Buddha,"Pakistan, Gandhara, Kushan period",South_Asia_Core,True,150–200 CE,,False,Cast_Bronze_Copper,Ritual_Votive_Relic,64,1017.0
+1972.7,CMA,Maitreya:  The Buddha of the Future,Cambodia,Unassigned_Contact_Zone,True,600s,,False,Cast_Bronze_Copper,Bodhisattva_Cult,7,1017.0
+1973.105,CMA,Zaō Gongen,"Japan, Kamakura period (1185–1333)",East_Asia,True,1200s,,False,Cast_Bronze_Copper,Buddha_Canonical,75,1017.0
+1973.15,CMA,Buddha,"Thailand, probably Shri Thep, Mon-Dvaravati style",Maritime_Mainland_SEA,True,600s,,False,Cast_Bronze_Copper,Monastic_Endowment,138,1017.0
+1973.159,CMA,Standing Buddha,Burma (Myanmar),Unassigned_Contact_Zone,True,c. 800s,,False,Cast_Bronze_Copper,Buddha_Canonical,81,1017.0
+1973.214,CMA,Seated Buddha,"Northern India, Uttar Pradesh, Mathura, Gupta period (c. 320-550)",South_Asia_Core,True,400–430 CE,415.0,True,Cast_Bronze_Copper,Buddha_Canonical,101,415.0
+1973.69,CMA,Bejeweled Buddha Preaching,Nepal,Trans_Himalayan,True,1648,1648.0,True,Gilt_Copper_Alloy,Buddha_Canonical,10,1648.0
+1973.85,CMA,Seated Buddha,"Japan, Heian period (794–1185)",East_Asia,True,1100s,,False,Cast_Bronze_Copper,Protective_Esoteric,112,1017.0
+1973.85.a,CMA,Seated Buddha (sculpture),"Japan, Heian period (794–1185)",East_Asia,True,1100s,,False,Cast_Bronze_Copper,Protective_Esoteric,113,1017.0
+1973.85.b,CMA,Seated Buddha (mandorla),"Japan, Heian period (794–1185)",East_Asia,True,1100s,,False,Cast_Bronze_Copper,Protective_Esoteric,113,1017.0
+1973.85.c,CMA,Seated Buddha (lotus pedestal),"Japan, Heian period (794–1185)",East_Asia,True,1100s,,False,Cast_Bronze_Copper,Bodhisattva_Cult,113,1017.0
+1974.35,CMA,Buddha Amitābha with Two Attending Bodhisattvas,"China, Southern Song dynasty (1127-1279)",East_Asia,True,1200s,,False,Cast_Bronze_Copper,Bodhisattva_Cult,84,1017.0
+1974.91,CMA,Feet for Standing Buddha (1973.15),"Thailand, Mon-Dvaravati Period, c. 7th Century",Maritime_Mainland_SEA,True,c. 600s,,False,Cast_Bronze_Copper,Buddha_Canonical,6,1017.0
+1975.101,CMA,Eleven-Headed Bodhisattva of Compassion (Avalokiteshvara),Western Himalayas,Trans_Himalayan,True,around 1000,1000.0,True,Gilt_Copper_Alloy,Bodhisattva_Cult,163,1000.0
+1975.92,CMA,Shakyamuni Triad:  Buddha Attended by Manjushri and Samantabhadra,"China, Tang dynasty (618-907)",East_Asia,True,c. 900,900.0,True,Cast_Bronze_Copper,Bodhisattva_Cult,15,900.0
+1976.152,CMA,Base for a Seated Buddha with Figures of Ascetics,"Pakistan, Gandhara, Kushan period",South_Asia_Core,True,c. late 100s CE,,False,Cast_Bronze_Copper,Buddha_Canonical,11,1017.0
+1976.156,CMA,"The Paranirvana of Buddha, Gal Vihara, Polonnaruva, Ceylon","England, 19th century",Unassigned_Contact_Zone,True,1870–71,,False,Cast_Bronze_Copper,Buddha_Canonical,91,1017.0
+1981.53,CMA,Eleven-Headed Guanyin,"China, late Northern Song dynasty (960-1127) - Jin dynasty (1115-1234)",East_Asia,True,1100–1200,1150.0,True,Gilt_Copper_Alloy,Bodhisattva_Cult,90,1150.0
+1982.26,CMA,Demon Intoning the Name of the Buddha,"Japan, Edo period (1615–1868)",East_Asia,True,1700s,,False,Cast_Bronze_Copper,Ritual_Votive_Relic,113,1017.0
+1982.48,CMA,Bodhisattva Maitreya: The Future Buddha,"East India, Bengal, Pala period, 12th century",South_Asia_Core,True,1100s,,False,Gilt_Copper_Alloy,Bodhisattva_Cult,122,1017.0
+1985.190,CMA,Head of Buddha,"Korea, Goryeo dynasty (918–1392)",East_Asia,True,900s,,False,Gilt_Copper_Alloy,Ritual_Votive_Relic,36,1017.0
+1985.191.a,CMA,"Iconographic Drawings:  Vaishravana, Yama, Ushnishavijaya, Chunda (?), and Buddh",Tibet,Trans_Himalayan,True,c. 1500,1500.0,True,Cast_Bronze_Copper,Buddha_Canonical,147,1500.0
+1986.6,CMA,Seated Buddha,"Western Himalayas, possibly Ladakh or Lahul",Trans_Himalayan,True,1000s,,False,Cast_Bronze_Copper,Buddha_Canonical,84,1017.0
+1986.70,CMA,Fasting Buddha,"India, Kashmir, 8th century",Trans_Himalayan,True,700s,,False,Cast_Bronze_Copper,Ritual_Votive_Relic,118,1017.0
+1987.154,CMA,Standing Buddha,"Southern Myanmar (Burma), Pegu, or northwestern Thailand",Maritime_Mainland_SEA,True,1100s,,False,Gilt_Copper_Alloy,Monastic_Endowment,87,1017.0
+1987.188,CMA,Seated Sakyamuni Buddha,"Korea, Three Kingdoms period (57 BCE–668 CE)",East_Asia,True,500s–600s,,False,Cast_Bronze_Copper,Ritual_Votive_Relic,67,1017.0
+1987.57,CMA,Buddhist Priest's Ceremonial Robe,"China, Ming dynasty (1368–1644)",East_Asia,True,1400s,,False,Gilt_Copper_Alloy,Monastic_Endowment,140,1017.0
+1987.59,CMA,Plaque with the Image of Medicine Buddha Triad,"Korea, Unified Silla period (676-935)",East_Asia,True,676–935,805.5,True,Gilt_Copper_Alloy,Protective_Esoteric,54,805.5
+1988.152,CMA,Sakyamuni,Korea,East_Asia,True,1900s,,False,Cast_Bronze_Copper,Buddha_Canonical,35,1017.0
+1989.104,CMA,Tantric Buddha Vairochana as Vajrasattva,Central Tibet,Trans_Himalayan,True,c. 1150–1200,1175.0,True,Gilt_Copper_Alloy,Protective_Esoteric,112,1175.0
+1989.364,CMA,Seated Maitreya Buddha,"Western Tibet, Yongle Period (1403–1424)",Trans_Himalayan,True,c. 1400,1400.0,True,Cast_Bronze_Copper,Bodhisattva_Cult,129,1400.0
+1989.367,CMA,Crowned Buddha Seated on a Lion Throne,"India, Kashmir, 8th century",Trans_Himalayan,True,700s,,False,Cast_Brass,Ritual_Votive_Relic,102,1017.0
+1989.49,CMA,Enthroned Buddha Preaching,Myanmar or Thailand,Maritime_Mainland_SEA,True,700s–800s,,False,Cast_Bronze_Copper,Buddha_Canonical,7,1017.0
+1991.77,CMA,Demon Intoning the Name of the Buddha,"Japan, Meiji period (1868–1912)",East_Asia,True,late 1800s–early 1900s,,False,Cast_Bronze_Copper,Ritual_Votive_Relic,109,1017.0
+1993.108,CMA,Stele with Shakyamuni and Maitreya,"China, Northern Qi dynasty (550-577)",East_Asia,True,c. 570s,,False,Cast_Bronze_Copper,Bodhisattva_Cult,107,1017.0
+1994.94,CMA,Seated Amitābha,"Chinese, Ming dynasty (1368-1644)",Unassigned_Contact_Zone,True,late 1500s–early 1600s,,False,Cast_Bronze_Copper,Buddha_Canonical,101,1017.0
+1997.146,CMA,Buddha Head,Korea,East_Asia,True,1900s,,False,Cast_Bronze_Copper,Buddha_Canonical,86,1017.0
+1997.151,CMA,Siddhartha at the Bodhi Tree,"Pakistan, Gandhara",South_Asia_Core,True,100s–200s CE,,False,Cast_Bronze_Copper,Ritual_Votive_Relic,87,1017.0
+1997.92,CMA,Buddha's Conversion of Five Bhiksu,"China, Yuan dynasty (1271–1368)",East_Asia,True,mid-1300s,,False,Cast_Bronze_Copper,Buddha_Canonical,90,1017.0
+1998.120,CMA,The Assembly of Tejaprabha Buddha,"Korea, Joseon dynasty (1392–1910)",East_Asia,True,1878,,False,Gilt_Copper_Alloy,Buddha_Canonical,128,1017.0
+1999.316,CMA,Seated Buddha,"Thailand, Ayutthaya, Wat Ratchaburana, 14th century",Maritime_Mainland_SEA,True,before 1424,1424.0,True,Gilt_Copper_Alloy,Buddha_Canonical,57,1424.0
+2000.67,CMA,Votive initiation card (tsakali) with preaching Buddha Shakyamuni,"Western Tibet, Tholing Monastery",Trans_Himalayan,True,1000s,,False,Gilt_Copper_Alloy,Ritual_Votive_Relic,202,1017.0
+2009.342,CMA,Shakyamuni Triad: Buddha Attended by Manjushri and Samantabhadra,"China, Fuzhou, Fujian Province, Yuan dynasty (1271-1368)",East_Asia,True,late 1300s,,False,Cast_Bronze_Copper,Bodhisattva_Cult,122,1017.0
+2009.342.1,CMA,Shakyamuni Triad: Buddha Attended by Manjushri and Samantabhadra (Bodhisattva wi,"China, Fuzhou, Fujian Province, Yuan dynasty (1271-1368)",East_Asia,True,late 1300s,,False,Cast_Bronze_Copper,Bodhisattva_Cult,122,1017.0
+2009.342.2,CMA,Shakyamuni Triad: Buddha Attended by Manjushri and Samantabhadra (Buddha),"China, Fuzhou, Fujian Province, Yuan dynasty (1271-1368)",East_Asia,True,late 1300s,,False,Cast_Bronze_Copper,Bodhisattva_Cult,120,1017.0
+2009.342.3,CMA,Shakyamuni Triad: Buddha Attended by Manjushri and Samantabhadra (Bodhisattva wi,"China, Fuzhou, Fujian Province, Yuan dynasty (1271-1368)",East_Asia,True,late 1300s,,False,Cast_Bronze_Copper,Bodhisattva_Cult,122,1017.0
+2011.149,CMA,Seated Buddha,Burma (Myanmar),Unassigned_Contact_Zone,True,1100s,,False,Gilt_Copper_Alloy,Monastic_Endowment,160,1017.0
+2016.306,CMA,Ōtsu-e Nirvana of the Buddha (Ōtsu-e Butsu Nehanzu),"Japan, Meiji period (1868–1912)",East_Asia,True,1800s,,False,Cast_Bronze_Copper,Monastic_Endowment,142,1017.0
+1950.86.a,CMA,Buddha of the Future (Miroku Bosatsu),"Japan, Asuka period (538–710)",East_Asia,True,late 600s,,False,Cast_Bronze_Copper,Buddha_Canonical,86,1017.0
+1950.86.b,CMA,Halo for Buddha of the Future (Miroku Bosatsu),"Japan, Asuka period (538–710)",East_Asia,True,late 600s,,False,Cast_Bronze_Copper,Buddha_Canonical,88,1017.0
+1915.334.1,CMA,Seated Amitayus Buddha,"China, Northern Qi dynasty (550–577)",East_Asia,True,c. 570s,,False,Cast_Bronze_Copper,Buddha_Canonical,135,1017.0
+1916.1141,CMA,The Parinirvana of the Buddha,"Japan, Edo period (1615–1868)",East_Asia,True,c. 1710s,,False,Cast_Bronze_Copper,Ritual_Votive_Relic,178,1017.0
+1918.500,CMA,Standing Buddha,"Korea, Unified Silla period (676-935)",East_Asia,True,676–935,805.5,True,Cast_Bronze_Copper,Ritual_Votive_Relic,21,805.5
+1918.542,CMA,Tathagata Buddha,"Korea, Joseon dynasty (1392–1910)",East_Asia,True,late 1800s,,False,Cast_Bronze_Copper,Monastic_Endowment,70,1017.0

@@ -1,0 +1,29 @@
+{
+  "systemNumber": "O138678",
+  "accessionNumber": "LOAN:I A SURVEY.9",
+  "objectType": "Relief fragment",
+  "availableToBook": false,
+  "_currentLocation": {
+    "id": "THES398903",
+    "displayName": "in storage",
+    "type": "storage",
+    "site": "VA",
+    "onDisplay": false,
+    "detail": {
+      "free": "",
+      "case": "",
+      "shelf": "",
+      "box": ""
+    }
+  },
+  "_primaryTitle": "The Stein Collection",
+  "_primaryMaker": {
+    "name": "Unknown",
+    "association": ""
+  },
+  "_primaryImageId": null,
+  "_primaryDate": "6th century - 7th century",
+  "_primaryPlace": "Xinjiang",
+  "_warningTypes": [],
+  "_images": {}
+}

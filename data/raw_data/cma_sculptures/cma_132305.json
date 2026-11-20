@@ -1,0 +1,165 @@
+{
+  "id": 132305,
+  "accession_number": "1954.788",
+  "share_license_status": "CC0",
+  "tombstone": "Temple Banner with pilgrimage sites and scenes from the \"Svayambhu-purana\" (Ancient Text of the Primordial Buddha), 1635. Nepal, Kathmandu Valley. Gum tempera and gold on cotton; overall: 39 x 130.2 cm (15 3/8 x 51 1/4 in.). The Cleveland Museum of Art, Gift of Mrs. A. S. Ingalls, 1954.788",
+  "current_location": null,
+  "title": "Temple Banner with pilgrimage sites and scenes from the \"Svayambhu-purana\" (Ancient Text of the Primordial Buddha)",
+  "creation_date": "1635",
+  "creation_date_earliest": 1635,
+  "creation_date_latest": 1635,
+  "artists_tags": [],
+  "culture": [
+    "Nepal, Kathmandu Valley"
+  ],
+  "technique": "Gum tempera and gold on cotton",
+  "support_materials": [],
+  "department": "Indian and Southeast Asian Art",
+  "collection": "Nepalese Art",
+  "type": "Painting",
+  "measurements": "Overall: 39 x 130.2 cm (15 3/8 x 51 1/4 in.)",
+  "dimensions": {
+    "overall": {
+      "height": 0.39,
+      "height_inch": 15,
+      "height_inch_fraction": 0.375,
+      "width": 1.302,
+      "width_inch": 51,
+      "width_inch_fraction": 0.25
+    },
+    "painting": {
+      "height": 0.417,
+      "height_inch": 16,
+      "height_inch_fraction": 0.4375,
+      "width": 1.32,
+      "width_inch": 51,
+      "width_inch_fraction": 0.9375
+    },
+    "framed": {
+      "height": 0.662,
+      "height_inch": 26,
+      "height_inch_fraction": 0.0625,
+      "width": 1.558,
+      "width_inch": 61,
+      "width_inch_fraction": 0.3125
+    }
+  },
+  "state_of_the_work": null,
+  "edition_of_the_work": null,
+  "copyright": null,
+  "inscriptions": [],
+  "exhibitions": {
+    "current": [
+      {
+        "id": 520460,
+        "title": "Art of Nepal",
+        "description": "<i>Art of Nepal</i>. The Asia Society Museum, New York, NY (organizer) (May 7-August 30, 1964).",
+        "opening_date": "1964-05-07T04:00:00"
+      },
+      {
+        "id": 287983,
+        "title": "Dharma and Pūnya: Buddhist Ritual Art of Nepal",
+        "description": "<i>Dharma and Pūnya: Buddhist Ritual Art of Nepal</i>. Iris and B. Gerald Cantor Art Gallery, Worcester, MA (organizer) (September 5-December 20, 2019).",
+        "opening_date": "2019-09-05T04:00:00"
+      },
+      {
+        "id": 689028,
+        "title": "Himalayan Gallery 237 Rotation",
+        "description": "<i>Himalayan Gallery 237 Rotation</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (January 16, 2026-January 10, 2027).",
+        "opening_date": "2026-01-16T05:00:00"
+      }
+    ],
+    "legacy": []
+  },
+  "provenance": [
+    {
+      "description": "Mrs. A. S. [Jane Taft] Ingalls [1874–1962], Cleveland, OH, given to the Cleveland Museum of Art",
+      "citations": [],
+      "footnotes": null,
+      "date": "?–1954",
+      "sortorder": 1
+    },
+    {
+      "description": "The Cleveland Museum of Art, Cleveland, OH",
+      "citations": [],
+      "footnotes": null,
+      "date": "1954–",
+      "sortorder": 2
+    }
+  ],
+  "find_spot": null,
+  "related_works": [],
+  "former_accession_numbers": [],
+  "did_you_know": null,
+  "early_education_description": null,
+  "artlens_description": null,
+  "description": "In the upper band, pilgrimage places in and around Nepal’s capital of Kathmandu are mapped and labeled with inscriptions in the Newari language. Below are scenes from the story of a king who ended a drought with the assistance of serpent deities and a Buddhist master. The king rides horseback at the lower left, and the serpent deities are the seated human figures with snake heads behind them. The white vase-shaped monument with pointed top, shown three times, is the Svayambhu Stupa, a sacred monument in Kathmandu dedicated to the Buddha Svayambhu.<br><br>Probably half of a complete banner, this piece hung in a monastic courtyard during annual festivals.",
+  "external_resources": {
+    "wikidata": [
+      "https://www.wikidata.org/wiki/Q60516576"
+    ],
+    "internet_archive": [
+      "https://archive.org/details/clevelandart-1954.788-temple-banner-with-p"
+    ]
+  },
+  "citations": [
+    {
+      "citation": "Slusser, Mary Shepherd. “Serpents, Sages, and Sorcerers in Cleveland.” <em>The Bulletin of the Cleveland Museum of Art</em>, vol. 66, no. 2, 1979, pp. 67–82.",
+      "page_number": "Mentioned and Reproduced: figs. 1, 2, 13-18",
+      "url": "www.jstor.org/stable/25159618"
+    }
+  ],
+  "url": "https://clevelandart.org/art/1954.788",
+  "images": {
+    "annotation": null,
+    "web": {
+      "url": "https://openaccess-cdn.clevelandart.org/1954.788/1954.788_web.jpg",
+      "width": "900",
+      "height": "274",
+      "filesize": "132246",
+      "filename": "1954.788_web.jpg"
+    },
+    "print": {
+      "url": "https://openaccess-cdn.clevelandart.org/1954.788/1954.788_print.jpg",
+      "width": "3400",
+      "height": "1036",
+      "filesize": "1315766",
+      "filename": "1954.788_print.jpg"
+    },
+    "full": {
+      "url": "https://openaccess-cdn.clevelandart.org/1954.788/1954.788_full.tif",
+      "width": "7629",
+      "height": "2324",
+      "filesize": "53219376",
+      "filename": "1954.788_full.tif"
+    }
+  },
+  "alternate_images": [],
+  "creditline": "Gift of Mrs. A. S. Ingalls",
+  "image_credit": null,
+  "sketchfab_id": null,
+  "sketchfab_url": null,
+  "gallery_donor_text": null,
+  "athena_id": 132305,
+  "creators": [],
+  "legal_status": "accessioned",
+  "accession_date": "1954-12-04T00:00:00",
+  "sortable_date": 1635,
+  "date_added_to_oa": null,
+  "date_text": "1635",
+  "collapse_artists": false,
+  "on_loan": false,
+  "recently_acquired": false,
+  "record_type": "object",
+  "conservation_statement": null,
+  "has_conservation_images": false,
+  "cover_accession_number": null,
+  "is_nazi_era_provenance": false,
+  "impression": null,
+  "alternate_titles": [
+    "Illustrations from Svayambhu-purana",
+    "Temple Banner with Pilgrimage Sites and Scenes from the Svayambhu-purana (Ancient Text of the Primordial Buddha)"
+  ],
+  "is_highlight": false,
+  "updated_at": "2026-08-27 18:46:07.103000"
+}
